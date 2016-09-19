@@ -1,0 +1,338 @@
+---
+id: 1972
+title: '[Security-announce] NEW &#8211; VMSA-2013-0002 VMware ESX, Workstation, Fusion, and View VMCI privilege'
+date: 2013-02-08T12:15:52+00:00
+author: Rick Scherer
+layout: post
+guid: http://vmwaretips.com/wp/?p=1972
+permalink: /2013/02/08/security-announce-new-vmsa-2013-0002-vmware-esx-workstation-fusion-and-view-vmci-privilege/
+ratings_users:
+  - 0
+ratings_score:
+  - 0
+ratings_average:
+  - 0
+views:
+  - 706
+categories:
+  - Alert
+tags:
+  - alert
+  - Bug
+  - patch
+  - support
+  - VMware
+---
+In our effort to provide our viewers with up to the minute information on VMware related news and topics, we’re posting the following Security Alert direct from the VMware Security Alert distribution.
+
+<!--more-->
+
+&#8211; &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;<wbr>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;<wbr>&#8212;&#8212;&#8212;&#8211;
+  
+VMware Security Advisory
+
+Advisory ID: VMSA-2013-0002
+  
+Synopsis: VMware ESX, Workstation, Fusion, and View VMCI privilege
+  
+escalation vulnerability
+  
+Issue date:  2013-02-07
+  
+Updated on:  2013-02-07 (initial advisory)
+  
+CVE numbers: CVE-2013-1406
+
+&#8211; &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;<wbr>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;<wbr>&#8212;&#8212;&#8212;&#8211;
+
+1. Summary
+
+VMware ESX, Workstation, Fusion, and View address a vulnerability in
+  
+the VMCI.SYS driver which could result in a privilege escalation
+  
+on Windows-based hosts and on Windows-based Guest Operating Systems.
+
+2. Relevant releases
+
+VMware Workstation 9.0
+  
+VMware Workstation 8.x prior to version 8.0.5
+
+VMware Fusion 5.x prior to version 5.0.2
+  
+VMware Fusion 4.x prior to version 4.1.4
+
+VMware View 5.x prior to version 5.1.2
+  
+VMware View 4.x prior to version 4.6.2
+
+VMware ESXi 5.1 without ESXi510-201212102-SG
+  
+VMware ESXi 5.0 without ESXi500-201212102-SG
+  
+VMware ESXi 4.1.without ESXi410-201211402-BG
+  
+VMware ESXi 4.0 without ESXi400-201302402-SG
+
+VMware ESX 4.1.without ESX410-201211401-SG
+  
+VMware ESX 4.0 without ESX400-201302401-SG
+
+3. Problem Description
+
+a. VMware VMCI privilege escalation
+
+VMware ESX, Workstation, Fusion, and View contain a vulnerability
+  
+in the handling of control code in vmci.sys. A local malicious
+  
+user may exploit this vulnerability to manipulate the memory
+  
+allocation through the Virtual Machine Communication Interface
+  
+(VMCI) code. This could result in a privilege escalation on
+  
+Windows-based hosts and on Windows-based Guest Operating Systems
+
+VMware would like to thank Derek Soeder of Cylance, Inc. and
+  
+Kostya Kortchinsky of Microsoft for independently reporting this
+  
+issue to us.
+
+The Common Vulnerabilities and Exposures project (<a href="http://cve.mitre.org/" target="_blank">cve.mitre.org</a>)
+  
+has assigned the names CVE-2013-1406 to this issue.
+
+Column 4 of the following table lists the action required to
+  
+remediate the vulnerability in each release, if a solution is
+  
+available.
+
+VMware          Product   Running   Replace with/
+  
+Product         Version   on        Apply Patch*
+  
+=============   =======   =======   =================
+  
+Workstation     9.x       Windows   9.0.1
+  
+Workstation     8.x       Windows   8.0.5
+
+Fusion          5.0       Mac OS/X  5.0.2
+  
+Fusion          4.1       Mac OS/X  4.1.4
+
+View            5.x       Windows   5.1.2
+  
+View            4.x       Windows   4.6.2
+
+ESXi            5.1       ESXi      ESXi510-201212102-SG
+  
+ESXi            5.0       ESXi      ESXi500-201212102-SG
+  
+ESXi            4.1       ESXi      ESXi410-201211402-BG
+  
+ESXi            4.0       ESXi      ESXi400-201302402-SG
+  
+ESXi            3.5       ESXi      not affected
+
+ESX             4.1       ESX       ESX410-201211401-SG
+  
+ESX             4.0       ESX       ESX400-201302401-SG
+  
+ESX             3.5       ESX       not affected
+
+* Notes on updating VMware Guest Tools:
+
+After the update or patch is applied, VMware Guest Tools must
+  
+be updated in any pre-existing Windows-based Guest Operating
+  
+System followed by a reboot of the guest system.
+
+4. Solution
+
+Please review the patch/release notes for your product and version
+  
+and verify the checksum of your downloaded file.
+
+VMware Workstation 9.0.1
+  
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
+  
+<a href="https://www.vmware.com/go/downloadworkstation" target="_blank">https://www.vmware.com/go/<wbr>downloadworkstation</wbr></a>
+  
+File: VMware-workstation-full-9.0.1-<wbr>894247.exe
+
+<a href="https://www.vmware.com/support/ws90/doc/workstation-901-release-notes.html" target="_blank">https://www.vmware.com/<wbr>support/ws90/doc/workstation-<wbr>901-release-notes.html</wbr></wbr></a>
+
+VMware Workstation 8.0.5
+  
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
+  
+<a href="https://www.vmware.com/go/downloadworkstation" target="_blank">https://www.vmware.com/go/<wbr>downloadworkstation</wbr></a>
+  
+File: VMware-workstation-full-8.0.5-<wbr>893925.exe
+
+<a href="https://www.vmware.com/support/ws80/doc/releasenotes_workstation_805.html" target="_blank">https://www.vmware.com/<wbr>support/ws80/doc/releasenotes_<wbr>workstation_805.html</wbr></wbr></a>
+
+VMware Fusion 5.0.2
+  
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
+  
+File: VMware-Fusion-5.0.2-900491.dmg
+  
+<a href="https://www.vmware.com/support/fusion5/doc/fusion-502-release-notes.html" target="_blank">https://www.vmware.com/<wbr>support/fusion5/doc/fusion-<wbr>502-release-notes.html</wbr></wbr></a>
+
+VMware Fusion 4.1.4
+  
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
+  
+File: VMware-Fusion-4.1.4-900582-<wbr>light.dmg
+  
+<a href="https://www.vmware.com/support/fusion4/doc/releasenotes_fusion_414.html" target="_blank">https://www.vmware.com/<wbr>support/fusion4/doc/<wbr>releasenotes_fusion_414.html</wbr></wbr></a>
+
+View 5.1.2
+  
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
+
+<a href="https://my.vmware.com/web/vmware/info/slug/desktop_end_user_computing/vmware_view/5_1" target="_blank">https://my.vmware.com/web/<wbr>vmware/info/slug/desktop_end_<wbr>user_computing/vmwar<br /> e_view/5_1</wbr></wbr></a>
+
+Release Notes
+  
+<a href="https://www.vmware.com/support/view51/doc/view-512-release-notes.html" target="_blank">https://www.vmware.com/<wbr>support/view51/doc/view-512-<wbr>release-notes.html</wbr></wbr></a>
+
+VMware View Connection Server (32-bit)
+  
+VMware-viewconnectionserver-5.<wbr>1.2-912971.exe
+
+VMware View Connection Server (64-bit)
+  
+VMware-viewconnectionserver-<wbr>x86_64-5.1.2-912971.exe
+
+View 4.6.2
+  
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
+  
+<a href="http://downloads.vmware.com/d/info/desktop_downloads/vmware_view/4_6" target="_blank">http://downloads.vmware.com/d/<wbr>info/desktop_downloads/vmware_<wbr>view/4_6</wbr></wbr></a>
+  
+Release Notes
+  
+<a href="https://www.vmware.com/support/view46/doc/view-462-release-notes.html" target="_blank">https://www.vmware.com/<wbr>support/view46/doc/view-462-<wbr>release-notes.html</wbr></wbr></a>
+
+VMware View Connection Server (32-bit)
+  
+VMware-viewconnectionserver-4.<wbr>6.2-916912.exe
+
+VMware View Connection Server (64-bit)
+  
+VMware-viewconnectionserver-<wbr>x86_64-4.6.2-916912.exe
+
+ESXi and ESX
+  
+&#8212;&#8212;&#8212;&#8212;
+  
+<a href="https://www.vmware.com/patchmgr/download.portal" target="_blank">https://www.vmware.com/<wbr>patchmgr/download.portal</wbr></a>
+
+ESXi 5.1
+  
+&#8212;&#8212;&#8211;
+  
+File: ESXi510-201212001.zip
+  
+md5sum: 81d562c00942973f13520afac48687<wbr>48
+  
+sha1sum: ec1ff6d3e3c9b127252ba1b710c741<wbr>19f1164786
+  
+<a href="http://kb.vmware.com/kb/2035775" target="_blank">http://kb.vmware.com/kb/<wbr>2035775</wbr></a>
+  
+ESXi510-201212001 contains ESXi510-201212102-SG
+
+ESXi 5.0
+  
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
+  
+File: update-from-esxi5.0-5.0_<wbr>update02.zip
+  
+md5sum: ab8f7f258932a39f7d3e7877787fd1<wbr>98
+  
+sha1sum: b65bacab4e38cf144e223cff477050<wbr>1b5bd23334
+  
+<a href="http://kb.vmware.com/kb/2033751" target="_blank">http://kb.vmware.com/kb/<wbr>2033751</wbr></a>
+  
+update-from-esxi5.0-5.0_<wbr>update02.zip contains ESXi500-201212102-SG
+
+ESXi 4.1
+  
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
+  
+File: ESXi410-201211001.zip
+  
+md5sum: f7da5cd52d3c314abc31fe7aef4e50<wbr>d3
+  
+sha1sum: a4d2232723717d896ff3b0879b0bdb<wbr>3db823c0a1
+  
+<a href="http://kb.vmware.com/kb/2036257" target="_blank">http://kb.vmware.com/kb/<wbr>2036257</wbr></a>
+  
+ESXi410-201211001 contains ESXi410-201211402-BG
+
+ESXi 4.0
+  
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
+  
+File: ESXi400-201302001.zip
+  
+md5sum: 8fca17ca97669dd1d34c34902e8e7d<wbr>df
+  
+sha1sum: 51d76922eb7116810622acdd611f30<wbr>29237a5680
+  
+<a href="http://kb.vmware.com/kb/2041344" target="_blank">http://kb.vmware.com/kb/<wbr>2041344</wbr></a>
+  
+ESXi400-201302001 contains ESXi400-201302402-SG
+
+ESX 4.1
+  
+&#8212;&#8212;&#8211;
+  
+File: ESX410-201211001.zip
+  
+md5sum: c167bccc388661e329fc494df13855<wbr>c3
+  
+sha1sum: a8766b2eff68813a262d21a6a6ebea<wbr>ae62e58c98
+  
+<a href="http://kb.vmware.com/kb/2036254" target="_blank">http://kb.vmware.com/kb/<wbr>2036254</wbr></a>
+  
+ESX410-201211001 contains ESX410-201211401-SG
+
+ESX 4.0
+  
+&#8212;&#8212;&#8211;
+  
+File: ESX400-201302001.zip
+  
+md5sum: 5ca4276e97c19b832d778e17e5f4ba<wbr>64
+  
+sha1sum: 8d73cf062d8b23bd23f9b85d23f97f<wbr>2888e4612f
+  
+<a href="http://kb.vmware.com/kb/2041343" target="_blank">http://kb.vmware.com/kb/<wbr>2041343</wbr></a>
+  
+ESX400-201302001 contains ESX400-201302401-SG
+
+5. References
+
+<a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-1406" target="_blank">http://cve.mitre.org/cgi-bin/<wbr>cvename.cgi?name=CVE-2013-1406</wbr></a>
+
+&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;<wbr>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;<wbr>&#8212;&#8212;&#8212;&#8211;
+
+6. Change log
+
+2013-02-07 VMSA-2013-0002
+  
+Initial security advisory in conjunction with the release of
+  
+ESX 4.0 patches on 2013-02-07
+  
+</wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr></wbr>
