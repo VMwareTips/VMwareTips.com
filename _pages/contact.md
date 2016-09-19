@@ -3,7 +3,7 @@ id: 336
 title: Contact
 date: 2008-12-11T16:45:38+00:00
 author: Rick Scherer
-layout: page
+layout: single
 guid: http://vmwaretips.com/wp/?page_id=336
 permalink: /contact
 views:

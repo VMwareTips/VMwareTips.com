@@ -33,19 +33,19 @@ Actually this is not that difficult, but remember you will require console acces
 
 <!--more-->
 
-  1. First we need to remove the old IP, the easiest way is to delete the vswif interface 
-      * esxcfg-vswif -d vswif0 
+  1. First we need to remove the old IP, the easiest way is to delete the vswif interface
+      * esxcfg-vswif -d vswif0
           * replace vswif0 with the interface you&#8217;d like to remove
-  2. Then we need to create a new vswif interface with our new IP address 
-      * esxcfg-vswif -a vswif0 -p Service\ Console -i 10.1.1.1 -n 255.255.255.0 -b 10.1.1.255 
+  2. Then we need to create a new vswif interface with our new IP address
+      * esxcfg-vswif -a vswif0 -p Service\ Console -i 10.1.1.1 -n 255.255.255.0 -b 10.1.1.255
           * replace vswif0 with the interface you&#8217;d like to use
           * replace Service\ Console with the name of your Service Console portgroup (this is the default)
           * -i reflects your new IP
           * -n reflects your subnet
           * -b reflects your broadcast
-  3. Now we need to update our default gateway 
+  3. Now we need to update our default gateway
       * This is a simple change to the /etc/sysconfig/network file
-  4. One last thing you&#8217;ll want to do after changing your gateway is reset the vswif interface, this will ensure it is connected as well as generate the new default gateway. 
+  4. One last thing you&#8217;ll want to do after changing your gateway is reset the vswif interface, this will ensure it is connected as well as generate the new default gateway.
       * esxcfg-vswif -s vswif0 (this will disable the vswif0 interface)
       * esxcfg-vswif -e vswif0 (this will enable the vswif0 interface)
 
