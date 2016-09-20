@@ -2,7 +2,7 @@
 id: 1709
 title: 'VMware Security Alert &#8211; [Security-announce] UPDATED VMSA-2012-0003.1 VMware VirtualCenter Update and ESX 3.5 patch update JRE'
 date: 2012-09-15T16:07:26+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1709
 permalink: /2012/09/15/vmware-security-alert-security-announce-updated-vmsa-2012-0003-1-vmware-virtualcenter-update-and-esx-3-5-patch-update-jre-2/

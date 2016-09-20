@@ -2,7 +2,7 @@
 id: 330
 title: VMware VCDX Enterprise Administration Exam
 date: 2008-12-09T17:16:03+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=330
 permalink: /2008/12/09/vmware-vcdx-enterprise-administration-exam/

@@ -2,7 +2,7 @@
 id: 249
 title: 'Product Review : Vizioncore vFoglight'
 date: 2008-10-30T14:46:35+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=249
 permalink: /2008/10/30/product-review-vizioncore-vfoglight/

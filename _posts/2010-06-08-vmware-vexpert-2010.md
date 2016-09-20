@@ -2,7 +2,7 @@
 id: 1179
 title: VMware vExpert 2010
 date: 2010-06-08T08:02:10+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1179
 permalink: /2010/06/08/vmware-vexpert-2010/

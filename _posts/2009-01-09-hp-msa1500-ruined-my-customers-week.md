@@ -2,7 +2,7 @@
 id: 457
 title: HP MSA1500 Ruined My Customers Week
 date: 2009-01-09T22:46:31+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=457
 permalink: /2009/01/09/hp-msa1500-ruined-my-customers-week/

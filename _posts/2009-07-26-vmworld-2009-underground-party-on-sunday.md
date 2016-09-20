@@ -2,7 +2,7 @@
 id: 931
 title: VMworld 2009 Underground Party on Sunday
 date: 2009-07-26T11:39:56+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=931
 permalink: /2009/07/26/vmworld-2009-underground-party-on-sunday/

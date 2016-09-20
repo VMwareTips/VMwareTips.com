@@ -2,7 +2,7 @@
 id: 1355
 title: vmware 2011 Mega Launch
 date: 2011-07-12T09:00:54+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1355
 permalink: /2011/07/12/vmware-2011-mega-launch/

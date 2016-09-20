@@ -2,7 +2,7 @@
 id: 885
 title: 'VMware vSphere 4 &#8211; Enterprise Plus &#8211; 2 Month SnS'
 date: 2009-06-25T16:55:29+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=885
 permalink: /2009/06/25/vmware-vsphere-4-enterprise-plus-2-month-sns/

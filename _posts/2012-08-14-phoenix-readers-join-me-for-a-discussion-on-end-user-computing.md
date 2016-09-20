@@ -2,7 +2,7 @@
 id: 1550
 title: 'Phoenix Readers &#8211; Join Me for a Discussion on End User Computing'
 date: 2012-08-14T17:22:33+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1550
 permalink: /2012/08/14/phoenix-readers-join-me-for-a-discussion-on-end-user-computing/

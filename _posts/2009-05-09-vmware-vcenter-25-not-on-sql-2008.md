@@ -2,7 +2,7 @@
 id: 778
 title: 'VMware vCenter 2.5 -NOT- on SQL 2008'
 date: 2009-05-09T12:49:59+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=778
 permalink: /2009/05/09/vmware-vcenter-25-not-on-sql-2008/

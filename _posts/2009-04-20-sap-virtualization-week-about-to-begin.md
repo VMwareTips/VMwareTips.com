@@ -2,7 +2,7 @@
 id: 740
 title: SAP Virtualization Week is About to Begin
 date: 2009-04-20T10:23:21+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=740
 permalink: /2009/04/20/sap-virtualization-week-about-to-begin/

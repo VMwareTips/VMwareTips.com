@@ -2,7 +2,7 @@
 id: 2159
 title: vCloud Director and vCloud Networking and Security Product Update
 date: 2013-09-04T09:43:22+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2159
 permalink: /2013/09/04/vcloud-director-and-vcloud-networking-and-security-product-update/

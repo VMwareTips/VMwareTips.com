@@ -2,7 +2,7 @@
 id: 800
 title: VMware vSphere is Available for Download
 date: 2009-05-21T11:50:47+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=800
 permalink: /2009/05/21/vmware-vsphere-is-available-for-download/

@@ -2,7 +2,7 @@
 id: 562
 title: 5000 Virtual Desktops using 10GB Storage in Minutes
 date: 2009-02-05T23:42:07+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=562
 permalink: /2009/02/05/5000-virtual-desktops-in-minutes/

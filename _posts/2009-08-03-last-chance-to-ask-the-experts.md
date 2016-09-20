@@ -2,7 +2,7 @@
 id: 952
 title: Last Chance to Ask the Experts
 date: 2009-08-03T22:20:56+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=952
 permalink: /2009/08/03/last-chance-to-ask-the-experts/

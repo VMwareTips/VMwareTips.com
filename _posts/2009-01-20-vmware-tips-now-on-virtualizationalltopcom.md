@@ -2,7 +2,7 @@
 id: 498
 title: VMwareTips.com Now On virtualization.alltop.com
 date: 2009-01-20T10:00:31+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=498
 permalink: /2009/01/20/vmware-tips-now-on-virtualizationalltopcom/

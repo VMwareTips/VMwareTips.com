@@ -2,7 +2,7 @@
 id: 899
 title: 'Burton Group &#8211; Catalyst Conference 2009'
 date: 2009-07-06T17:28:14+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=899
 permalink: /2009/07/06/burton-group-catalyst-conference-2009/

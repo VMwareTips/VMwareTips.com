@@ -2,7 +2,7 @@
 id: 1233
 title: 'Advisory &#8211; ESX 4.1 + HP FLEX-10 + Broadcom bnx2x = Bad News'
 date: 2010-11-11T13:39:50+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1233
 permalink: /2010/11/11/advisory-esx-41-hp-flex-10-broadcom-bnx2x-bad-news/

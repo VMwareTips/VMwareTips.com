@@ -2,7 +2,7 @@
 id: 9
 title: 'EA1562 &#8211; Virtualizing SAP'
 date: 2008-09-12T08:33:51+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=9
 permalink: /2008/09/12/ea1562-virtualizing-sap/

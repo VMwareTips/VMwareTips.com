@@ -2,7 +2,7 @@
 id: 1807
 title: Win Access to VMworld 2012 Sessions
 date: 2012-10-27T09:30:56+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1807
 permalink: /2012/10/27/win-access-to-vmworld-2012-sessions/

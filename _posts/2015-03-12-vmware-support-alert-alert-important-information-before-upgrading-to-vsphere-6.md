@@ -2,7 +2,7 @@
 id: 2628
 title: 'VMware Support Alert &#8211; ALERT: Important Information Before Upgrading to vSphere 6'
 date: 2015-03-12T09:32:46+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2628
 permalink: /2015/03/12/vmware-support-alert-alert-important-information-before-upgrading-to-vsphere-6/

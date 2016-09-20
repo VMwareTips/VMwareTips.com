@@ -2,7 +2,7 @@
 id: 2727
 title: 'VMware Support Alert &#8211; ALERT: When removing CPU from VM configuration hard disks and nic are removed'
 date: 2015-07-08T09:04:48+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2727
 permalink: /2015/07/08/vmware-support-alert-alert-when-removing-cpu-from-vm-configuration-hard-disks-and-nic-are-removed/

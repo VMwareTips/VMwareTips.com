@@ -2,7 +2,7 @@
 id: 879
 title: 'Run it with VMware &#8211; Video Contest'
 date: 2009-06-16T07:52:56+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=879
 permalink: /2009/06/16/run-it-with-vmware-video-contest/

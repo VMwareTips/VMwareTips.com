@@ -2,7 +2,7 @@
 id: 913
 title: 'VCP4 Beta Exam &#8211; Complete!'
 date: 2009-07-08T19:28:53+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=913
 permalink: /2009/07/08/vcp4-beta-exam-complete/

@@ -2,7 +2,7 @@
 id: 1977
 title: Desktop Virtualization Solutions Architect / Dallas, TX or San Jose, CA
 date: 2013-02-13T09:01:56+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1977
 permalink: /2013/02/13/desktop-virtualization-solutions-architect-dallas-tx-or-san-jose-ca/

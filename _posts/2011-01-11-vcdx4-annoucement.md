@@ -2,7 +2,7 @@
 id: 1256
 title: VCDX4 Annoucement
 date: 2011-01-11T19:00:46+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1256
 permalink: /2011/01/11/vcdx4-annoucement/

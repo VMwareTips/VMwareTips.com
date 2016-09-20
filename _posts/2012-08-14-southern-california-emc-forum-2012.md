@@ -2,7 +2,7 @@
 id: 1557
 title: Southern California EMC Forum 2012
 date: 2012-08-14T17:35:26+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1557
 permalink: /2012/08/14/southern-california-emc-forum-2012/

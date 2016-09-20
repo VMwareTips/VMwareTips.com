@@ -2,7 +2,7 @@
 id: 756
 title: Congratulations to our Winners!
 date: 2009-04-21T17:48:25+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=756
 permalink: /2009/04/21/congratulations-to-our-winners/

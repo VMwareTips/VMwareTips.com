@@ -2,7 +2,7 @@
 id: 2140
 title: 'VMware KB Digest &#8211; New KB articles published for week ending 8/24/13'
 date: 2013-08-26T12:34:14+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2140
 permalink: /2013/08/26/vmware-kb-digest-new-kb-articles-published-for-week-ending-82413/

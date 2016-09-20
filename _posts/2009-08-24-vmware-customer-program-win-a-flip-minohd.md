@@ -2,7 +2,7 @@
 id: 979
 title: 'VMware Customer Program &#8211; Win a Flip MinoHD'
 date: 2009-08-24T14:18:01+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=979
 permalink: /2009/08/24/vmware-customer-program-win-a-flip-minohd/

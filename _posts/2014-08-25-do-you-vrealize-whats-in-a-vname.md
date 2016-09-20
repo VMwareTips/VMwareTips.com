@@ -2,7 +2,7 @@
 id: 2474
 title: 'Do You vRealize What&#8217;s in a vName?'
 date: 2014-08-25T06:51:19+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2474
 permalink: /2014/08/25/do-you-vrealize-whats-in-a-vname/

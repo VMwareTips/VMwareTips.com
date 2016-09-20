@@ -2,7 +2,7 @@
 id: 2068
 title: 'VMware KB Digest &#8211; New Articles Published for Week Ending 6/8/13'
 date: 2013-06-10T07:34:24+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2068
 permalink: /2013/06/10/vmware-kb-digest-new-articles-published-for-week-ending-6813/

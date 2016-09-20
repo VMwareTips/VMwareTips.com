@@ -2,7 +2,7 @@
 id: 2976
 title: 'NEW VMSA-2016-0003 &#8211; VMware vRealize Automation and vRealize Business Advanced and Enterprise address Cross-Site Scripting (XSS) issues'
 date: 2016-03-15T12:40:18+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2976
 permalink: /2016/03/15/security-announce-new-vmsa-2016-0003-vmware-vrealize-automation-and-vrealize-business-advanced-and-enterprise-address-cross-site-scripting-xss-issues/

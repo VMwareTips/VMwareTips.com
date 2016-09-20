@@ -2,7 +2,7 @@
 id: 494
 title: VMwareTips.com Goes Mobile!
 date: 2009-01-18T23:20:22+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=494
 permalink: /2009/01/18/vmwaretipscom-goes-mobile/

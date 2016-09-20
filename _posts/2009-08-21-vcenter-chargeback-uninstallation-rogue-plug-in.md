@@ -2,7 +2,7 @@
 id: 974
 title: 'vCenter Chargeback Uninstallation &#8211; Rogue Plug-in'
 date: 2009-08-21T15:11:44+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=974
 permalink: /2009/08/21/vcenter-chargeback-uninstallation-rogue-plug-in/

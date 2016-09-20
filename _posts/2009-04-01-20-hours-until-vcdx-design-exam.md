@@ -2,7 +2,7 @@
 id: 667
 title: 20 Hours Until VCDX Design Exam
 date: 2009-04-01T16:26:30+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=667
 permalink: /2009/04/01/20-hours-until-vcdx-design-exam/

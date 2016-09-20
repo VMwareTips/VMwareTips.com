@@ -2,7 +2,7 @@
 id: 292
 title: NetApp Customer Success Story
 date: 2008-11-25T13:00:04+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=292
 permalink: /2008/11/25/netapp-customer-success-story/

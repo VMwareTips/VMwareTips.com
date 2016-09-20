@@ -2,7 +2,7 @@
 id: 373
 title: Hyper-V vs. VMware = Monday Debate
 date: 2008-12-15T17:23:29+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=373
 permalink: /2008/12/15/hyper-v-vs-vmware-monday-debate/

@@ -2,7 +2,7 @@
 id: 1931
 title: Thomson Reuters-System Engineer-TR1JP00012146-Broadway , NY
 date: 2013-01-10T11:01:17+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1931
 permalink: /2013/01/10/thomson-reuters-system-engineer-tr1jp00012146-broadway-ny/

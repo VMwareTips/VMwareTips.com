@@ -2,7 +2,7 @@
 id: 1894
 title: '[Security-announce] UPDATED VMSA-2012-0013.2 VMware vSphere and vCOps updates to third party libraries'
 date: 2012-12-20T23:59:52+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1894
 permalink: /2012/12/20/security-announce-updated-vmsa-2012-0013-2-vmware-vsphere-and-vcops-updates-to-third-party-libraries/

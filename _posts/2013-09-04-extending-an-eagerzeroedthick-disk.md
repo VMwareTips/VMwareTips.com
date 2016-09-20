@@ -2,7 +2,7 @@
 id: 2161
 title: Extending an EagerZeroedThick Disk
 date: 2013-09-04T09:50:55+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2161
 permalink: /2013/09/04/extending-an-eagerzeroedthick-disk/

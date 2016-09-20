@@ -2,7 +2,7 @@
 id: 894
 title: Invitation to the VMware Certified Professional on vSphere 4 Beta Exam
 date: 2009-07-02T05:17:19+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=894
 permalink: /2009/07/02/invitation-to-the-vmware-certified-professional-on-vsphere-4-beta-exam/

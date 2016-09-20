@@ -2,7 +2,7 @@
 id: 3223
 title: '[Security-announce] Updated VMSA-2016-0010.1- VMware product updates address multiple important security issues'
 date: 2016-09-19T12:24:43+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=3223
 permalink: /2016/09/19/security-announce-updated-vmsa-2016-0010-1-vmware-product-updates-address-multiple-important-security-issues/

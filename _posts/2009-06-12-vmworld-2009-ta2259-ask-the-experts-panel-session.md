@@ -2,7 +2,7 @@
 id: 876
 title: 'VMworld 2009 &#8211; TA2259 Ask the Experts Panel Session'
 date: 2009-06-12T13:43:59+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=876
 permalink: /2009/06/12/vmworld-2009-ta2259-ask-the-experts-panel-session/

@@ -2,7 +2,7 @@
 id: 1230
 title: VMware VCAP4-DCD BETA Exam Experience
 date: 2010-11-11T13:30:42+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1230
 permalink: /2010/11/11/vmware-vcap4-dcd-beta-exam-experience/

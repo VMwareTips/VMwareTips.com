@@ -2,7 +2,7 @@
 id: 1079
 title: Microsoft Exchange Server 2010 Released Today
 date: 2009-11-09T11:14:19+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1079
 permalink: /2009/11/09/microsoft-exchange-server-2010-released-today/

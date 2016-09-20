@@ -2,7 +2,7 @@
 id: 459
 title: 'Issue: VMware ESX/ESXi SAN I/O Failure'
 date: 2009-01-12T22:07:25+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=459
 permalink: /2009/01/12/issue-vmware-esxesxi-san-io-failure/

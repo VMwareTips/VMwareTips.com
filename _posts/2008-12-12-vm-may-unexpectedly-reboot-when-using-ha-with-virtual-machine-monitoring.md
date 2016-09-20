@@ -2,7 +2,7 @@
 id: 348
 title: VM may unexpectedly reboot when using HA with Virtual Machine Monitoring
 date: 2008-12-12T14:08:32+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=348
 permalink: /2008/12/12/vm-may-unexpectedly-reboot-when-using-ha-with-virtual-machine-monitoring/

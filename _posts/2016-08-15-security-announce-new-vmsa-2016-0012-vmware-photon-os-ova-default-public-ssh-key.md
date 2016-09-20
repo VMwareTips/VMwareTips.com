@@ -2,7 +2,7 @@
 id: 3146
 title: 'NEW VMSA-2016-0012 &#8211; VMware Photon OS OVA default public ssh key'
 date: 2016-08-15T23:22:41+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=3146
 permalink: /2016/08/15/security-announce-new-vmsa-2016-0012-vmware-photon-os-ova-default-public-ssh-key/

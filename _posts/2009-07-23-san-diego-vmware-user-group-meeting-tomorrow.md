@@ -2,7 +2,7 @@
 id: 929
 title: San Diego VMware User Group Meeting Tomorrow
 date: 2009-07-23T19:38:44+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=929
 permalink: /2009/07/23/san-diego-vmware-user-group-meeting-tomorrow/

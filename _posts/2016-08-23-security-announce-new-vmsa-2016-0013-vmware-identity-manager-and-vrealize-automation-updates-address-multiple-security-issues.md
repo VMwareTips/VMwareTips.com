@@ -2,7 +2,7 @@
 id: 3159
 title: 'NEW VMSA-2016-0013 &#8211; VMware Identity Manager and vRealize Automation updates address multiple security issues'
 date: 2016-08-23T19:28:26+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=3159
 permalink: /2016/08/23/security-announce-new-vmsa-2016-0013-vmware-identity-manager-and-vrealize-automation-updates-address-multiple-security-issues/

@@ -2,7 +2,7 @@
 id: 1810
 title: 'VMware Support Alert &#8211; Implementing CA signed SSL certificates with vSphere 5.1'
 date: 2012-10-31T14:05:42+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1810
 permalink: /2012/10/31/vmware-support-alert-implementing-ca-signed-ssl-certificates-with-vsphere-5-1/

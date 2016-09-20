@@ -2,7 +2,7 @@
 id: 1720
 title: 'VMware Security Alert &#8211; [Security-announce] UPDATED VMSA-2012-0012.2 VMware ESXi update to third party library'
 date: 2012-09-16T21:16:17+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1720
 permalink: /2012/09/16/vmware-security-alert-security-announce-updated-vmsa-2012-0012-2-vmware-esxi-update-to-third-party-library/

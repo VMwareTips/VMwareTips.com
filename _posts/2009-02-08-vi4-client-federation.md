@@ -2,7 +2,7 @@
 id: 564
 title: VI4 Client Federation
 date: 2009-02-08T11:41:12+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=564
 permalink: /2009/02/08/vi4-client-federation/

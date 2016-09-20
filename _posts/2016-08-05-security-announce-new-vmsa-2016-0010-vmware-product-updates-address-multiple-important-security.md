@@ -2,7 +2,7 @@
 id: 3111
 title: 'New VMSA-2016-0010 &#8211; VMware product updates address multiple important security'
 date: 2016-08-05T01:57:01+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=3111
 permalink: /2016/08/05/security-announce-new-vmsa-2016-0010-vmware-product-updates-address-multiple-important-security/

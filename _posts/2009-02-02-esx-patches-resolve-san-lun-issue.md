@@ -2,7 +2,7 @@
 id: 527
 title: 'ESX Patches &#8211; Resolve SAN LUN Issue'
 date: 2009-02-02T16:53:05+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=527
 permalink: /2009/02/02/esx-patches-resolve-san-lun-issue/

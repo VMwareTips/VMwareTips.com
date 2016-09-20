@@ -2,7 +2,7 @@
 id: 1880
 title: VMware Engineer in Malvern, PA
 date: 2012-12-13T13:18:37+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1880
 permalink: /2012/12/13/vmware-engineer-in-malvern-pa/

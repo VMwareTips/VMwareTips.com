@@ -2,7 +2,7 @@
 id: 1031
 title: Cisco Nexus 1000V Beta (Upgrade Spoiler!)
 date: 2009-09-21T23:38:07+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1031
 permalink: /2009/09/21/cisco-nexus-1000v-beta-upgrade-spoiler/

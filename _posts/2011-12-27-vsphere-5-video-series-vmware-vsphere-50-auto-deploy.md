@@ -2,7 +2,7 @@
 id: 1459
 title: 'vSphere 5 Video Series &#8211; VMware vSphere 5.0 Auto Deploy'
 date: 2011-12-27T14:58:55+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1459
 permalink: /2011/12/27/vsphere-5-video-series-vmware-vsphere-50-auto-deploy/

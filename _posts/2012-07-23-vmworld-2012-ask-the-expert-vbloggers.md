@@ -2,7 +2,7 @@
 id: 1503
 title: 'VMworld 2012 &#8211; INF-VSP1504 &#8211; Ask the Expert vBloggers'
 date: 2012-07-23T14:28:49+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1503
 permalink: /2012/07/23/vmworld-2012-ask-the-expert-vbloggers/

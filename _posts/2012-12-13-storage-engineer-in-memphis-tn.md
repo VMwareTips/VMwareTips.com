@@ -2,7 +2,7 @@
 id: 1876
 title: Storage Engineer in Memphis, TN
 date: 2012-12-13T13:16:40+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1876
 permalink: /2012/12/13/storage-engineer-in-memphis-tn/

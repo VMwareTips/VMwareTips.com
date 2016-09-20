@@ -2,7 +2,7 @@
 id: 925
 title: VMworld 2009 Sessions Scheduled
 date: 2009-07-23T12:06:12+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=925
 permalink: /2009/07/23/vmworld-2009-sessions-scheduled/

@@ -2,7 +2,7 @@
 id: 391
 title: Someone unwrapped their present from Veeam
 date: 2008-12-18T12:14:44+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=391
 permalink: /2008/12/18/someone-unwrapped-their-present-from-veeam/

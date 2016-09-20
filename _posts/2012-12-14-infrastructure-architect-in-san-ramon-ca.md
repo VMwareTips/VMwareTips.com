@@ -2,7 +2,7 @@
 id: 1882
 title: Infrastructure Architect in San Ramon, CA
 date: 2012-12-14T19:03:08+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1882
 permalink: /2012/12/14/infrastructure-architect-in-san-ramon-ca/

@@ -2,7 +2,7 @@
 id: 670
 title: 'VCDX Design Exam &#8211; Complete'
 date: 2009-04-02T20:31:47+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=670
 permalink: /2009/04/02/vcdx-design-exam-complete/

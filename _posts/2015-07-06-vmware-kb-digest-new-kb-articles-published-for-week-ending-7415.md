@@ -2,7 +2,7 @@
 id: 2725
 title: 'VMware KB Digest &#8211; New KB articles published for week ending 7/4/15'
 date: 2015-07-06T06:54:13+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2725
 permalink: /2015/07/06/vmware-kb-digest-new-kb-articles-published-for-week-ending-7415/

@@ -2,7 +2,7 @@
 id: 628
 title: VMware vCenter 2.5 U4 Released
 date: 2009-02-27T07:09:57+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=628
 permalink: /2009/02/27/vmware-vcenter-25-u4-released/

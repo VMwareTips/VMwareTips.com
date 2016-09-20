@@ -2,7 +2,7 @@
 id: 2317
 title: 'VMware Support Alert &#8211; ALERT: vCAC 6.0.x tenants become inaccessible and identity stores disappear'
 date: 2014-04-18T11:43:15+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2317
 permalink: /2014/04/18/vmware-support-alert-alert-vcac-6-0-x-tenants-become-inaccessible-and-identity-stores-disappear/

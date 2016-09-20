@@ -2,7 +2,7 @@
 id: 2800
 title: 'VMworld Day 2 &#8211; Quick Review'
 date: 2015-09-03T01:46:10+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2800
 permalink: /2015/09/03/vmworld-day-2-quick-review/

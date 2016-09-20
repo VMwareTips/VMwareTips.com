@@ -2,7 +2,7 @@
 id: 1323
 title: Thinapped vSphere Client
 date: 2011-04-11T17:09:54+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1323
 permalink: /2011/04/11/thinapped-vsphere-client/

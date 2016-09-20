@@ -2,7 +2,7 @@
 id: 1898
 title: 'VMware Support Alert &#8211; ALERT: Upgrading to View Agent 5.1.2 can result in performance issues'
 date: 2012-12-21T06:32:34+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1898
 permalink: /2012/12/21/vmware-support-alert-alert-upgrading-to-view-agent-5-1-2-can-result-in-performance-issues/

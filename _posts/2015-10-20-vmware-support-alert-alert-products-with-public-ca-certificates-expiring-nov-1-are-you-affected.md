@@ -2,7 +2,7 @@
 id: 2835
 title: 'VMware Support Alert &#8211; ALERT: Products with public CA certificates expiring Nov.1 | Are you affected?'
 date: 2015-10-20T08:59:24+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2835
 permalink: /2015/10/20/vmware-support-alert-alert-products-with-public-ca-certificates-expiring-nov-1-are-you-affected/

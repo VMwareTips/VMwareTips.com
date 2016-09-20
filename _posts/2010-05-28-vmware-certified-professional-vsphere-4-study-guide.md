@@ -2,7 +2,7 @@
 id: 1169
 title: VMware Certified Professional vSphere 4 Study Guide
 date: 2010-05-28T09:00:19+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1169
 permalink: /2010/05/28/vmware-certified-professional-vsphere-4-study-guide/

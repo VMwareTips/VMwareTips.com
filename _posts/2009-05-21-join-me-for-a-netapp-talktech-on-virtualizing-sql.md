@@ -2,7 +2,7 @@
 id: 804
 title: Join Me for a NetApp TalkTech on Virtualizing SQL
 date: 2009-05-21T17:16:38+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=804
 permalink: /2009/05/21/join-me-for-a-netapp-talktech-on-virtualizing-sql/

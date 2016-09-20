@@ -2,7 +2,7 @@
 id: 2173
 title: 'VMware Support Alert &#8211; ALERT: Cannot upload log files using Support Assistant'
 date: 2013-09-16T19:30:49+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2173
 permalink: /2013/09/16/vmware-support-alert-alert-cannot-upload-log-files-using-support-assistant/

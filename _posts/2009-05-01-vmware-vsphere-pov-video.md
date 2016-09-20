@@ -2,7 +2,7 @@
 id: 768
 title: VMware vSphere Launch POV Video
 date: 2009-05-01T14:57:39+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=768
 permalink: /2009/05/01/vmware-vsphere-pov-video/

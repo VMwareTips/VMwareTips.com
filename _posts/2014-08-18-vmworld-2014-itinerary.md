@@ -2,7 +2,7 @@
 id: 2417
 title: VMworld 2014 Itinerary
 date: 2014-08-18T12:59:11+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2417
 permalink: /2014/08/18/vmworld-2014-itinerary/

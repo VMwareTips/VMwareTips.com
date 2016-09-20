@@ -2,7 +2,7 @@
 id: 1098
 title: Pre-Order VMware vSphere 4 Administration Instant Reference
 date: 2009-12-09T08:33:52+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1098
 permalink: /2009/12/09/pre-order-vmware-vsphere-4-administration-instant-reference/

@@ -2,7 +2,7 @@
 id: 1085
 title: VMware vSphere 4.0 Update 1 Released
 date: 2009-11-25T11:10:27+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1085
 permalink: /2009/11/25/vmware-vsphere-40-update-1-released/

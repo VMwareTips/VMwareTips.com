@@ -2,7 +2,7 @@
 id: 653
 title: VMware vCenter Mobile Access
 date: 2009-03-20T16:16:32+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=653
 permalink: /2009/03/20/vmware-vcenter-mobile-access/

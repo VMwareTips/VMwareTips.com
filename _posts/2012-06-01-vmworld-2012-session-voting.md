@@ -2,7 +2,7 @@
 id: 1485
 title: VMworld 2012 Session Voting
 date: 2012-06-01T12:51:18+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1485
 permalink: /2012/06/01/vmworld-2012-session-voting/

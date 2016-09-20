@@ -2,7 +2,7 @@
 id: 605
 title: NetApp Battles the Competition
 date: 2009-02-25T15:36:23+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=605
 permalink: /2009/02/25/netapp-battles-the-competition/

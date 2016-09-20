@@ -2,7 +2,7 @@
 id: 2933
 title: 'VMware Support Alert &#8211; ALERT: vRealize Automation patch to prevent potential data loss when using bulk import'
 date: 2016-02-11T18:01:49+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2933
 permalink: /2016/02/11/vmware-support-alert-alert-vrealize-automation-patch-to-prevent-potential-data-loss-when-using-bulk-import/

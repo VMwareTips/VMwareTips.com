@@ -2,7 +2,7 @@
 id: 2181
 title: 'VMware Support Alert &#8211; ALERT: VSA Manager plug-in does not appear in the vSphere Web Client'
 date: 2013-09-22T12:01:10+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2181
 permalink: /2013/09/22/vmware-support-alert-alert-vsa-manager-plug-in-does-not-appear-in-the-vsphere-web-client/

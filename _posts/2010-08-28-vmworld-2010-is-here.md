@@ -2,7 +2,7 @@
 id: 1212
 title: VMworld 2010 is here!
 date: 2010-08-28T20:40:44+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1212
 permalink: /2010/08/28/vmworld-2010-is-here/

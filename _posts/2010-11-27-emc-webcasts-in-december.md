@@ -2,7 +2,7 @@
 id: 1239
 title: EMC Webcasts in December
 date: 2010-11-27T12:20:46+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1239
 permalink: /2010/11/27/emc-webcasts-in-december/

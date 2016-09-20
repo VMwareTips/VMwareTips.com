@@ -2,7 +2,7 @@
 id: 993
 title: VCP4 Beta Exam Information for VMworld Attendees
 date: 2009-08-31T17:22:28+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=993
 permalink: /2009/08/31/vcp4-beta-exam-information-for-vmworld-attendees/

@@ -2,7 +2,7 @@
 id: 575
 title: Virtualizing Mission Critical Applications Technical Roundtable
 date: 2009-02-12T22:00:12+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=575
 permalink: /2009/02/12/virtualizing-mission-critical-applications-technical-roundtable/

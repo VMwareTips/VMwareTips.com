@@ -2,7 +2,7 @@
 id: 128
 title: Access the ESXi Service Console
 date: 2008-10-20T16:37:27+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=128
 permalink: /2008/10/20/access-the-esxi-service-console/

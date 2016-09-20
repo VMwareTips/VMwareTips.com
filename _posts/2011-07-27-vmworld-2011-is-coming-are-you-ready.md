@@ -2,7 +2,7 @@
 id: 1410
 title: 'VMworld 2011 Is Coming&#8230; Are You Ready?'
 date: 2011-07-27T22:31:17+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1410
 permalink: /2011/07/27/vmworld-2011-is-coming-are-you-ready/

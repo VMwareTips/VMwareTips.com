@@ -2,7 +2,7 @@
 id: 943
 title: Google Calendar Sync
 date: 2009-07-29T06:07:52+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=943
 permalink: /2009/07/29/google-calendar-sync/

@@ -2,7 +2,7 @@
 id: 927
 title: VCDX and VCP Testing at VMworld 2009
 date: 2009-07-23T16:34:56+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=927
 permalink: /2009/07/23/vcdx-and-vcp-testing-at-vmworld-2009/

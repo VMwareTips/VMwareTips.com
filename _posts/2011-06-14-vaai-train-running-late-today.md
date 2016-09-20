@@ -2,7 +2,7 @@
 id: 1353
 title: VAAI Train Running Late Today
 date: 2011-06-14T17:28:32+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1353
 permalink: /2011/06/14/vaai-train-running-late-today/

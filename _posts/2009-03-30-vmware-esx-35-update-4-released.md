@@ -2,7 +2,7 @@
 id: 656
 title: VMware ESX 3.5 Update 4 Released
 date: 2009-03-30T23:58:02+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=656
 permalink: /2009/03/30/vmware-esx-35-update-4-released/

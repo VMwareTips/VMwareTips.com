@@ -2,7 +2,7 @@
 id: 2313
 title: 'VMware Support Alert &#8211; ALERT: Response to Heartbleed OpenSSL security issue'
 date: 2014-04-10T08:13:57+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2313
 permalink: /2014/04/10/vmware-support-alert-alert-response-to-heartbleed-openssl-security-issue/

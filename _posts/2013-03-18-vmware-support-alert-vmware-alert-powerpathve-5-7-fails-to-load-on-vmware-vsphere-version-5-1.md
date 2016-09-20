@@ -2,7 +2,7 @@
 id: 2003
 title: 'VMware Support Alert &#8211; VMware ALERT: PowerPath/VE 5.7 fails to load on VMware vSphere version 5.1'
 date: 2013-03-18T10:13:07+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2003
 permalink: /2013/03/18/vmware-support-alert-vmware-alert-powerpathve-5-7-fails-to-load-on-vmware-vsphere-version-5-1/

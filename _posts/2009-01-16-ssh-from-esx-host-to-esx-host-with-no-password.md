@@ -2,7 +2,7 @@
 id: 487
 title: SSH from ESX host to ESX host with No Password
 date: 2009-01-16T14:04:59+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=487
 permalink: /2009/01/16/ssh-from-esx-host-to-esx-host-with-no-password/

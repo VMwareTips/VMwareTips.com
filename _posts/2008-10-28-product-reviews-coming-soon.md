@@ -2,7 +2,7 @@
 id: 241
 title: Product Reviews Coming Soon
 date: 2008-10-28T22:38:20+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=241
 permalink: /2008/10/28/product-reviews-coming-soon/

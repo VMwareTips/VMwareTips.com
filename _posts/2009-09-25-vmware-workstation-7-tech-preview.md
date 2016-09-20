@@ -2,7 +2,7 @@
 id: 1039
 title: VMware Workstation 7 Tech Preview
 date: 2009-09-25T17:02:01+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1039
 permalink: /2009/09/25/vmware-workstation-7-tech-preview/

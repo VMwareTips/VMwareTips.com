@@ -2,7 +2,7 @@
 id: 510
 title: USB On Your Virtual Machine
 date: 2009-01-24T13:01:08+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=510
 permalink: /2009/01/24/usb-on-your-virtual-machine/

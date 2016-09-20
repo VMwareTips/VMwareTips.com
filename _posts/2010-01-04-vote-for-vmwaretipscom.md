@@ -2,7 +2,7 @@
 id: 1135
 title: Vote for VMwareTips.com
 date: 2010-01-04T08:49:43+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1135
 permalink: /2010/01/04/vote-for-vmwaretipscom/

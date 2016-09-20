@@ -2,7 +2,7 @@
 id: 2815
 title: 'VMware Support Alert &#8211; ALERT: Linked Clone pool creation and recompose failure'
 date: 2015-09-24T06:34:37+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2815
 permalink: /2015/09/24/vmware-support-alert-alert-linked-clone-pool-creation-and-recompose-failure/

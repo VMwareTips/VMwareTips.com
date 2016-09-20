@@ -2,7 +2,7 @@
 id: 940
 title: VMware Technology Exchange Developer Day
 date: 2009-07-28T08:10:30+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=940
 permalink: /2009/07/28/vmware-technology-exchange-developer-day/

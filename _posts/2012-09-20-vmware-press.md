@@ -2,7 +2,7 @@
 id: 1739
 title: 'VMware Press &#8211; Win a FREE BOOK!'
 date: 2012-09-20T23:36:20+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1739
 permalink: /2012/09/20/vmware-press/

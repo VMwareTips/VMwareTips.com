@@ -2,7 +2,7 @@
 id: 1908
 title: 'VMware Support Alert &#8211; Performance history for Past Year may contain only 30 days'
 date: 2013-01-02T07:06:42+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1908
 permalink: /2013/01/02/vmware-support-alert-performance-history-for-past-year-may-contain-only-30-days/

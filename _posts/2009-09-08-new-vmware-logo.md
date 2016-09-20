@@ -2,7 +2,7 @@
 id: 1000
 title: New VMware Logo
 date: 2009-09-08T11:57:17+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1000
 permalink: /2009/09/08/new-vmware-logo/

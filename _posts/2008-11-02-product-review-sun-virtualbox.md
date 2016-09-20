@@ -2,7 +2,7 @@
 id: 268
 title: 'Product Review : Sun VirtualBox'
 date: 2008-11-02T10:16:55+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=268
 permalink: /2008/11/02/product-review-sun-virtualbox/

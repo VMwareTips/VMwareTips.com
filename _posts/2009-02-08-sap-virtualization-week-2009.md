@@ -2,7 +2,7 @@
 id: 570
 title: SAP Virtualization Week 2009
 date: 2009-02-08T12:14:35+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=570
 permalink: /2009/02/08/sap-virtualization-week-2009/

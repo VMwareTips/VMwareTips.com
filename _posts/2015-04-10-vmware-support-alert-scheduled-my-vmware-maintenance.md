@@ -2,7 +2,7 @@
 id: 2643
 title: 'VMware Support Alert &#8211; Scheduled My VMware Maintenance'
 date: 2015-04-10T06:34:35+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2643
 permalink: /2015/04/10/vmware-support-alert-scheduled-my-vmware-maintenance/

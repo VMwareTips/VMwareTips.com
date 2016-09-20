@@ -2,7 +2,7 @@
 id: 1887
 title: '[Security-announce] VMSA-2012-0016 VMware security updates for vSphere API and ESX Service Console'
 date: 2012-12-20T10:32:47+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1887
 permalink: /2012/12/20/security-announce-vmsa-2012-0016-vmware-security-updates-for-vsphere-api-and-esx-service-console/

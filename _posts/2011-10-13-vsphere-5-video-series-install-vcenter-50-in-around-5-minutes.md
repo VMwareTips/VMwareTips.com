@@ -2,7 +2,7 @@
 id: 1441
 title: 'vSphere 5 Video Series &#8211; Install vCenter 5.0 in Around 5 Minutes'
 date: 2011-10-13T01:30:55+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1441
 permalink: /2011/10/13/vsphere-5-video-series-install-vcenter-50-in-around-5-minutes/

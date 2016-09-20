@@ -2,7 +2,7 @@
 id: 1939
 title: VMware KB Digest – New Articles Published for Week Ending 1/19/13
 date: 2013-01-21T14:35:35+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1939
 permalink: /2013/01/21/vmware-kb-digest-new-articles-published-for-week-ending-11913/

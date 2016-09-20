@@ -2,7 +2,7 @@
 id: 1862
 title: 'Kansas City VMUG &#8211; Tuesday, December 11th, 2012'
 date: 2012-12-06T19:16:02+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1862
 permalink: /2012/12/06/kansas-city-vmug-tuesday-december-11th-2012/

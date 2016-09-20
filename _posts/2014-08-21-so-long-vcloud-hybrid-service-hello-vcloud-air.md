@@ -2,7 +2,7 @@
 id: 2496
 title: So Long vCloud Hybrid Service, Hello vCloud Air!
 date: 2014-08-21T08:40:07+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2496
 permalink: /2014/08/21/so-long-vcloud-hybrid-service-hello-vcloud-air/

@@ -2,7 +2,7 @@
 id: 446
 title: Defunct cimservera processes freeze VMware ESX 3.5
 date: 2009-01-06T15:29:18+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=446
 permalink: /2009/01/06/defunct-cimservera-processes-freez-vmware-esx-35/

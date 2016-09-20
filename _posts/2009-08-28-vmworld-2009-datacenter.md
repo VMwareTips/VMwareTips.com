@@ -2,7 +2,7 @@
 id: 989
 title: VMworld 2009 Datacenter
 date: 2009-08-28T07:48:29+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=989
 permalink: /2009/08/28/vmworld-2009-datacenter/

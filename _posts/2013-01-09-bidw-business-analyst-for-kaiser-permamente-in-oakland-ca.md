@@ -2,7 +2,7 @@
 id: 1929
 title: BIDW Business Analyst for Kaiser Permamente in Oakland, CA
 date: 2013-01-09T16:21:56+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1929
 permalink: /2013/01/09/bidw-business-analyst-for-kaiser-permamente-in-oakland-ca/

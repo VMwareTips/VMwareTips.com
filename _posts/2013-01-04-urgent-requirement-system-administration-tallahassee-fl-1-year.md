@@ -2,7 +2,7 @@
 id: 1916
 title: Urgent Requirement System Administration. Tallahassee, FL. 1 year
 date: 2013-01-04T18:25:23+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1916
 permalink: /2013/01/04/urgent-requirement-system-administration-tallahassee-fl-1-year/

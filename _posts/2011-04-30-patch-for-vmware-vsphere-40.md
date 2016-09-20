@@ -2,7 +2,7 @@
 id: 1327
 title: Patch for vmware vSphere 4.0
 date: 2011-04-30T09:40:09+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1327
 permalink: /2011/04/30/patch-for-vmware-vsphere-40/

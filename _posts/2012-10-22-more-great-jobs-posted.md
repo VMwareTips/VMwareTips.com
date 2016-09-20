@@ -2,7 +2,7 @@
 id: 1796
 title: More Great Jobs Posted!
 date: 2012-10-22T08:42:07+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1796
 permalink: /2012/10/22/more-great-jobs-posted/

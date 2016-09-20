@@ -2,7 +2,7 @@
 id: 314
 title: 'VMworld 2008 &#8211; Highlights Reel'
 date: 2008-12-01T17:11:04+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=314
 permalink: /2008/12/01/vmworld-2008-highlights-reel/

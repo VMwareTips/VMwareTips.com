@@ -2,7 +2,7 @@
 id: 1494
 title: 'Chad&#8217;s Choice Webcast on June 28th, 2012 &#8211; Don&#8217;t Miss!'
 date: 2012-06-26T19:55:18+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1494
 permalink: /2012/06/26/chads-choice-webcast-on-june-28th-2012-dont-miss/

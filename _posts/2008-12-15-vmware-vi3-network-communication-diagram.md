@@ -2,7 +2,7 @@
 id: 367
 title: VMware VI3 Network Communication Diagram
 date: 2008-12-15T15:05:29+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=367
 permalink: /2008/12/15/vmware-vi3-network-communication-diagram/

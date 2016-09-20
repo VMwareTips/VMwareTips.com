@@ -2,7 +2,7 @@
 id: 860
 title: 'VMworld Sessions &#038; Labs Opened for Public Access'
 date: 2009-06-04T23:16:53+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=860
 permalink: /2009/06/04/vmworld-sessions-labs-opened-for-public-access/

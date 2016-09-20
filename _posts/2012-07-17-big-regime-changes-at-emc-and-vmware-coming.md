@@ -2,7 +2,7 @@
 id: 1497
 title: Big Regime Changes at EMC and VMware Coming
 date: 2012-07-17T13:48:30+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1497
 permalink: /2012/07/17/big-regime-changes-at-emc-and-vmware-coming/

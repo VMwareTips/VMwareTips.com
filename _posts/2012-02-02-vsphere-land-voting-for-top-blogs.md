@@ -2,7 +2,7 @@
 id: 1468
 title: vSphere-land Voting for Top Blogs
 date: 2012-02-02T09:35:09+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1468
 permalink: /2012/02/02/vsphere-land-voting-for-top-blogs/

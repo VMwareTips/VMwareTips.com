@@ -2,7 +2,7 @@
 id: 2194
 title: 'VMware Support Alert &#8211; ALERT: Active Directory authentication fails when vCenter Single Sign-On 5.5 runs on Windows Server 2012 along with AD'
 date: 2013-09-25T18:46:01+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2194
 permalink: /2013/09/25/vmware-support-alert-alert-active-directory-authentication-fails-when-vcenter-single-sign-on-5-5-runs-on-windows-server-2012-along-with-ad/

@@ -2,7 +2,7 @@
 id: 1194
 title: 'VMware ALERT: View customers using PCoIP are advised to NOT apply Update 2 to ESX 4.0 (yet)'
 date: 2010-06-15T15:50:48+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1194
 permalink: /2010/06/15/vmware-alert-view-customers-using-pcoip-are-advised-to-not-apply-update-2-to-esx-40-yet/

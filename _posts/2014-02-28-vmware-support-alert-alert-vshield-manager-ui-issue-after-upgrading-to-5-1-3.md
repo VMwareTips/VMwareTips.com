@@ -2,7 +2,7 @@
 id: 2275
 title: 'VMware Support Alert &#8211; ALERT: vShield Manager UI issue after upgrading to 5.1.3'
 date: 2014-02-28T08:10:15+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2275
 permalink: /2014/02/28/vmware-support-alert-alert-vshield-manager-ui-issue-after-upgrading-to-5-1-3/

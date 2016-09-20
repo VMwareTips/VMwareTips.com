@@ -2,7 +2,7 @@
 id: 2060
 title: Western PA VMUG User Conference
 date: 2013-05-29T13:02:31+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2060
 permalink: /2013/05/29/western-pa-vmug-user-conference/

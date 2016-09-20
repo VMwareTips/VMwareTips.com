@@ -2,7 +2,7 @@
 id: 275
 title: 'Product Review : Sun xVM Server'
 date: 2008-11-12T11:40:01+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=275
 permalink: /2008/11/12/product-review-sun-xvm-server/

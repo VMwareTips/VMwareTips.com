@@ -2,7 +2,7 @@
 id: 3026
 title: 'UPDATED VMSA-2015-0007.5 &#8211; VMware vCenter and ESXi updates address critical security issues'
 date: 2016-05-25T00:47:05+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=3026
 permalink: /2016/05/25/security-announce-updated-vmsa-2015-0007-5-vmware-vcenter-and-esxi-updates-address-critical-security-issues/

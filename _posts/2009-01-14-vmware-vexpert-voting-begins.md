@@ -2,7 +2,7 @@
 id: 466
 title: 'VMware vExpert &#8211; Nominations Begin'
 date: 2009-01-14T15:29:33+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=466
 permalink: /2009/01/14/vmware-vexpert-voting-begins/

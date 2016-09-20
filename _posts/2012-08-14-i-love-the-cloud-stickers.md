@@ -2,7 +2,7 @@
 id: 1564
 title: I Love The Cloud Stickers
 date: 2012-08-14T18:25:59+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1564
 permalink: /2012/08/14/i-love-the-cloud-stickers/

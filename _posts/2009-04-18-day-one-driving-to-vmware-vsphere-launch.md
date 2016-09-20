@@ -2,7 +2,7 @@
 id: 731
 title: 'Day One &#8211; Driving to VMware vSphere Launch'
 date: 2009-04-18T08:38:05+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=731
 permalink: /2009/04/18/day-one-driving-to-vmware-vsphere-launch/

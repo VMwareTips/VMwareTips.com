@@ -2,7 +2,7 @@
 id: 534
 title: Updated VI3 Reference Card
 date: 2009-02-02T22:18:33+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=534
 permalink: /2009/02/02/updated-vi3-reference-card/

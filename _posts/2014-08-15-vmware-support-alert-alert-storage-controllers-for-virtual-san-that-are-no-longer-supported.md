@@ -2,7 +2,7 @@
 id: 2411
 title: 'VMware Support Alert &#8211; ALERT: Storage Controllers for Virtual SAN that are no longer supported'
 date: 2014-08-15T07:09:23+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2411
 permalink: /2014/08/15/vmware-support-alert-alert-storage-controllers-for-virtual-san-that-are-no-longer-supported/

@@ -2,7 +2,7 @@
 id: 1005
 title: 'VMworld 2009 &#8211; Ask the Experts (TA2259) Recap'
 date: 2009-09-09T21:05:22+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1005
 permalink: /2009/09/09/vmworld-2009-ask-the-experts-ta2259-recap/

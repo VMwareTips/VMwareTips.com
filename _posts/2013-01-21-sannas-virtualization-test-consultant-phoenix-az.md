@@ -2,7 +2,7 @@
 id: 1934
 title: 'SAN/NAS &#038; Virtualization Test Consultant &#8211; Phoenix, AZ'
 date: 2013-01-21T14:29:01+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1934
 permalink: /2013/01/21/sannas-virtualization-test-consultant-phoenix-az/

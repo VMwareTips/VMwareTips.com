@@ -2,7 +2,7 @@
 id: 3071
 title: New VMSA-2016-0008 VMware vRealize Log Insight addresses important and moderate security issues
 date: 2016-06-09T22:18:29+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=3071
 permalink: /2016/06/09/security-announce-new-vmsa-2016-0008-vmware-vrealize-log-insight-addresses-important-and-moderate-security-issues/

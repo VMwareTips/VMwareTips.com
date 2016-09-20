@@ -2,7 +2,7 @@
 id: 1335
 title: EMC Webcasts in May
 date: 2011-05-04T11:01:51+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1335
 permalink: /2011/05/04/emc-webcasts-in-may/

@@ -2,7 +2,7 @@
 id: 727
 title: 'The Things You&#8217;ll Find When You Google Yourself'
 date: 2009-04-16T23:48:39+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=727
 permalink: /2009/04/16/the-things-youll-find-when-you-google-yourself/

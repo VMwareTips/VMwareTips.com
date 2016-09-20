@@ -2,7 +2,7 @@
 id: 1053
 title: Before Host Profiles there was vicfg-cfgbackup.pl
 date: 2009-10-12T12:36:35+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1053
 permalink: /2009/10/12/before-host-profiles-there-was-vicfg-cfgbackuppl/

@@ -2,7 +2,7 @@
 id: 1206
 title: VMware vSphere 4.1 is Available!
 date: 2010-07-13T00:46:55+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1206
 permalink: /2010/07/13/vmware-vsphere-41-is-available/

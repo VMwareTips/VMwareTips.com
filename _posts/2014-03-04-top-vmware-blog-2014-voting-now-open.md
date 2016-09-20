@@ -2,7 +2,7 @@
 id: 2291
 title: Top VMware Blog 2014 Voting Now Open
 date: 2014-03-04T20:15:07+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2291
 permalink: /2014/03/04/top-vmware-blog-2014-voting-now-open/

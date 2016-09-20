@@ -2,7 +2,7 @@
 id: 2395
 title: Help a Good Friend, Stephen Hunt
 date: 2014-07-28T19:44:07+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2395
 permalink: /2014/07/28/help-a-good-friend-stephen-hunt/

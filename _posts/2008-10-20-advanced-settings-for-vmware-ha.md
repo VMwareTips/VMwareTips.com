@@ -2,7 +2,7 @@
 id: 125
 title: Advanced Settings for VMware HA
 date: 2008-10-20T16:24:15+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=125
 permalink: /2008/10/20/advanced-settings-for-vmware-ha/

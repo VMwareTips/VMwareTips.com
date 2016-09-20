@@ -2,7 +2,7 @@
 id: 437
 title: 'Hyper-V vs. ESXi &#8211; Install and Configure'
 date: 2008-12-31T13:30:36+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=437
 permalink: /2008/12/31/hyper-v-vs-esxi-install-and-configure/

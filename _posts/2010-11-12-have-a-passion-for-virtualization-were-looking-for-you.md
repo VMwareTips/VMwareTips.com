@@ -2,7 +2,7 @@
 id: 1235
 title: 'Have a Passion for Virtualization? We&#8217;re looking for you!'
 date: 2010-11-12T01:09:46+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1235
 permalink: /2010/11/12/have-a-passion-for-virtualization-were-looking-for-you/

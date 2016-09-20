@@ -2,7 +2,7 @@
 id: 1013
 title: 'VMware ISV Seminar &#8211; Boston, MA'
 date: 2009-09-12T09:08:18+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1013
 permalink: /2009/09/12/vmware-isv-seminar-boston-ma/

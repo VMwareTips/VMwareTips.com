@@ -2,7 +2,7 @@
 id: 1137
 title: 'VMwareTips.com 2009 Holiday Giveaway Extravaganza &#8211; WINNERS'
 date: 2010-01-04T13:10:38+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1137
 permalink: /2010/01/04/vmwaretipscom-2009-holiday-giveaway-extravaganza-winners/

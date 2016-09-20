@@ -2,7 +2,7 @@
 id: 696
 title: VMwareTips to Video Broadcast vSphere Launch
 date: 2009-04-10T14:44:29+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=696
 permalink: /2009/04/10/vmwaretips-to-cover-vsphere-launch-thanks-to-trainsignal/

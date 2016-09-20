@@ -2,7 +2,7 @@
 id: 1923
 title: Senior Storage Manager Opportunity in San Jose, CA
 date: 2013-01-08T18:29:24+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1923
 permalink: /2013/01/08/senior-storage-manager-opportunity-in-san-jose-ca/

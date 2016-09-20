@@ -2,7 +2,7 @@
 id: 773
 title: VMware vSphere and the vStorage API
 date: 2009-05-05T09:26:25+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=773
 permalink: /2009/05/05/vmware-vsphere-and-the-vstorage-api/

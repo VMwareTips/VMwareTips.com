@@ -2,7 +2,7 @@
 id: 594
 title: Congratulations! You have received a VMware vExpert Award!
 date: 2009-02-25T09:16:50+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=594
 permalink: /2009/02/25/congratulations-you-have-received-a-vmware-vexpert-award/

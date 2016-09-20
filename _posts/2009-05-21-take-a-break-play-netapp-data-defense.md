@@ -2,7 +2,7 @@
 id: 808
 title: 'Take a Break &#8211; Play NetApp Data Defense'
 date: 2009-05-21T17:26:25+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=808
 permalink: /2009/05/21/take-a-break-play-netapp-data-defense/

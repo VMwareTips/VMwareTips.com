@@ -2,7 +2,7 @@
 id: 1071
 title: VMware View 4 Released Along with New VMware Website
 date: 2009-11-09T10:49:25+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1071
 permalink: /2009/11/09/vmware-view-4-released-along-with-new-vmware-website/

@@ -2,7 +2,7 @@
 id: 630
 title: Installing the Performance Overview Plug-In in VirtualCenter 2.5 Update 4
 date: 2009-02-27T07:10:05+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=630
 permalink: /2009/02/27/installing-the-performance-overview-plug-in-in-virtualcenter-25-update-4/

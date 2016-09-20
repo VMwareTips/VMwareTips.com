@@ -2,7 +2,7 @@
 id: 662
 title: 'VMware Launch Event on April 21st &#8211; Sponsorship Opportunities Available'
 date: 2009-04-01T11:52:44+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=662
 permalink: /2009/04/01/vmware-launch-event-on-april-21st-sponsorship-opportunities-available/

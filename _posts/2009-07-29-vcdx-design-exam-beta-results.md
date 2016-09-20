@@ -2,7 +2,7 @@
 id: 947
 title: VCDX Design Exam Beta Results
 date: 2009-07-29T08:38:16+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=947
 permalink: /2009/07/29/vcdx-design-exam-beta-results/

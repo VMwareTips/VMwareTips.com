@@ -2,7 +2,7 @@
 id: 1851
 title: 'VMware Support Alert &#8211; Virtual Machines crash after Apple Update'
 date: 2012-11-26T09:33:13+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1851
 permalink: /2012/11/26/vmware-support-alert-virtual-machines-crash-after-apple-update/

@@ -2,7 +2,7 @@
 id: 2018
 title: 'VMware KB Digest &#8211; New Articles Published for Week Ending 3/30/13'
 date: 2013-04-22T09:21:04+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2018
 permalink: /2013/04/22/vmware-kb-digest-new-articles-published-for-week-ending-33013/

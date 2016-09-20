@@ -2,7 +2,7 @@
 id: 513
 title: Storage Efficiency Article in Tech OnTap
 date: 2009-01-26T09:17:19+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=513
 permalink: /2009/01/26/storage-efficiency-article-in-tech-ontap/

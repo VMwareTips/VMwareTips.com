@@ -2,7 +2,7 @@
 id: 530
 title: Idealstor Releases VMware vCenter Backup Solution
 date: 2009-02-02T17:02:52+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=530
 permalink: /2009/02/02/idealstor-releases-vmware-virtual-center-backup-solution/

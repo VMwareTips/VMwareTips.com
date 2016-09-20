@@ -2,7 +2,7 @@
 id: 1155
 title: Announcing New Windows 3.1 Training
 date: 2010-04-01T07:17:18+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1155
 permalink: /2010/04/01/announcing-new-windows-31-training/

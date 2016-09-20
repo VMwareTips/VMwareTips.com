@@ -2,7 +2,7 @@
 id: 872
 title: VMware Online Virtualization Forum
 date: 2009-06-09T16:41:15+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=872
 permalink: /2009/06/09/vmware-online-virtualization-forum/

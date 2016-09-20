@@ -2,7 +2,7 @@
 id: 339
 title: Free Holiday Gift from Veeam
 date: 2008-12-12T12:28:01+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=339
 permalink: /2008/12/12/free-holiday-gift-from-veeam/

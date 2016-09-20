@@ -2,7 +2,7 @@
 id: 1297
 title: VMware vCenter XVP Manager
 date: 2011-02-26T11:17:39+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1297
 permalink: /2011/02/26/vmware-vcenter-xvp-manager/

@@ -2,7 +2,7 @@
 id: 1427
 title: 'vSphere 5 Video Series &#8211; Installing ESXi 5.0 in Under 5 Minutes'
 date: 2011-10-10T06:00:55+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1427
 permalink: /2011/10/10/vsphere-5-video-series-installing-esxi-50-in-under-5-minutes/

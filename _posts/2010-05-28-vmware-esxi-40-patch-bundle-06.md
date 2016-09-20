@@ -2,7 +2,7 @@
 id: 1162
 title: VMware ESX(i) 4.0 Patch Bundle 06
 date: 2010-05-28T08:43:33+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1162
 permalink: /2010/05/28/vmware-esxi-40-patch-bundle-06/

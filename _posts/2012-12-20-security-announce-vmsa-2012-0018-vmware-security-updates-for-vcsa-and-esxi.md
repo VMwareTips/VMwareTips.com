@@ -2,7 +2,7 @@
 id: 1892
 title: '[Security-announce] VMSA-2012-0018 VMware security updates for vCSA and ESXi'
 date: 2012-12-20T23:55:26+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1892
 permalink: /2012/12/20/security-announce-vmsa-2012-0018-vmware-security-updates-for-vcsa-and-esxi/

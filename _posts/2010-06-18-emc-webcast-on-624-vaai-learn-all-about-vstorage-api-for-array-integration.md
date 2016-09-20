@@ -2,7 +2,7 @@
 id: 1196
 title: 'EMC Webcast on 6/24 &#8211; VAAI: Learn all about vStorage API for Array Integration'
 date: 2010-06-18T10:34:57+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1196
 permalink: /2010/06/18/emc-webcast-on-624-vaai-learn-all-about-vstorage-api-for-array-integration/

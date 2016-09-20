@@ -2,7 +2,7 @@
 id: 759
 title: Photos from vSphere Launch
 date: 2009-04-28T23:43:19+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=759
 permalink: /2009/04/28/photos-from-vsphere-launch/

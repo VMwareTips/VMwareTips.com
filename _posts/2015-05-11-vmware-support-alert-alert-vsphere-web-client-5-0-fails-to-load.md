@@ -2,7 +2,7 @@
 id: 2655
 title: 'VMware Support Alert &#8211; ALERT: vSphere Web Client 5.0 fails to load'
 date: 2015-05-11T06:47:54+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2655
 permalink: /2015/05/11/vmware-support-alert-alert-vsphere-web-client-5-0-fails-to-load/

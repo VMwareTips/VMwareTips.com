@@ -2,7 +2,7 @@
 id: 1927
 title: VMware Systems Manager in Lebanon, PA
 date: 2013-01-09T16:20:00+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1927
 permalink: /2013/01/09/vmware-systems-manager-in-lebanon-pa/

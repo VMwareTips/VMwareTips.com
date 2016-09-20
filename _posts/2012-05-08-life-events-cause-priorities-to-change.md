@@ -2,7 +2,7 @@
 id: 1480
 title: Life Events Cause Priorities to Change
 date: 2012-05-08T15:46:33+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=1480
 permalink: /2012/05/08/life-events-cause-priorities-to-change/

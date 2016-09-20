@@ -2,7 +2,7 @@
 id: 2167
 title: 'VMware Support Alert &#8211; ALERT: VMware Horizon Workspace 1.5 password expiration'
 date: 2013-09-11T12:03:02+00:00
-author: Rick Scherer
+author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=2167
 permalink: /2013/09/11/vmware-support-alert-alert-vmware-horizon-workspace-1-5-password-expiration/
