@@ -3,7 +3,7 @@ id: 1087
 title: VMware View 4 Available for Download
 date: 2009-11-25T11:37:25+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1087
 permalink: /2009/11/25/vmware-view-4-available-for-download/
 aktt_notify_twitter:

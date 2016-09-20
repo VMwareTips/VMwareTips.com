@@ -3,7 +3,7 @@ id: 463
 title: 'VCDX Certification &#8211; Some Details Revealed'
 date: 2009-01-14T15:17:48+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=463
 permalink: /2009/01/14/vcdx-certification-some-details-revealed/
 aktt_notify_twitter:

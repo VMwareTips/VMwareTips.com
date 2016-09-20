@@ -3,7 +3,7 @@ id: 1753
 title: '[Security-announce] VMSA-2012-0014 VMware vCenter Operations, CapacityIQ, and Movie Decoder security updates'
 date: 2012-10-05T00:07:31+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1753
 permalink: /2012/10/05/security-announce-vmsa-2012-0014-vmware-vcenter-operations-capacityiq-and-movie-decoder-security-updates/
 ratings_users:

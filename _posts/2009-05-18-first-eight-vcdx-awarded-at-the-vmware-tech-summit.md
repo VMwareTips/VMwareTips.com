@@ -3,7 +3,7 @@ id: 787
 title: First Eight VCDX Awarded at the VMware Tech Summit
 date: 2009-05-18T16:45:52+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=787
 permalink: /2009/05/18/first-eight-vcdx-awarded-at-the-vmware-tech-summit/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 623
 title: 'VMware vSphere 4.0 &#8211; Configuration Maximums'
 date: 2009-02-25T21:48:55+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=623
 permalink: /2009/02/25/vmware-vsphere-40-configuration-maximums/
 aktt_notify_twitter:

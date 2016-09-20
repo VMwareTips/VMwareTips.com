@@ -3,7 +3,7 @@ id: 3024
 title: NEW VMSA-2016-0006 VMware vCenter Server updates address an important cross-site scripting issue
 date: 2016-05-25T00:21:16+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=3024
 permalink: /2016/05/25/security-announce-new-vmsa-2016-0006-vmware-vcenter-server-updates-address-an-important-cross-site-scripting-issue/
 ratings_users:

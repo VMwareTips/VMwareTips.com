@@ -3,7 +3,7 @@ id: 1968
 title: '[Security-announce] UPDATED: VMSA-2013-0001.1 &#8211; VMware vSphere security updates for the authentication service and third party libraries'
 date: 2013-02-08T12:13:41+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1968
 permalink: /2013/02/08/security-announce-updated-vmsa-2013-0001-1-vmware-vsphere-security-updates-for-the-authentication-service-and-third-party-libraries/
 ratings_users:

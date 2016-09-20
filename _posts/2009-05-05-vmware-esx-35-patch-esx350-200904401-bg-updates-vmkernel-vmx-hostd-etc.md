@@ -3,7 +3,7 @@ id: 775
 title: 'VMware ESX 3.5, Patch ESX350-200904401-BG: Updates vmkernel vmx hostd etc'
 date: 2009-05-05T19:43:39+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=775
 permalink: /2009/05/05/vmware-esx-35-patch-esx350-200904401-bg-updates-vmkernel-vmx-hostd-etc/
 aktt_notify_twitter:

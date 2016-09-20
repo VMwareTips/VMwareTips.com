@@ -3,7 +3,7 @@ id: 962
 title: Train Signal vSphere Video Launch!
 date: 2009-08-20T10:48:27+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=962
 permalink: /2009/08/20/train-signal-vsphere-video-launch/
 aktt_notify_twitter:

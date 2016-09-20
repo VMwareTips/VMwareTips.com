@@ -3,7 +3,7 @@ id: 969
 title: VMworld 2009 Pocket Guide
 date: 2009-08-21T10:29:21+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=969
 permalink: /2009/08/21/vmworld-2009-pocket-guide/
 aktt_notify_twitter:

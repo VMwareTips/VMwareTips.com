@@ -3,7 +3,7 @@ id: 2309
 title: 'VMware KB Digest &#8211; New KB articles published for week ending 4/5/14'
 date: 2014-04-07T05:59:22+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2309
 permalink: /2014/04/07/vmware-kb-digest-new-kb-articles-published-for-week-ending-4514/
 ratings_users:

@@ -3,7 +3,7 @@ id: 2988
 title: NEW VMSA-2016-0004 VMware product updates address a critical security issue in the VMware Client Integration Plugin
 date: 2016-04-14T12:28:13+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2988
 permalink: /2016/04/14/security-announce-new-vmsa-2016-0004-vmware-product-updates-address-a-critical-security-issue-in-the-vmware-client-integration-plugin/
 ratings_users:

@@ -3,7 +3,7 @@ id: 935
 title: Cisco UCS Design Flaw? No Northboard FCoE Connectivity
 date: 2009-07-27T13:28:46+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=935
 permalink: /2009/07/27/cisco-ucs-design-flaw-no-northboard-fcoe-connectivity/
 aktt_notify_twitter:

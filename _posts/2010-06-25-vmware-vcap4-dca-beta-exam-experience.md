@@ -3,7 +3,7 @@ id: 1198
 title: VMware VCAP4-DCA Beta Exam Experience
 date: 2010-06-25T12:03:03+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1198
 permalink: /2010/06/25/vmware-vcap4-dca-beta-exam-experience/
 aktt_notify_twitter:

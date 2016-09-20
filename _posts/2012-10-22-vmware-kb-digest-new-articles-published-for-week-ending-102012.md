@@ -3,7 +3,7 @@ id: 1793
 title: 'VMware KB Digest &#8211; New Articles Published for Week Ending 10/20/12'
 date: 2012-10-22T08:22:01+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1793
 permalink: /2012/10/22/vmware-kb-digest-new-articles-published-for-week-ending-102012/
 ratings_users:

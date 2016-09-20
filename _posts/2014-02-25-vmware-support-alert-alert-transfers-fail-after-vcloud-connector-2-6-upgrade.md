@@ -3,7 +3,7 @@ id: 2273
 title: 'VMware Support Alert &#8211; ALERT: Transfers fail after vCloud Connector 2.6 upgrade'
 date: 2014-02-25T12:27:08+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2273
 permalink: /2014/02/25/vmware-support-alert-alert-transfers-fail-after-vcloud-connector-2-6-upgrade/
 ratings_users:

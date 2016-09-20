@@ -3,7 +3,7 @@ id: 1715
 title: 'VMware Security Alert &#8211; [Security-announce] UPDATED VMSA-2012-0005.3 VMware vCenter Server, Orchestrator, Update Manager, vShield, vSphere Client, Workstation, Player, ESXi, and ESX address several security issues'
 date: 2012-09-15T16:10:22+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1715
 permalink: /2012/09/15/vmware-security-alert-security-announce-updated-vmsa-2012-0005-3-vmware-vcenter-server-orchestrator-update-manager-vshield-vsphere-client-workstation-player-esxi-and-esx-address-several-se-2/
 ratings_users:

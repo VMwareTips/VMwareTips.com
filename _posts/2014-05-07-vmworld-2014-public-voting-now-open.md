@@ -3,7 +3,7 @@ id: 2334
 title: VMworld 2014 Public Voting Now Open
 date: 2014-05-07T08:50:03+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2334
 permalink: /2014/05/07/vmworld-2014-public-voting-now-open/
 ratings_users:

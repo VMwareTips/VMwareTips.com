@@ -3,7 +3,7 @@ id: 2505
 title: 'VMworld 2014 San Francisco &#8211; Live Blogging'
 date: 2014-08-25T09:03:22+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2505
 permalink: /2014/08/25/vmworld-2014-san-francisco-live-blogging/
 ratings_users:

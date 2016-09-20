@@ -3,7 +3,7 @@ id: 3082
 title: NEW VMSA-2016-0009 VMware vCenter Server updates address an important reflective cross-site scripting issue
 date: 2016-06-14T22:56:35+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=3082
 permalink: /2016/06/14/security-announce-new-vmsa-2016-0009-vmware-vcenter-server-updates-address-an-important-reflective-cross-site-scripting-issue/
 ratings_users:

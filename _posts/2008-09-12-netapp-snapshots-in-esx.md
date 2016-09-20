@@ -3,7 +3,7 @@ id: 20
 title: NetApp Snapshots in ESX
 date: 2008-09-12T14:32:23+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=20
 permalink: /2008/09/12/netapp-snapshots-in-esx/
 views:

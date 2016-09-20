@@ -3,7 +3,7 @@ id: 950
 title: VCDX Defense Scheduled!
 date: 2009-08-01T09:01:04+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=950
 permalink: /2009/08/01/vcdx-defense-scheduled/
 aktt_notify_twitter:

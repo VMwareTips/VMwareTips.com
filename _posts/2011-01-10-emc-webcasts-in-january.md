@@ -3,7 +3,7 @@ id: 1251
 title: EMC Webcasts in January
 date: 2011-01-10T12:40:29+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1251
 permalink: /2011/01/10/emc-webcasts-in-january/
 ratings_users:

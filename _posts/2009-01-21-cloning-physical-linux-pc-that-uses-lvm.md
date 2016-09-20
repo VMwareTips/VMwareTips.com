@@ -3,7 +3,7 @@ id: 504
 title: Cloning a Physical Linux PC that uses LVM
 date: 2009-01-21T22:53:17+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=504
 permalink: /2009/01/21/cloning-physical-linux-pc-that-uses-lvm/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 718
 title: Watch the vSphere Launch and Win a TrainSignal ESX Training Kit
 date: 2009-04-14T15:39:09+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=718
 permalink: /2009/04/14/watch-the-vsphere-launch-and-win-a-trainsignal-esx-training-kit/
 aktt_notify_twitter:

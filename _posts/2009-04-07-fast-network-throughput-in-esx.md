@@ -3,7 +3,7 @@ id: 691
 title: Fast Network Throughput in ESX
 date: 2009-04-07T16:36:26+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=691
 permalink: /2009/04/07/fast-network-throughput-in-esx/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 578
 title: 'No News is Good News&#8230;.right?'
 date: 2009-02-13T15:52:27+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=578
 permalink: /2009/02/13/no-news-is-good-newsright/
 aktt_notify_twitter:

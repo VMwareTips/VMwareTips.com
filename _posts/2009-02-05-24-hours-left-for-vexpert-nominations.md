@@ -3,7 +3,7 @@ id: 558
 title: 24 Hours Left for vExpert Nominations
 date: 2009-02-05T23:29:54+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=558
 permalink: /2009/02/05/24-hours-left-for-vexpert-nominations/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 1344
 title: 'vSphere Doesn&#8217;t Like OVF with SCSI ID of X:15'
 date: 2011-06-14T17:06:39+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1344
 permalink: /2011/06/14/vsphere-doesnt-like-ovf-with-scsi-id-of-15/
 ratings_users:

@@ -3,7 +3,7 @@ id: 1266
 title: 'The Cloud&#8230;now closer than ever!'
 date: 2011-02-08T09:59:40+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1266
 permalink: /2011/02/08/the-cloudnow-closer-than-ever/
 ratings_users:

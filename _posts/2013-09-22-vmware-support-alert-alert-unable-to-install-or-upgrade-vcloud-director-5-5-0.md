@@ -3,7 +3,7 @@ id: 2183
 title: 'VMware Support Alert &#8211; ALERT: Unable to install or upgrade vCloud Director 5.5.0'
 date: 2013-09-22T12:16:12+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2183
 permalink: /2013/09/22/vmware-support-alert-alert-unable-to-install-or-upgrade-vcloud-director-5-5-0/
 ratings_users:

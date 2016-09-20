@@ -3,7 +3,7 @@ id: 2768
 title: VMworld 2015 Itinerary
 date: 2015-08-25T10:58:23+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2768
 permalink: /2015/08/25/vmworld-2015-itinerary/
 ratings_users:

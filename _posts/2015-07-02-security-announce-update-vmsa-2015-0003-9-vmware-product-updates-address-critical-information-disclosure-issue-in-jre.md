@@ -3,7 +3,7 @@ id: 2723
 title: '[Security-announce] UPDATE : VMSA-2015-0003.9 &#8211; VMware product updates address critical information disclosure issue in JRE.'
 date: 2015-07-02T20:05:28+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2723
 permalink: /2015/07/02/security-announce-update-vmsa-2015-0003-9-vmware-product-updates-address-critical-information-disclosure-issue-in-jre/
 ratings_users:

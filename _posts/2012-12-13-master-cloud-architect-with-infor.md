@@ -3,7 +3,7 @@ id: 1878
 title: Master Cloud Architect with Infor
 date: 2012-12-13T13:17:56+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1878
 permalink: /2012/12/13/master-cloud-architect-with-infor/
 ratings_users:

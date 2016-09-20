@@ -3,7 +3,7 @@ id: 246
 title: NetApp Accelerate Cancelled
 date: 2008-10-29T14:11:57+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=246
 permalink: /2008/10/29/netapp-accelerate-cancelled/
 ratings_users:

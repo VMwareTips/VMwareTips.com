@@ -3,7 +3,7 @@ id: 451
 title: VMworld 2008 Confessionals
 date: 2009-01-06T22:36:20+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=451
 permalink: /2009/01/06/vmworld-2008-confessionals/
 aktt_notify_twitter:

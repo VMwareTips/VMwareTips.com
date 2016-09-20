@@ -3,7 +3,7 @@ id: 1223
 title: StratoGen looking for Beta Users for their vCloud Hosting service
 date: 2010-11-11T10:04:25+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1223
 permalink: /2010/11/11/stratogen-looking-for-beta-users-for-their-vcloud-hosting-service/
 ratings_users:

@@ -3,7 +3,7 @@ id: 515
 title: 'VMware Workstation &#038; Ubuntu 8.10 Ctrl-Alt-Ins not working'
 date: 2009-01-29T13:03:45+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=515
 permalink: /2009/01/29/vmware-workstation-ubuntu-810-ctrl-alt-ins-not-working/
 aktt_notify_twitter:

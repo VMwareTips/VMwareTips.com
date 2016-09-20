@@ -3,7 +3,7 @@ id: 555
 title: VMwareTips.com Overwhelming Growth
 date: 2009-02-05T22:53:50+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=555
 permalink: /2009/02/05/vmwaretipscom-overwhelming-growth/
 aktt_notify_twitter:

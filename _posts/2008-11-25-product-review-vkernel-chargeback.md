@@ -3,7 +3,7 @@ id: 294
 title: 'Product Review : vKernel Chargeback'
 date: 2008-11-25T17:54:03+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=294
 permalink: /2008/11/25/product-review-vkernel-chargeback/
 ratings_users:

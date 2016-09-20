@@ -3,7 +3,7 @@ id: 1972
 title: '[Security-announce] NEW &#8211; VMSA-2013-0002 VMware ESX, Workstation, Fusion, and View VMCI privilege'
 date: 2013-02-08T12:15:52+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1972
 permalink: /2013/02/08/security-announce-new-vmsa-2013-0002-vmware-esx-workstation-fusion-and-view-vmci-privilege/
 ratings_users:

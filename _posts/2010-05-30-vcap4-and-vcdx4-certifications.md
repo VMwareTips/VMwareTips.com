@@ -3,7 +3,7 @@ id: 1172
 title: VCAP4 and VCDX4 Certifications
 date: 2010-05-30T10:33:54+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1172
 permalink: /2010/05/30/vcap4-and-vcdx4-certifications/
 aktt_notify_twitter:

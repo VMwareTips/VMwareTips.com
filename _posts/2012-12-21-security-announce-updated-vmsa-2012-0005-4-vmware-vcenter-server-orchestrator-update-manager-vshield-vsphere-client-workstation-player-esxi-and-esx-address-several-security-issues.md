@@ -3,7 +3,7 @@ id: 1896
 title: '[Security-announce] UPDATED VMSA-2012-0005.4 VMware vCenter Server, Orchestrator, Update Manager, vShield, vSphere Client, Workstation, Player, ESXi, and ESX address several security issues'
 date: 2012-12-21T00:28:08+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1896
 permalink: /2012/12/21/security-announce-updated-vmsa-2012-0005-4-vmware-vcenter-server-orchestrator-update-manager-vshield-vsphere-client-workstation-player-esxi-and-esx-address-several-security-issues/
 ratings_users:

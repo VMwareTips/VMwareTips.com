@@ -3,7 +3,7 @@ id: 545
 title: VCDX Design Exam just a few weeks away
 date: 2009-02-05T13:58:42+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=545
 permalink: /2009/02/05/vcdx-design-exam-just-a-few-weeks-away/
 aktt_notify_twitter:

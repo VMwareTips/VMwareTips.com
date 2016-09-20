@@ -3,7 +3,7 @@ id: 480
 title: SSH from an ESX host into NetApp OnTAP
 date: 2009-01-16T13:43:06+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=480
 permalink: /2009/01/16/ssh-from-an-esx-host-into-netapp-ontap/
 aktt_notify_twitter:

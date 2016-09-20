@@ -3,7 +3,7 @@ id: 408
 title: 'VM Storage &#8211; RAID Protection and Performance'
 date: 2008-12-22T22:15:37+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=408
 permalink: /2008/12/22/vm-storage-raid-protection-and-performance/
 ratings_users:

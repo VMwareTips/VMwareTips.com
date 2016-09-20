@@ -3,7 +3,7 @@ id: 1983
 title: 'VMware Systems Engineer &#8211; Malden, MA'
 date: 2013-02-14T12:54:57+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1983
 permalink: /2013/02/14/vmware-systems-engineer-malden-ma/
 ratings_users:

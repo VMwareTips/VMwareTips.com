@@ -3,7 +3,7 @@ id: 1253
 title: vSpecialist Rockstars are Worldwide
 date: 2011-01-10T15:05:17+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1253
 permalink: /2011/01/10/vspecialist-rockstars-are-worldwide/
 ratings_users:

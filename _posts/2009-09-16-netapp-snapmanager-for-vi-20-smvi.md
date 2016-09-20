@@ -3,7 +3,7 @@ id: 1016
 title: NetApp SnapManager for VI 2.0 (SMVI)
 date: 2009-09-16T09:58:15+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1016
 permalink: /2009/09/16/netapp-snapmanager-for-vi-20-smvi/
 aktt_notify_twitter:

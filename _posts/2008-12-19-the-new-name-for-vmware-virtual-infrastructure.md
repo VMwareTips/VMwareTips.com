@@ -3,7 +3,7 @@ id: 397
 title: The New Name for VMware Virtual Infrastructure
 date: 2008-12-19T15:53:37+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=397
 permalink: /2008/12/19/the-new-name-for-vmware-virtual-infrastructure/
 ratings_users:

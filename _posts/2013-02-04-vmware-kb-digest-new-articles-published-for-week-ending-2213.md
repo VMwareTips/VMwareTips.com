@@ -3,7 +3,7 @@ id: 1949
 title: 'VMware KB Digest &#8211; New Articles Published for Week Ending 2/2/13'
 date: 2013-02-04T08:06:32+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1949
 permalink: /2013/02/04/vmware-kb-digest-new-articles-published-for-week-ending-2213/
 ratings_users:

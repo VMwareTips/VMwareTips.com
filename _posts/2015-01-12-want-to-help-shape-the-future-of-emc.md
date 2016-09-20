@@ -3,7 +3,7 @@ id: 2596
 title: Want to help shape the future of EMC?
 date: 2015-01-12T11:06:44+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2596
 permalink: /2015/01/12/want-to-help-shape-the-future-of-emc/
 ratings_users:

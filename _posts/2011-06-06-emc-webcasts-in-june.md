@@ -3,7 +3,7 @@ id: 1342
 title: EMC Webcasts in June
 date: 2011-06-06T12:05:37+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1342
 permalink: /2011/06/06/emc-webcasts-in-june/
 ratings_users:

@@ -3,7 +3,7 @@ id: 1148
 title: 'Chapter 3 &#8211; A New Beginning&#8230;'
 date: 2010-01-15T16:31:02+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1148
 permalink: /2010/01/15/chapter-3-a-new-beginning/
 aktt_notify_twitter:

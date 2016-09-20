@@ -3,7 +3,7 @@ id: 903
 title: 'VMworld 2009 &#8211; Ask the Experts &#8211; Question Submission'
 date: 2009-07-07T17:13:43+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=903
 permalink: /2009/07/07/vmworld-2009-ask-the-experts-question-submission/
 aktt_notify_twitter:

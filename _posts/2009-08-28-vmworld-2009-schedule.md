@@ -3,7 +3,7 @@ id: 982
 title: VMworld 2009 Schedule
 date: 2009-08-28T07:28:00+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=982
 permalink: /2009/08/28/vmworld-2009-schedule/
 aktt_notify_twitter:

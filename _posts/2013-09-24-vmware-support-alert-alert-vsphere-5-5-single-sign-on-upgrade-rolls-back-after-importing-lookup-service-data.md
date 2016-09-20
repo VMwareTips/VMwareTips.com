@@ -3,7 +3,7 @@ id: 2191
 title: 'VMware Support Alert &#8211; ALERT: vSphere 5.5 Single Sign-On upgrade rolls back after importing Lookup Service data'
 date: 2013-09-24T09:30:58+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2191
 permalink: /2013/09/24/vmware-support-alert-alert-vsphere-5-5-single-sign-on-upgrade-rolls-back-after-importing-lookup-service-data/
 ratings_users:

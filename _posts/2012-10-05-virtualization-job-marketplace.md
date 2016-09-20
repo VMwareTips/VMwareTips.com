@@ -3,7 +3,7 @@ id: 1756
 title: Virtualization Job Marketplace
 date: 2012-10-05T13:11:30+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1756
 permalink: /2012/10/05/virtualization-job-marketplace/
 ratings_users:

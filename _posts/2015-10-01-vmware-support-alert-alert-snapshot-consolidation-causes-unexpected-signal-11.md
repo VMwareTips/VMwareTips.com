@@ -3,7 +3,7 @@ id: 2827
 title: 'VMware Support Alert &#8211; ALERT: Snapshot consolidation causes Unexpected signal: 11'
 date: 2015-10-01T11:58:44+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2827
 permalink: /2015/10/01/vmware-support-alert-alert-snapshot-consolidation-causes-unexpected-signal-11/
 ratings_users:

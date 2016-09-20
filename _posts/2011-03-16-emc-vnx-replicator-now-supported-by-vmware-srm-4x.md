@@ -3,7 +3,7 @@ id: 1318
 title: EMC VNX Replicator now supported by VMware SRM 4.x
 date: 2011-03-16T10:40:31+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1318
 permalink: /2011/03/16/emc-vnx-replicator-now-supported-by-vmware-srm-4x/
 ratings_users:

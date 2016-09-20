@@ -3,7 +3,7 @@ id: 590
 title: 'VMworld Europe 2009 &#8211; Less than 3 Hours To Go!'
 date: 2009-02-23T20:47:53+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=590
 permalink: /2009/02/23/vmworld-europe-2009-less-than-3-hours-to-go/
 aktt_notify_twitter:

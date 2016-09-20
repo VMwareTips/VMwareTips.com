@@ -3,7 +3,7 @@ id: 648
 title: 'Rove Mobile Admin 4.2 &#8211; VMware vCenter Support Added'
 date: 2009-03-20T09:53:30+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=648
 permalink: /2009/03/20/rove-mobile-admin-42-vmware-vcenter-support-added/
 aktt_notify_twitter:

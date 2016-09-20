@@ -3,7 +3,7 @@ id: 87
 title: Speaking at ComputerWorld Virtualization Directions
 date: 2008-10-16T13:49:34+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=87
 permalink: /2008/10/16/vmwaretipscom-speaking-at-virtualization-directions/
 views:

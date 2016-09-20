@@ -3,7 +3,7 @@ id: 2015
 title: VMware Presales/Solutions Architect in San Diego, CA
 date: 2013-03-31T10:34:21+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2015
 permalink: /2013/03/31/vmware-presalessolutions-architect-in-san-diego-ca/
 ratings_users:

@@ -3,7 +3,7 @@ id: 1316
 title: Storage Saavy in SoCal? Want a Job?
 date: 2011-03-01T18:59:46+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1316
 permalink: /2011/03/01/storage-saavy-in-socal-want-a-job/
 ratings_users:

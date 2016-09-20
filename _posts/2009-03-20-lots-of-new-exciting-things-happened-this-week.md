@@ -3,7 +3,7 @@ id: 647
 title: Lots of New Exciting Things Happened This Week
 date: 2009-03-20T10:14:12+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=647
 permalink: /2009/03/20/lots-of-new-exciting-things-happened-this-week/
 aktt_notify_twitter:

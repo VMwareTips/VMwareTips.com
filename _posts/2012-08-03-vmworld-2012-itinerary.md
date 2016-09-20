@@ -3,7 +3,7 @@ id: 1513
 title: VMworld 2012 Itinerary
 date: 2012-08-03T14:30:04+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1513
 permalink: /2012/08/03/vmworld-2012-itinerary/
 ratings_users:

@@ -3,7 +3,7 @@ id: 414
 title: NetApp SnapManager for Virtual Infrastructure and VIBE
 date: 2008-12-23T18:00:19+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=414
 permalink: /2008/12/23/netapp-snapmanager-for-virtual-infrastructure-and-vibe/
 ratings_users:

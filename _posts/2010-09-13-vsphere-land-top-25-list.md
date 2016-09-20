@@ -3,7 +3,7 @@ id: 1221
 title: vSphere-Land Top 25 List
 date: 2010-09-13T20:52:33+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1221
 permalink: /2010/09/13/vsphere-land-top-25-list/
 aktt_notify_twitter:

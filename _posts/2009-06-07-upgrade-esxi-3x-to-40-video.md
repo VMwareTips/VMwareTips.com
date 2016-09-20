@@ -3,7 +3,7 @@ id: 865
 title: Upgrade ESXi 3.x to 4.0 Video
 date: 2009-06-07T12:18:31+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=865
 permalink: /2009/06/07/upgrade-esxi-3x-to-40-video/
 aktt_notify_twitter:

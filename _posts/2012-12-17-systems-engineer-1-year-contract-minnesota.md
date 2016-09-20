@@ -3,7 +3,7 @@ id: 1884
 title: 'Systems Engineer &#8211; 1 year contract &#8211; Minnesota'
 date: 2012-12-17T16:42:24+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1884
 permalink: /2012/12/17/systems-engineer-1-year-contract-minnesota/
 ratings_users:

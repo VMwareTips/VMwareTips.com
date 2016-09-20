@@ -3,7 +3,7 @@ id: 403
 title: EMC Documentum not supported in VMware
 date: 2008-12-19T16:54:12+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=403
 permalink: /2008/12/19/emc-documentum-not-supported-in-vmware/
 ratings_users:

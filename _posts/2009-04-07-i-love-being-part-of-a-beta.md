@@ -3,7 +3,7 @@ id: 687
 title: I Love Being Part of a BETA
 date: 2009-04-07T14:53:44+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=687
 permalink: /2009/04/07/i-love-being-part-of-a-beta/
 aktt_notify_twitter:

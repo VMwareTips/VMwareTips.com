@@ -3,7 +3,7 @@ id: 1989
 title: vSphere-Land Voting for Top Blogs 2013
 date: 2013-02-20T01:02:41+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1989
 permalink: /2013/02/20/vsphere-land-voting-for-top-blogs-2013/
 ratings_users:

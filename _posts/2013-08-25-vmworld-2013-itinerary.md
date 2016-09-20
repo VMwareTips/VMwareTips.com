@@ -3,7 +3,7 @@ id: 2111
 title: VMworld 2013 Itinerary
 date: 2013-08-25T11:41:26+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2111
 permalink: /2013/08/25/vmworld-2013-itinerary/
 ratings_users:

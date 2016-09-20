@@ -3,7 +3,7 @@ id: 442
 title: Happy New Year
 date: 2008-12-31T13:43:44+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=442
 permalink: /2008/12/31/happy-new-year/
 aktt_notify_twitter:

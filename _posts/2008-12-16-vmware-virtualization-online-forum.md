@@ -3,7 +3,7 @@ id: 377
 title: VMware Virtualization Online Forum
 date: 2008-12-16T14:58:19+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=377
 permalink: /2008/12/16/vmware-virtualization-online-forum/
 ratings_users:

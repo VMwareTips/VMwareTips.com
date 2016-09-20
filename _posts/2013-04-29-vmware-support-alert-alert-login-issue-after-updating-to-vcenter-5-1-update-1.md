@@ -3,7 +3,7 @@ id: 2036
 title: 'VMware Support Alert &#8211; ALERT: Login issue after updating to vCenter 5.1 Update 1'
 date: 2013-04-29T05:57:08+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2036
 permalink: /2013/04/29/vmware-support-alert-alert-login-issue-after-updating-to-vcenter-5-1-update-1/
 ratings_users:

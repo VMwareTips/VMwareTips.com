@@ -3,7 +3,7 @@ id: 2788
 title: 'VMworld Day 1 &#8211; Quick Review'
 date: 2015-09-01T01:49:12+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2788
 permalink: /2015/09/01/vmworld-day-1-quick-review/
 ratings_users:

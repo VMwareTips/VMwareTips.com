@@ -3,7 +3,7 @@ id: 1065
 title: The New Player on the vBlock
 date: 2009-11-03T14:44:35+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1065
 permalink: /2009/11/03/the-new-player-on-the-vblock/
 aktt_notify_twitter:

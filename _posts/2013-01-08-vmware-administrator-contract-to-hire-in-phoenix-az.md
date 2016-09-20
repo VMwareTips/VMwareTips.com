@@ -3,7 +3,7 @@ id: 1921
 title: VMware Administrator Contract to Hire in Phoenix, AZ
 date: 2013-01-08T12:47:57+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1921
 permalink: /2013/01/08/vmware-administrator-contract-to-hire-in-phoenix-az/
 ratings_users:

@@ -3,7 +3,7 @@ id: 278
 title: Speaking at NetApp/VMware Event
 date: 2008-11-12T16:49:13+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=278
 permalink: /2008/11/12/speaking-at-netappvmware-event/
 ratings_users:

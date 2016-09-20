@@ -3,7 +3,7 @@ id: 1925
 title: Infrastructure Architect position in Torrance, CA
 date: 2013-01-09T16:17:55+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1925
 permalink: /2013/01/09/infrastructure-architect-position-in-torrance-ca/
 ratings_users:

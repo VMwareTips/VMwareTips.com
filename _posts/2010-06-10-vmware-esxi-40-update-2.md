@@ -3,7 +3,7 @@ id: 1160
 title: VMware ESX(i) 4.0 Update 2
 date: 2010-06-10T21:10:02+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1160
 permalink: /2010/06/10/vmware-esxi-40-update-2/
 aktt_notify_twitter:

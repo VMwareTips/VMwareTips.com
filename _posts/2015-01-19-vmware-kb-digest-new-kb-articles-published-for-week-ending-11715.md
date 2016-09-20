@@ -3,7 +3,7 @@ id: 2600
 title: 'VMware KB Digest &#8211; New KB articles published for week ending 1/17/15'
 date: 2015-01-19T09:14:13+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2600
 permalink: /2015/01/19/vmware-kb-digest-new-kb-articles-published-for-week-ending-11715/
 ratings_users:

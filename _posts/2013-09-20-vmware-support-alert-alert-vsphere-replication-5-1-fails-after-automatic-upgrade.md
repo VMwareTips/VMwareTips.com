@@ -3,7 +3,7 @@ id: 2177
 title: 'VMware Support Alert &#8211; ALERT: vSphere Replication 5.1 fails after automatic upgrade'
 date: 2013-09-20T09:32:14+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2177
 permalink: /2013/09/20/vmware-support-alert-alert-vsphere-replication-5-1-fails-after-automatic-upgrade/
 ratings_users:

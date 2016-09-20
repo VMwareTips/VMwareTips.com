@@ -4,7 +4,7 @@ title: 'NFS Datastores and what was their BIG issue&#8230;'
 date: 2008-10-13T20:18:05+00:00
 author: Rick Scherer
 excerpt: http://vmwaretips.com/wp/?p=105
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=48
 permalink: /2008/10/13/nfs-datastores-and-what-was-their-big-issue/
 views:

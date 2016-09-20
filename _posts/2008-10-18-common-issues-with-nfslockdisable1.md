@@ -3,7 +3,7 @@ id: 105
 title: Common issues with NFS.LockDisable=1
 date: 2008-10-18T09:53:12+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=105
 permalink: /2008/10/18/common-issues-with-nfslockdisable1/
 views:

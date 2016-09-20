@@ -3,7 +3,7 @@ id: 2710
 title: 'VMware Support Alert &#8211; ALERT: Support for Leap Seconds in VMware Products'
 date: 2015-06-22T06:18:42+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2710
 permalink: /2015/06/22/vmware-support-alert-alert-support-for-leap-seconds-in-vmware-products/
 ratings_users:

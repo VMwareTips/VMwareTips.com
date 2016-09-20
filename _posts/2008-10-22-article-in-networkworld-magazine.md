@@ -3,7 +3,7 @@ id: 149
 title: Article in NetworkWorld Magazine
 date: 2008-10-22T08:34:59+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=149
 permalink: /2008/10/22/article-in-networkworld-magazine/
 ratings_users:

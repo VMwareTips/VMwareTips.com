@@ -3,7 +3,7 @@ id: 1057
 title: San Diego VMware Users Group Meeting
 date: 2009-10-21T13:46:35+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1057
 permalink: /2009/10/21/san-diego-vmware-users-group-meeting/
 aktt_notify_twitter:

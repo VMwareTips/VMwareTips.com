@@ -3,7 +3,7 @@ id: 2847
 title: 'VMSA-2015-0008 &#8211; VMware product updates address information disclosure issue'
 date: 2015-11-18T19:44:25+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2847
 permalink: /2015/11/18/security-announce-new-vmsa-2015-0008-vmware-product-updates-address-information-disclosure-issue/
 ratings_users:

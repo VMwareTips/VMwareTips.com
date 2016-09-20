@@ -3,7 +3,7 @@ id: 1279
 title: 'VMware VCAP-DCA #1'
 date: 2011-02-11T19:49:56+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1279
 permalink: /2011/02/11/vmware-vcap-dca-1/
 ratings_users:

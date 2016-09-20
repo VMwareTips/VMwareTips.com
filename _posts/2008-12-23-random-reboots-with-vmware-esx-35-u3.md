@@ -3,7 +3,7 @@ id: 432
 title: Random Reboots with VMware ESX 3.5 U3
 date: 2008-12-23T19:53:36+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=432
 permalink: /2008/12/23/random-reboots-with-vmware-esx-35-u3/
 ratings_users:

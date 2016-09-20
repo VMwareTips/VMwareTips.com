@@ -3,7 +3,7 @@ id: 30
 title: Changing the IP of your NFS Datastore
 date: 2008-09-13T08:49:00+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=30
 permalink: /2008/09/13/changing-the-ip-of-your-nfs-datastore/
 views:

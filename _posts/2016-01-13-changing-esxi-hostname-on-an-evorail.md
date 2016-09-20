@@ -3,7 +3,7 @@ id: 2908
 title: Changing ESXi Hostname on an EVO:RAIL Appliance
 date: 2016-01-13T12:24:47+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2908
 permalink: /2016/01/13/changing-esxi-hostname-on-an-evorail/
 ratings_users:

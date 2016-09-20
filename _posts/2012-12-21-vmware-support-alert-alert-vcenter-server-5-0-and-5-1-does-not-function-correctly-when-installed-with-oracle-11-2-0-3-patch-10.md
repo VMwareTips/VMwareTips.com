@@ -3,7 +3,7 @@ id: 1900
 title: 'VMware Support Alert &#8211; ALERT: vCenter Server 5.0 and 5.1 does not function correctly when installed with Oracle 11.2.0.3 Patch 10'
 date: 2012-12-21T06:47:46+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1900
 permalink: /2012/12/21/vmware-support-alert-alert-vcenter-server-5-0-and-5-1-does-not-function-correctly-when-installed-with-oracle-11-2-0-3-patch-10/
 ratings_users:

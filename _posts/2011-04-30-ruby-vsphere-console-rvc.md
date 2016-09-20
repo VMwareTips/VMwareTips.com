@@ -3,7 +3,7 @@ id: 1330
 title: Ruby vSphere Console (RVC)
 date: 2011-04-30T09:56:20+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1330
 permalink: /2011/04/30/ruby-vsphere-console-rvc/
 ratings_users:

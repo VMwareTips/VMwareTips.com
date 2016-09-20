@@ -3,7 +3,7 @@ id: 746
 title: 'VMware vSphere 4 Launch Event &#8211; On-Site Coverage &#8211; Second Video Live!'
 date: 2009-04-21T08:30:35+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=746
 permalink: /2009/04/21/vmware-vsphere-launch/
 aktt_notify_twitter:

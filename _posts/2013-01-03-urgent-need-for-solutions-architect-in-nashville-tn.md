@@ -3,7 +3,7 @@ id: 1914
 title: Urgent Need for Solutions Architect in Nashville, TN
 date: 2013-01-03T13:01:20+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1914
 permalink: /2013/01/03/urgent-need-for-solutions-architect-in-nashville-tn/
 ratings_users:

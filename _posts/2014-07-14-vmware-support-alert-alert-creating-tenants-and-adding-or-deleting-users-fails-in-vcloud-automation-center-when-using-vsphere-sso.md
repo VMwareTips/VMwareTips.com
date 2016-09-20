@@ -3,7 +3,7 @@ id: 2376
 title: 'VMware Support Alert &#8211; ALERT: Creating tenants and adding or deleting users fails in vCloud Automation Center when using vSphere SSO'
 date: 2014-07-14T07:04:56+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2376
 permalink: /2014/07/14/vmware-support-alert-alert-creating-tenants-and-adding-or-deleting-users-fails-in-vcloud-automation-center-when-using-vsphere-sso/
 ratings_users:

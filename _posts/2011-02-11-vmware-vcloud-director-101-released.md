@@ -3,7 +3,7 @@ id: 1277
 title: VMware vCloud Director 1.0.1 Released
 date: 2011-02-11T19:24:13+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1277
 permalink: /2011/02/11/vmware-vcloud-director-101-released/
 ratings_users:

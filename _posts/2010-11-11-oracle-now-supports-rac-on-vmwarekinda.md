@@ -3,7 +3,7 @@ id: 1228
 title: 'Oracle now supports RAC on VMware&#8230;kinda'
 date: 2010-11-11T12:07:38+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1228
 permalink: /2010/11/11/oracle-now-supports-rac-on-vmwarekinda/
 ratings_users:

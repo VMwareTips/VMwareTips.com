@@ -3,7 +3,7 @@ id: 723
 title: 'VCP, VCDX&#8230;.now a Master VCP?!'
 date: 2009-04-15T15:32:52+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=723
 permalink: /2009/04/15/vcp-vcdxnow-a-master-vcp/
 aktt_notify_twitter:

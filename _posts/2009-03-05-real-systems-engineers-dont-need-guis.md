@@ -3,7 +3,7 @@ id: 641
 title: 'REAL Systems Engineers Don&#8217;t Need GUIs'
 date: 2009-03-05T17:08:11+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=641
 permalink: /2009/03/05/real-systems-engineers-dont-need-guis/
 aktt_notify_twitter:

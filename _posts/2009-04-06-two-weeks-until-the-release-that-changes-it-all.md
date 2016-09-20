@@ -3,7 +3,7 @@ id: 679
 title: Two Weeks Until the Release that Changes it All
 date: 2009-04-06T22:41:28+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=679
 permalink: /2009/04/06/two-weeks-until-the-release-that-changes-it-all/
 aktt_notify_twitter:

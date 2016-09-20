@@ -3,7 +3,7 @@ id: 1024
 title: Share Your VMware Experience and Win a MacBook
 date: 2009-09-16T16:57:37+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1024
 permalink: /2009/09/16/share-your-vmware-experience-and-win-a-macbook/
 aktt_notify_twitter:

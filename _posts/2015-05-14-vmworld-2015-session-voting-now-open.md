@@ -3,7 +3,7 @@ id: 2677
 title: 'VMworld 2015 &#8211; Session Voting Now Open!'
 date: 2015-05-14T10:16:32+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2677
 permalink: /2015/05/14/vmworld-2015-session-voting-now-open/
 ratings_users:

@@ -3,7 +3,7 @@ id: 3206
 title: 'NEW VMSA-2016-0014 &#8211; VMware ESXi, Workstation, Fusion, and Tools updates address multiple security issues'
 date: 2016-09-13T11:45:09+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=3206
 permalink: /2016/09/13/security-announce-new-vmsa-2016-0014-vmware-esxi-workstation-fusion-and-tools-updates-address-multiple-security-issues/
 ratings_users:

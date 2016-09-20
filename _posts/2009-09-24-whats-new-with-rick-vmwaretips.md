@@ -3,7 +3,7 @@ id: 1036
 title: 'What&#8217;s New with Rick @ VMwareTips'
 date: 2009-09-24T23:23:34+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1036
 permalink: /2009/09/24/whats-new-with-rick-vmwaretips/
 aktt_notify_twitter:

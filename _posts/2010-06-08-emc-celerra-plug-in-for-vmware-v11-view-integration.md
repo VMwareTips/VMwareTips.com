@@ -3,7 +3,7 @@ id: 1182
 title: 'EMC Celerra Plug-in for VMware v1.1 &#8211; View Integration'
 date: 2010-06-08T19:02:41+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1182
 permalink: /2010/06/08/emc-celerra-plug-in-for-vmware-v11-view-integration/
 aktt_notify_twitter:

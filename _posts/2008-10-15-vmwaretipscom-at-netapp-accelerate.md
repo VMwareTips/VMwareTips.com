@@ -3,7 +3,7 @@ id: 56
 title: Speaking at NetApp Accelerate
 date: 2008-10-15T16:18:26+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=56
 permalink: /2008/10/15/vmwaretipscom-at-netapp-accelerate/
 views:

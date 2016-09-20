@@ -3,7 +3,7 @@ id: 1019
 title: New VMware Download Center
 date: 2009-09-16T13:52:05+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1019
 permalink: /2009/09/16/new-vmware-download-center/
 aktt_notify_twitter:

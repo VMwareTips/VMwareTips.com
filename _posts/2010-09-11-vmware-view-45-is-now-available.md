@@ -3,7 +3,7 @@ id: 1219
 title: VMware View 4.5 is Now Available
 date: 2010-09-11T10:31:56+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1219
 permalink: /2010/09/11/vmware-view-45-is-now-available/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 1906
 title: 'Systems Engineer &#8211; St.Paul, MN &#8211; 12 Mon Contract'
 date: 2013-01-01T13:26:34+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1906
 permalink: /2013/01/01/systems-engineer-st-paul-mn-12-mon-contract/
 ratings_users:

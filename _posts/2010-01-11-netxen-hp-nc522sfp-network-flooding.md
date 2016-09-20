@@ -3,7 +3,7 @@ id: 1141
 title: NetXen HP NC522SFP Network Flooding
 date: 2010-01-11T18:49:25+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1141
 permalink: /2010/01/11/netxen-hp-nc522sfp-network-flooding/
 aktt_notify_twitter:

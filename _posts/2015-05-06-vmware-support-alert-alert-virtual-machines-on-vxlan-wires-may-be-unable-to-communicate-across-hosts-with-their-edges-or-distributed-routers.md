@@ -3,7 +3,7 @@ id: 2653
 title: 'VMware Support Alert &#8211; ALERT: Virtual Machines on VXLAN Wires may be unable to communicate across hosts with their Edges or Distributed Routers'
 date: 2015-05-06T06:03:40+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2653
 permalink: /2015/05/06/vmware-support-alert-alert-virtual-machines-on-vxlan-wires-may-be-unable-to-communicate-across-hosts-with-their-edges-or-distributed-routers/
 ratings_users:

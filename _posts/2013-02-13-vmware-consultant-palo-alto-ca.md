@@ -3,7 +3,7 @@ id: 1979
 title: 'VMware Consultant &#8211; Palo Alto, CA'
 date: 2013-02-13T09:03:46+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1979
 permalink: /2013/02/13/vmware-consultant-palo-alto-ca/
 ratings_users:

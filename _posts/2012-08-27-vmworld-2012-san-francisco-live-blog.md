@@ -3,7 +3,7 @@ id: 1597
 title: 'VMworld 2012 San Francisco &#8211; Live Blogging'
 date: 2012-08-27T01:06:10+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1597
 permalink: /2012/08/27/vmworld-2012-san-francisco-live-blog/
 liveblogging_hashtag:

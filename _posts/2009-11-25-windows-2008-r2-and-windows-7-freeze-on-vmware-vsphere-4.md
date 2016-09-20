@@ -3,7 +3,7 @@ id: 1083
 title: Windows 2008 R2 and Windows 7 Freeze on VMware vSphere 4
 date: 2009-11-25T10:45:29+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1083
 permalink: /2009/11/25/windows-2008-r2-and-windows-7-freeze-on-vmware-vsphere-4/
 aktt_notify_twitter:

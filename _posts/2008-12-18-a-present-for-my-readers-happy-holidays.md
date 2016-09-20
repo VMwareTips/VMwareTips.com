@@ -3,7 +3,7 @@ id: 389
 title: 'A Present for My Readers &#8211; Happy Holidays'
 date: 2008-12-18T12:06:56+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=389
 permalink: /2008/12/18/a-present-for-my-readers-happy-holidays/
 ratings_users:

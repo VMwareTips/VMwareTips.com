@@ -3,7 +3,7 @@ id: 2102
 title: 'VMworld 2013 &#8211; Ask the Experts Panel Sessions'
 date: 2013-08-10T11:51:53+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2102
 permalink: /2013/08/10/vmworld-2013-ask-the-experts-panel-sessions/
 ratings_users:

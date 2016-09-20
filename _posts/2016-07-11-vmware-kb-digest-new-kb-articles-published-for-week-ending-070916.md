@@ -3,7 +3,7 @@ id: 3103
 title: 'VMware KB Digest &#8211; New KB articles published for week ending 07/09/16'
 date: 2016-07-11T06:11:08+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=3103
 permalink: /2016/07/11/vmware-kb-digest-new-kb-articles-published-for-week-ending-070916/
 ratings_users:

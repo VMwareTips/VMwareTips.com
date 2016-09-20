@@ -3,7 +3,7 @@ id: 1274
 title: VMware vSphere 4.1 U1 Released
 date: 2011-02-11T19:08:11+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1274
 permalink: /2011/02/11/vmware-vsphere-41-u1-released/
 ratings_users:

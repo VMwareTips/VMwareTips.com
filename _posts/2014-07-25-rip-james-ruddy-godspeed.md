@@ -3,7 +3,7 @@ id: 2384
 title: 'RIP James Ruddy &#8211; Godspeed'
 date: 2014-07-25T11:04:06+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2384
 permalink: /2014/07/25/rip-james-ruddy-godspeed/
 ratings_users:

@@ -3,7 +3,7 @@ id: 2978
 title: 'VMware Support Alert &#8211; ALERT: Known supportability issues with certain Dell 12G controllers and Virtual SAN'
 date: 2016-03-16T12:37:23+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2978
 permalink: /2016/03/16/vmware-support-alert-alert-known-supportability-issues-with-certain-dell-12g-controllers-and-virtual-san/
 ratings_users:

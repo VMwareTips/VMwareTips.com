@@ -3,7 +3,7 @@ id: 2264
 title: 'VMware KB Digest &#8211; New KB articles published for week ending 2/1/14'
 date: 2014-02-03T08:06:46+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=2264
 permalink: /2014/02/03/vmware-kb-digest-new-kb-articles-published-for-week-ending-2114/
 ratings_users:

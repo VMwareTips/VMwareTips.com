@@ -3,7 +3,7 @@ id: 1288
 title: Get Your Read On
 date: 2011-02-21T11:44:34+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1288
 permalink: /2011/02/21/get-your-read-on/
 ratings_users:

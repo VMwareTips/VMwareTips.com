@@ -3,7 +3,7 @@ id: 319
 title: 'VMworld.com &#8211; Ask the Experts'
 date: 2008-12-01T17:19:39+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=319
 permalink: /2008/12/01/vmworldcom-ask-the-experts/
 ratings_users:

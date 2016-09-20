@@ -3,7 +3,7 @@ id: 888
 title: 'VMware Code Central &#8211; Now Online'
 date: 2009-06-25T17:18:53+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=888
 permalink: /2009/06/25/vmware-code-central-now-online/
 aktt_notify_twitter:

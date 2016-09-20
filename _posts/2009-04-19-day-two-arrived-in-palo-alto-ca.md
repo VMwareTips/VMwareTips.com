@@ -3,7 +3,7 @@ id: 733
 title: 'Day Two &#8211; Arrived in Palo Alto, CA'
 date: 2009-04-19T23:26:27+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=733
 permalink: /2009/04/19/day-two-arrived-in-palo-alto-ca/
 aktt_notify_twitter:

@@ -3,7 +3,7 @@ id: 798
 title: Pre-Order Mastering VMware vSphere 4
 date: 2009-05-20T10:04:38+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=798
 permalink: /2009/05/20/pre-order-mastering-vmware-vsphere-4/
 aktt_notify_twitter:

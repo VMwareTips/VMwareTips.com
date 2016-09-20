@@ -3,7 +3,7 @@ id: 825
 title: Upgrade VMware vCenter 2.5 to 4.0 Video
 date: 2009-06-01T21:09:58+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=825
 permalink: /2009/06/01/upgrade-vmware-vcenter-25-to-40-video/
 aktt_notify_twitter:

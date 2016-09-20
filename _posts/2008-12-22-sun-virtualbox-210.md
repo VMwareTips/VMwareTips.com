@@ -3,7 +3,7 @@ id: 405
 title: Sun VirtualBox 2.1.0
 date: 2008-12-22T09:19:33+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=405
 permalink: /2008/12/22/sun-virtualbox-210/
 ratings_users:

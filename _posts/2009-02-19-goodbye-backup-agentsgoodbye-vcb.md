@@ -3,7 +3,7 @@ id: 582
 title: 'Goodbye Backup Agents&#8230;.Goodbye VCB'
 date: 2009-02-19T16:23:38+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=582
 permalink: /2009/02/19/goodbye-backup-agentsgoodbye-vcb/
 aktt_notify_twitter:

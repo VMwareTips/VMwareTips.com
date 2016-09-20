@@ -3,7 +3,7 @@ id: 922
 title: Amazon Purchases a $850,000,000 Shoe
 date: 2009-07-22T14:34:46+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=922
 permalink: /2009/07/22/amazon-purchases-a-850000000-shoe/
 aktt_notify_twitter:

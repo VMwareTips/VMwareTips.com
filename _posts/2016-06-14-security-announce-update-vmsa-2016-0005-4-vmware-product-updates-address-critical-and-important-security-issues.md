@@ -3,7 +3,7 @@ id: 3084
 title: UPDATE VMSA-2016-0005.4 VMware product updates address critical and important security issues
 date: 2016-06-14T22:56:38+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=3084
 permalink: /2016/06/14/security-announce-update-vmsa-2016-0005-4-vmware-product-updates-address-critical-and-important-security-issues/
 ratings_users:

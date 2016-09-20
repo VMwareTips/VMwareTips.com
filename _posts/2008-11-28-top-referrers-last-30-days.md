@@ -3,7 +3,7 @@ id: 311
 title: Top Referrers Last 30 Days
 date: 2008-11-28T14:55:33+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=311
 permalink: /2008/11/28/top-referrers-last-30-days/
 ratings_users:

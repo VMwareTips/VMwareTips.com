@@ -3,7 +3,7 @@ id: 781
 title: 'San Diego VMware Users Group &#8211; May 15, 2009'
 date: 2009-05-15T15:36:43+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=781
 permalink: /2009/05/15/san-diego-vmware-users-group-may-15-2009/
 aktt_notify_twitter:

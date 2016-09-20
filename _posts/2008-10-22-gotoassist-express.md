@@ -3,7 +3,7 @@ id: 156
 title: GoToAssist Express
 date: 2008-10-22T17:11:01+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=156
 permalink: /2008/10/22/gotoassist-express/
 ratings_users:

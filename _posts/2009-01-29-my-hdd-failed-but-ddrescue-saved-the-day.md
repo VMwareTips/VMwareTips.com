@@ -3,7 +3,7 @@ id: 517
 title: 'My HDD Failed &#8211; But ddrescue Saved the Day'
 date: 2009-01-29T13:56:58+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=517
 permalink: /2009/01/29/my-hdd-failed-but-ddrescue-saved-the-day/
 aktt_notify_twitter:

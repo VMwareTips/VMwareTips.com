@@ -3,7 +3,7 @@ id: 326
 title: Virtualizing your DMZ
 date: 2008-12-05T17:46:51+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=326
 permalink: /2008/12/05/virtualizing-your-dmz/
 ratings_users:

@@ -3,7 +3,7 @@ id: 379
 title: Hyper-V Puts VMs At Risk During Migration
 date: 2008-12-16T17:22:57+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=379
 permalink: /2008/12/16/hyper-v-puts-vms-at-risk-during-migration/
 ratings_users:

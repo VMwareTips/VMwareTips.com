@@ -3,7 +3,7 @@ id: 1840
 title: '[Security-announce] VMware new security advisory VMSA-2012-0015'
 date: 2012-11-09T14:55:11+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1840
 permalink: /2012/11/09/security-announce-vmware-new-security-advisory-vmsa-2012-0015/
 ratings_users:

@@ -3,7 +3,7 @@ id: 795
 title: VMware Announces General Availability for vSphere on Thursday
 date: 2009-05-19T09:04:24+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=795
 permalink: /2009/05/19/vmware-announces-general-availability-for-vsphere-on-thursday/
 aktt_notify_twitter:

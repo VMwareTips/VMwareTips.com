@@ -3,7 +3,7 @@ id: 1717
 title: 'VMware Security Alert &#8211; [Security-announce] UPDATED VMSA-2012-0008.1 VMware ESX updates to ESX Service Console'
 date: 2012-09-16T21:15:19+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=1717
 permalink: /2012/09/16/vmware-security-alert-security-announce-updated-vmsa-2012-0008-1-vmware-esx-updates-to-esx-service-console-2/
 ratings_users:

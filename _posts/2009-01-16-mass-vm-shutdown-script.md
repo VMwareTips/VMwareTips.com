@@ -3,7 +3,7 @@ id: 478
 title: Mass VM Shutdown Script
 date: 2009-01-16T14:05:32+00:00
 author: Rick Scherer
-layout: post
+layout: single
 guid: http://vmwaretips.com/wp/?p=478
 permalink: /2009/01/16/mass-vm-shutdown-script/
 aktt_notify_twitter:
