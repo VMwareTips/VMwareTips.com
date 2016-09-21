@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "EfUlCIzjQycCX8S7tEHH6QsDbIASahn7Hfq6oxYfBFg"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -70,9 +70,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-6495038-1"
 
 
 # Site Author
@@ -80,9 +80,9 @@ author:
   name             : "Rick Scherer"
   avatar           : "bio-photo.jpg"
   bio              : "Lead Global Architect, CTO Ambassador, and Cloud Native Aficionado."
-  location         : ""
+  location         : 
   email            : "rick@vmwaretips.com"
-  uri              :
+  uri              : "www.rickscherer.com"
   bitbucket        :
   codepen          :
   dribbble         :
