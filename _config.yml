@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "VMwareTips.com"
+title                    : "blog.rickscherer.com"
 title_separator          : "-"
 name                     : "Rick Scherer"
-description              : "VMwareTips.com is the personal blog of Rick Scherer. Lead Global Architect, CTO Ambassador, and Cloud Native Aficionado"
+description              : "Lead Global Architect, CTO Ambassador, and Cloud Native Aficionado"
 url                      : "http://blog.rickscherer.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rickscherer/blog.rickscherer.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -18,9 +18,9 @@ teaser                   : # filename of teaser fallback teaser image placed in 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "vmwaretips" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "EfUlCIzjQycCX8S7tEHH6QsDbIASahn7Hfq6oxYfBFg"
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -75,17 +75,17 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-6495038-1"
+    tracking_id          : 
 
 # Site Author
 author:
   name             : "Rick Scherer"
   avatar           : "bio-photo.jpg"
-  bio              : "VMwareTips.com is the personal blog of Rick Scherer. Lead Global Architect, CTO Ambassador, and Cloud Native Aficionado."
+  bio              : "Lead Global Architect, CTO Ambassador, and Cloud Native Aficionado."
   location         : 
-  email            : "rick@vmwaretips.com"
+  email            : "rick@rickscherer.com"
   uri              : "http://www.rickscherer.com"
   bitbucket        :
   codepen          :
