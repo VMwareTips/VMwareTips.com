@@ -16,6 +16,8 @@ ratings_score:
   - 15
 ratings_average:
   - 5
+read_time: false		
+comments: false
 ---
 ![Rick Scherer](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAhBAAAAJGU3Yzk0MDljLTBkMTEtNDRlMC05NzQwLTIxZjM5M2NhNmRkMA.jpg "Rick Scherer")
 
