@@ -253,3 +253,5 @@ defaults:
       comments: false
       share: true
       related: true
+      header:
+        image: image-header.jpg
