@@ -6,7 +6,7 @@ author: "Rick Scherer"
 layout: single
 guid: http://vmwaretips.com/wp/?p=922
 permalink: /2009/07/22/amazon-purchases-a-850000000-shoe/
-redirect_from: /wp/2009/07/22/amazon-purchases-a-850000000-shoe/
+permalink: /wp/2009/07/22/amazon-purchases-a-850000000-shoe/
 aktt_notify_twitter:
   - yes
 ratings_users:
