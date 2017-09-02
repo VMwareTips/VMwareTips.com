@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "blog.rickscherer.com"
+title                    : "www.vmwaretips.com"
 title_separator          : "-"
 name                     : "Rick Scherer"
 description              : "Lead Global Architect, CTO Ambassador, and Cloud Native Aficionado"
-url                      : "http://blog.rickscherer.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://www.vmwaretips.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rickscherer/blog.rickscherer.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "rickscherer/vmwaretips.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,14 +77,14 @@ social:
 analytics:
   provider               : # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
+    tracking_id          :
 
 # Site Author
 author:
   name             : "Rick Scherer"
   avatar           : "bio-photo.jpg"
   bio              : "Lead Global Architect, CTO Ambassador, and Cloud Native Aficionado."
-  location         : 
+  location         :
   email            : "rick@rickscherer.com"
   uri              : "http://www.rickscherer.com"
   bitbucket        :
