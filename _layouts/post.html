@@ -53,11 +53,12 @@ layout: default
      </div>
 
      {% if page.share %}{% include social-share.html %}{% endif %}
-
+     <hr>
      {% if site.comments.provider and page.comments %}
+       <h5>Comments</h5>
        {% include disqus.html %}
      {% endif %}
-
+     <hr>
    {% include post_pagination.html %}
 
    </article>
