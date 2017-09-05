@@ -96,10 +96,6 @@ layout: default
        </section>
 
      <footer class="page__meta">
-       {% if site.data.ui-text[site.locale].meta_label %}
-         <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label | default: "Meta Data" }}</h4>
-       {% endif %}
-
        {% if page.share %}{% include social-share.html %}{% endif %}
 
        {% if page.id and page.related and site.related_posts.size > 0 %}
