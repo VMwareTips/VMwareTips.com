@@ -383,7 +383,7 @@
   @include clearfix();
   float: left;
 
-  @include breakpoint($medium) {
+  @include breakpoint($large) {
     @include pre(2.5 of 12);
   }
 
@@ -395,5 +395,5 @@
 
 .page__related-title {
   margin-bottom: 10px;
-  font-size: $type-size-7;
+  font-size: $type-size-6;
 }
