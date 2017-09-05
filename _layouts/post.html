@@ -42,29 +42,45 @@ layout: default
          <header>
            {% if page.title %}<h2 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h2>{% endif %}
            {% if page.modified %}
-             <p class="page__date"><time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% if page.comments %} • <a href="http://www.vmwaretips.com{{ page.url }}#disqus_thread">0 Comments</a>{% endif %}</p>
+             <p class="page__date"><time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% if page.comments %} • <a href="http://www.vmwaretips.com{{ page.url }}#disqus_thread">0 Comments</a>{% endif %} • {% if site.category_archive.path %}
+                          {% comment %}
+                            <!-- Sort alphabetically regardless of case e.g. a B c d E -->
+                            <!-- modified from http://www.codeofclimber.ru/2015/sorting-site-tags-in-jekyll/ -->
+                          {% endcomment %}
+                          {% capture page_categories %}{% for category in page.categories %}{{ category | downcase }}#{{ category }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+                          {% assign category_hashes = (page_categories | split: ',' | sort:0) %}
+
+                          <p class="page__taxonomy">
+                            {{ site.data.ui-text[site.locale].categories_label | default: "Filed under" }}
+                            <span itemprop="keywords">
+                            {% for hash in category_hashes %}
+                              {% assign keyValue = hash | split: '#' %}
+                              {% capture category_word %}{{ keyValue[1] | strip_newlines }}{% endcapture %}
+                              <a href="{{ base_path }}{{ category_word | slugify | prepend: path_type | prepend: site.category_archive.path }}" class="page__taxonomy-item" rel="tag">{{ category_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+                            {% endfor %}
+                            </span>
+                          </p>
+                        {% endif %}</p>
            {% elsif page.date %}
-             <p class="page__date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.comments %} • <a href="http://www.vmwaretips.com{{ page.url }}#disqus_thread">0 Comments</a>{% endif %}</p>
-           {% endif %}
+             <p class="page__date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.comments %} • <a href="http://www.vmwaretips.com{{ page.url }}#disqus_thread">0 Comments</a>{% endif %} • {% if site.category_archive.path %}
+                          {% comment %}
+                            <!-- Sort alphabetically regardless of case e.g. a B c d E -->
+                            <!-- modified from http://www.codeofclimber.ru/2015/sorting-site-tags-in-jekyll/ -->
+                          {% endcomment %}
+                          {% capture page_categories %}{% for category in page.categories %}{{ category | downcase }}#{{ category }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+                          {% assign category_hashes = (page_categories | split: ',' | sort:0) %}
 
-           {% if site.category_archive.path %}
-             {% comment %}
-               <!-- Sort alphabetically regardless of case e.g. a B c d E -->
-               <!-- modified from http://www.codeofclimber.ru/2015/sorting-site-tags-in-jekyll/ -->
-             {% endcomment %}
-             {% capture page_categories %}{% for category in page.categories %}{{ category | downcase }}#{{ category }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-             {% assign category_hashes = (page_categories | split: ',' | sort:0) %}
-
-             <p class="page__taxonomy">
-               {{ site.data.ui-text[site.locale].categories_label | default: "Filed under" }}
-               <span itemprop="keywords">
-               {% for hash in category_hashes %}
-                 {% assign keyValue = hash | split: '#' %}
-                 {% capture category_word %}{{ keyValue[1] | strip_newlines }}{% endcapture %}
-                 <a href="{{ base_path }}{{ category_word | slugify | prepend: path_type | prepend: site.category_archive.path }}" class="page__taxonomy-item" rel="tag">{{ category_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
-               {% endfor %}
-               </span>
-             </p>
+                          <p class="page__taxonomy">
+                            {{ site.data.ui-text[site.locale].categories_label | default: "Filed under" }}
+                            <span itemprop="keywords">
+                            {% for hash in category_hashes %}
+                              {% assign keyValue = hash | split: '#' %}
+                              {% capture category_word %}{{ keyValue[1] | strip_newlines }}{% endcapture %}
+                              <a href="{{ base_path }}{{ category_word | slugify | prepend: path_type | prepend: site.category_archive.path }}" class="page__taxonomy-item" rel="tag">{{ category_word }}</a>{% unless forloop.last %}<span class="sep">, </span>{% endunless %}
+                            {% endfor %}
+                            </span>
+                          </p>
+                        {% endif %}</p>
            {% endif %}
 
            {% if site.tag_archive.path %}
