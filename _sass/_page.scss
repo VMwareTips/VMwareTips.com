@@ -266,7 +266,8 @@
   margin-bottom: 8px;
   padding: 5px 10px;
   text-decoration: none;
-  
+  border: 1px solid $light-gray;
+  border-radius: $border-radius;
 
   &:hover {
     text-decoration: none;
