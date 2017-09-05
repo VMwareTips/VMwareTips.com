@@ -60,19 +60,20 @@ layout: default
 {% endif %}
 
        <footer class="page__meta">
-         {% include page__taxonomy.html %}
-         {% if site.data.ui-text[site.locale].meta_label %}
-           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
-         {% endif %}
        </footer>
-     </div>
+
+       {% include page__taxonomy.html %}
+       {% if site.data.ui-text[site.locale].meta_label %}
+         <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+       {% endif %}
 
      {% if site.comments.provider and page.comments %}
+       <hr>
        <h4>Comments</h4>
        {% include disqus.html %}
      {% endif %}
 
    <!-- {% include post_pagination.html %} -->
-   
+
    </article>
  </div>
