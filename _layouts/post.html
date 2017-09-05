@@ -44,6 +44,7 @@ layout: default
          {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
        </section>
 
+     <footer class="page__meta">
 {% if page.share %}{% include social-share.html %}{% endif %}
 {% if page.id and page.related and site.related_posts.size > 0 %}
 
@@ -59,9 +60,6 @@ layout: default
   </div>
 {% endif %}
 
-       <footer class="page__meta">
-       </footer>
-
        {% include page__taxonomy.html %}
        {% if site.data.ui-text[site.locale].meta_label %}
          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
@@ -75,5 +73,6 @@ layout: default
 
    <!-- {% include post_pagination.html %} -->
 
+   </footer>
    </article>
  </div>
