@@ -32,9 +32,16 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+<!--
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
+-->
+{% if page.modified %}
+  <p class="page__date"><time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% if page.comments %} • <a href="http://www.vmwaretips.com{{ page.url }}#disqus_thread">0 Comments</a>{% endif %}</p>
+{% elsif page.date %}
+  <p class="page__date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.comments %} • <a href="http://www.vmwaretips.com{{ page.url }}#disqus_thread">0 Comments</a>{% endif %}</p>
+{% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
