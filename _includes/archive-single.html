@@ -37,10 +37,10 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 -->
-{% if page.modified %}
-  <p class="page__date"><time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% if page.comments %} • <a href="http://www.vmwaretips.com{{ page.url }}#disqus_thread">0 Comments</a>{% endif %}</p>
-{% elsif page.date %}
-  <p class="page__date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.comments %} • <a href="http://www.vmwaretips.com{{ page.url }}#disqus_thread">0 Comments</a>{% endif %}</p>
+{% if post.modified %}
+  <p class="post__date"><time datetime="{{ post.modified | date: "%Y-%m-%d" }}">{{ post.modified | date: "%B %d, %Y" }}</time>{% if post.comments %} • <a href="http://www.vmwaretips.com{{ post.url }}#disqus_thread">0 Comments</a>{% endif %}</p>
+{% elsif post.date %}
+  <p class="post__date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>{% if post.comments %} • <a href="http://www.vmwaretips.com{{ post.url }}#disqus_thread">0 Comments</a>{% endif %}</p>
 {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
