@@ -75,5 +75,3 @@ Here are a few features that we hope will help you find the information that you
 </p>
 
 The post <a rel="nofollow" href="http://bit.ly/2thAeyx">Introducing docs.vmware.com</a> appeared first on <a rel="nofollow" href="http://bit.ly/1KGVvob">Support Insider</a>.
-
-<img src="http://bit.ly/2thtUqE" height="1" width="1" alt="" />
