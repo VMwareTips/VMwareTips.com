@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=156
 permalink: /2008/10/22/gotoassist-express/
+redirect_from: /wp/2008/10/22/gotoassist-express/
 ratings_users:
   - "0"
 ratings_score:

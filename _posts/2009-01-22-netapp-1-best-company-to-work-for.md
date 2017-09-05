@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=508
 permalink: /2009/01/22/netapp-1-best-company-to-work-for/
+redirect_from: /wp/2009/01/22/netapp-1-best-company-to-work-for/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

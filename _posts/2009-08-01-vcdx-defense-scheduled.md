@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=950
 permalink: /2009/08/01/vcdx-defense-scheduled/
+redirect_from: /wp/2009/08/01/vcdx-defense-scheduled/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

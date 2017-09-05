@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1196
 permalink: /2010/06/18/emc-webcast-on-624-vaai-learn-all-about-vstorage-api-for-array-integration/
+redirect_from: /wp/2010/06/18/emc-webcast-on-624-vaai-learn-all-about-vstorage-api-for-array-integration/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

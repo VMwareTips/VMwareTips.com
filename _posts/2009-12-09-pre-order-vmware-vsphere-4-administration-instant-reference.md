@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1098
 permalink: /2009/12/09/pre-order-vmware-vsphere-4-administration-instant-reference/
+redirect_from: /wp/2009/12/09/pre-order-vmware-vsphere-4-administration-instant-reference/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1148
 permalink: /2010/01/15/chapter-3-a-new-beginning/
+redirect_from: /wp/2010/01/15/chapter-3-a-new-beginning/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

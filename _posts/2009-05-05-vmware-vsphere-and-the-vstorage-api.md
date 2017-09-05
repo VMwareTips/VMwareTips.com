@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=773
 permalink: /2009/05/05/vmware-vsphere-and-the-vstorage-api/
+redirect_from: /wp/2009/05/05/vmware-vsphere-and-the-vstorage-api/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

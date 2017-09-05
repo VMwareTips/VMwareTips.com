@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1977
 permalink: /2013/02/13/desktop-virtualization-solutions-architect-dallas-tx-or-san-jose-ca/
+redirect_from: /wp/2013/02/13/desktop-virtualization-solutions-architect-dallas-tx-or-san-jose-ca/
 ratings_users:
   - "0"
 ratings_score:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1194
 permalink: /2010/06/15/vmware-alert-view-customers-using-pcoip-are-advised-to-not-apply-update-2-to-esx-40-yet/
+redirect_from: /wp/2010/06/15/vmware-alert-view-customers-using-pcoip-are-advised-to-not-apply-update-2-to-esx-40-yet/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=350
 permalink: /2008/12/12/restarting-the-management-agents-on-an-esx-server/
+redirect_from: /wp/2008/12/12/restarting-the-management-agents-on-an-esx-server/
 ratings_users:
   - "2"
 ratings_score:

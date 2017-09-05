@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3363
 permalink: /2017/01/29/new-kb-articles-published-for-week-ending-012117/
+redirect_from: /wp/2017/01/29/new-kb-articles-published-for-week-ending-012117/
 ratings_users:
   - "0"
 ratings_score:

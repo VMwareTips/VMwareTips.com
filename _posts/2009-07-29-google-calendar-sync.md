@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=943
 permalink: /2009/07/29/google-calendar-sync/
+redirect_from: /wp/2009/07/29/google-calendar-sync/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

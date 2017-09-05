@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=648
 permalink: /2009/03/20/rove-mobile-admin-42-vmware-vcenter-support-added/
+redirect_from: /wp/2009/03/20/rove-mobile-admin-42-vmware-vcenter-support-added/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

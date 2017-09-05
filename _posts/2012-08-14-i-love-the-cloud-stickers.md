@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1564
 permalink: /2012/08/14/i-love-the-cloud-stickers/
+redirect_from: /wp/2012/08/14/i-love-the-cloud-stickers/
 ratings_users:
   - "1"
 ratings_score:

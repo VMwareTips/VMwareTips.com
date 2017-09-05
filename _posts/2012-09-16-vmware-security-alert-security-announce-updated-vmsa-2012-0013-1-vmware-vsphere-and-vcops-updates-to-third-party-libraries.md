@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1722
 permalink: /2012/09/16/vmware-security-alert-security-announce-updated-vmsa-2012-0013-1-vmware-vsphere-and-vcops-updates-to-third-party-libraries/
+redirect_from: /wp/2012/09/16/vmware-security-alert-security-announce-updated-vmsa-2012-0013-1-vmware-vsphere-and-vcops-updates-to-third-party-libraries/
 ratings_users:
   - "0"
 ratings_score:

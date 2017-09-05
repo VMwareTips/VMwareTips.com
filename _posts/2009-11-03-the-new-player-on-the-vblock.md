@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1065
 permalink: /2009/11/03/the-new-player-on-the-vblock/
+redirect_from: /wp/2009/11/03/the-new-player-on-the-vblock/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

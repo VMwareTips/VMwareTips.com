@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1353
 permalink: /2011/06/14/vaai-train-running-late-today/
+redirect_from: /wp/2011/06/14/vaai-train-running-late-today/
 ratings_users:
   - "2"
 ratings_score:

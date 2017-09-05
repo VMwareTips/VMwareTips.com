@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2191
 permalink: /2013/09/24/vmware-support-alert-alert-vsphere-5-5-single-sign-on-upgrade-rolls-back-after-importing-lookup-service-data/
+redirect_from: /wp/2013/09/24/vmware-support-alert-alert-vsphere-5-5-single-sign-on-upgrade-rolls-back-after-importing-lookup-service-data/
 ratings_users:
   - "0"
 ratings_score:

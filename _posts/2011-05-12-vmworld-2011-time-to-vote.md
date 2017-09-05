@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1340
 permalink: /2011/05/12/vmworld-2011-time-to-vote/
+redirect_from: /wp/2011/05/12/vmworld-2011-time-to-vote/
 ratings_users:
   - "0"
 ratings_score:

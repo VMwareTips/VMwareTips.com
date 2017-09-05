@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1427
 permalink: /2011/10/10/vsphere-5-video-series-installing-esxi-50-in-under-5-minutes/
+redirect_from: /wp/2011/10/10/vsphere-5-video-series-installing-esxi-50-in-under-5-minutes/
 ratings_users:
   - "2"
 ratings_score:

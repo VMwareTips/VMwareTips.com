@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2003
 permalink: /2013/03/18/vmware-support-alert-vmware-alert-powerpathve-5-7-fails-to-load-on-vmware-vsphere-version-5-1/
+redirect_from: /wp/2013/03/18/vmware-support-alert-vmware-alert-powerpathve-5-7-fails-to-load-on-vmware-vsphere-version-5-1/
 ratings_users:
   - "0"
 ratings_score:

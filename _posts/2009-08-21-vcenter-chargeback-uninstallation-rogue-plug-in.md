@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=974
 permalink: /2009/08/21/vcenter-chargeback-uninstallation-rogue-plug-in/
+redirect_from: /wp/2009/08/21/vcenter-chargeback-uninstallation-rogue-plug-in/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

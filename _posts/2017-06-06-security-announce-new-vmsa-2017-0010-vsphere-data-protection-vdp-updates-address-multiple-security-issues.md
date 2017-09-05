@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3404
 permalink: /2017/06/06/security-announce-new-vmsa-2017-0010-vsphere-data-protection-vdp-updates-address-multiple-security-issues/
+redirect_from: /wp/2017/06/06/security-announce-new-vmsa-2017-0010-vsphere-data-protection-vdp-updates-address-multiple-security-issues/
 ratings_users:
   - "0"
 ratings_score:

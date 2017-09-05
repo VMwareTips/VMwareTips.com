@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1172
 permalink: /2010/05/30/vcap4-and-vcdx4-certifications/
+redirect_from: /wp/2010/05/30/vcap4-and-vcdx4-certifications/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

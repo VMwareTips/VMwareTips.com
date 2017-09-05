@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1295
 permalink: /2011/02/26/vmware-view-46-released/
+redirect_from: /wp/2011/02/26/vmware-view-46-released/
 ratings_users:
   - "0"
 ratings_score:

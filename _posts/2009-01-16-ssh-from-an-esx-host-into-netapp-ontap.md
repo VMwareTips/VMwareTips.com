@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=480
 permalink: /2009/01/16/ssh-from-an-esx-host-into-netapp-ontap/
+redirect_from: /wp/2009/01/16/ssh-from-an-esx-host-into-netapp-ontap/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=775
 permalink: /2009/05/05/vmware-esx-35-patch-esx350-200904401-bg-updates-vmkernel-vmx-hostd-etc/
+redirect_from: /wp/2009/05/05/vmware-esx-35-patch-esx350-200904401-bg-updates-vmkernel-vmx-hostd-etc/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

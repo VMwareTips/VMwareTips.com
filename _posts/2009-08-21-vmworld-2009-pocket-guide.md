@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=969
 permalink: /2009/08/21/vmworld-2009-pocket-guide/
+redirect_from: /wp/2009/08/21/vmworld-2009-pocket-guide/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

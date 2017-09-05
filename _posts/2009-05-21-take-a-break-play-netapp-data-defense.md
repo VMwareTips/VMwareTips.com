@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=808
 permalink: /2009/05/21/take-a-break-play-netapp-data-defense/
+redirect_from: /wp/2009/05/21/take-a-break-play-netapp-data-defense/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

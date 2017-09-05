@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=463
 permalink: /2009/01/14/vcdx-certification-some-details-revealed/
+redirect_from: /wp/2009/01/14/vcdx-certification-some-details-revealed/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

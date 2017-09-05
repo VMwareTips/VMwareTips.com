@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1039
 permalink: /2009/09/25/vmware-workstation-7-tech-preview/
+redirect_from: /wp/2009/09/25/vmware-workstation-7-tech-preview/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

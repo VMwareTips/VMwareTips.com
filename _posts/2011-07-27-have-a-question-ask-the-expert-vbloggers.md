@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1412
 permalink: /2011/07/27/have-a-question-ask-the-expert-vbloggers/
+redirect_from: /wp/2011/07/27/have-a-question-ask-the-expert-vbloggers/
 ratings_users:
   - "1"
 ratings_score:

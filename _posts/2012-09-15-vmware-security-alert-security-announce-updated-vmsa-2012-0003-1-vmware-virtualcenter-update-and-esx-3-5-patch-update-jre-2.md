@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1709
 permalink: /2012/09/15/vmware-security-alert-security-announce-updated-vmsa-2012-0003-1-vmware-virtualcenter-update-and-esx-3-5-patch-update-jre-2/
+redirect_from: /wp/2012/09/15/vmware-security-alert-security-announce-updated-vmsa-2012-0003-1-vmware-virtualcenter-update-and-esx-3-5-patch-update-jre-2/
 ratings_users:
   - "0"
 ratings_score:

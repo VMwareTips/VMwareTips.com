@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=444
 permalink: /2009/01/06/virtualization-congress-2009/
+redirect_from: /wp/2009/01/06/virtualization-congress-2009/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

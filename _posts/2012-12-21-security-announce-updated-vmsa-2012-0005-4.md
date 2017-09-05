@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1896
 permalink: /2012/12/21/security-announce-updated-vmsa-2012-0005-4-vmware-vcenter-server-orchestrator-update-manager-vshield-vsphere-client-workstation-player-esxi-and-esx-address-several-security-issues/
+redirect_from: /wp/2012/12/21/security-announce-updated-vmsa-2012-0005-4-vmware-vcenter-server-orchestrator-update-manager-vshield-vsphere-client-workstation-player-esxi-and-esx-address-several-security-issues/
 ratings_users:
   - "0"
 ratings_score:

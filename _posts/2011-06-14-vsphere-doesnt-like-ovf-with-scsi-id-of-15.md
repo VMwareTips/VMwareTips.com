@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1344
 permalink: /2011/06/14/vsphere-doesnt-like-ovf-with-scsi-id-of-15/
+redirect_from: /wp/2011/06/14/vsphere-doesnt-like-ovf-with-scsi-id-of-15/
 ratings_users:
   - "1"
 ratings_score:

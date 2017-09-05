@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=927
 permalink: /2009/07/23/vcdx-and-vcp-testing-at-vmworld-2009/
+redirect_from: /wp/2009/07/23/vcdx-and-vcp-testing-at-vmworld-2009/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

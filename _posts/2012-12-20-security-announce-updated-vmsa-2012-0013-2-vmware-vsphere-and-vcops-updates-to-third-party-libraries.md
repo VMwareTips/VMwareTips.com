@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1894
 permalink: /2012/12/20/security-announce-updated-vmsa-2012-0013-2-vmware-vsphere-and-vcops-updates-to-third-party-libraries/
+redirect_from: /wp/2012/12/20/security-announce-updated-vmsa-2012-0013-2-vmware-vsphere-and-vcops-updates-to-third-party-libraries/
 ratings_users:
   - "0"
 ratings_score:

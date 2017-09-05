@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=405
 permalink: /2008/12/22/sun-virtualbox-210/
+redirect_from: /wp/2008/12/22/sun-virtualbox-210/
 ratings_users:
   - "0"
 ratings_score:

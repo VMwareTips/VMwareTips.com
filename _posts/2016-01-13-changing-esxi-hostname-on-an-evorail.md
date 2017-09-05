@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2908
 permalink: /2016/01/13/changing-esxi-hostname-on-an-evorail/
+redirect_from: /wp/2016/01/13/changing-esxi-hostname-on-an-evorail/
 ratings_users:
   - "0"
 ratings_score:

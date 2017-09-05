@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=373
 permalink: /2008/12/15/hyper-v-vs-vmware-monday-debate/
+redirect_from: /wp/2008/12/15/hyper-v-vs-vmware-monday-debate/
 ratings_users:
   - "0"
 ratings_score:

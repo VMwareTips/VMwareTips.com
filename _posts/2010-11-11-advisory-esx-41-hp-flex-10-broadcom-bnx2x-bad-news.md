@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1233
 permalink: /2010/11/11/advisory-esx-41-hp-flex-10-broadcom-bnx2x-bad-news/
+redirect_from: /wp/2010/11/11/advisory-esx-41-hp-flex-10-broadcom-bnx2x-bad-news/
 ratings_users:
   - "0"
 ratings_score:

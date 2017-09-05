@@ -7,6 +7,7 @@ excerpt: http://vmwaretips.com/wp/?p=105
 layout: post
 guid: http://vmwaretips.com/wp/?p=48
 permalink: /2008/10/13/nfs-datastores-and-what-was-their-big-issue/
+redirect_from: /wp/2008/10/13/nfs-datastores-and-what-was-their-big-issue/
 views:
   - "35547"
 ratings_users:

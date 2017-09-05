@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=9
 permalink: /2008/09/12/ea1562-virtualizing-sap/
+redirect_from: /wp/2008/09/12/ea1562-virtualizing-sap/
 views:
   - "2276"
 ratings_users:

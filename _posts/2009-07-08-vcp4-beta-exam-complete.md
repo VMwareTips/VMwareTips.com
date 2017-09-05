@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=913
 permalink: /2009/07/08/vcp4-beta-exam-complete/
+redirect_from: /wp/2009/07/08/vcp4-beta-exam-complete/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

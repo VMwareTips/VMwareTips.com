@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1810
 permalink: /2012/10/31/vmware-support-alert-implementing-ca-signed-ssl-certificates-with-vsphere-5-1/
+redirect_from: /wp/2012/10/31/vmware-support-alert-implementing-ca-signed-ssl-certificates-with-vsphere-5-1/
 ratings_users:
   - "0"
 ratings_score:

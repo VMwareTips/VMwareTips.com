@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1921
 permalink: /2013/01/08/vmware-administrator-contract-to-hire-in-phoenix-az/
+redirect_from: /wp/2013/01/08/vmware-administrator-contract-to-hire-in-phoenix-az/
 ratings_users:
   - "0"
 ratings_score:

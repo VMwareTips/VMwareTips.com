@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1882
 permalink: /2012/12/14/infrastructure-architect-in-san-ramon-ca/
+redirect_from: /wp/2012/12/14/infrastructure-architect-in-san-ramon-ca/
 ratings_users:
   - "0"
 ratings_score:

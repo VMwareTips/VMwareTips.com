@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2159
 permalink: /2013/09/04/vcloud-director-and-vcloud-networking-and-security-product-update/
+redirect_from: /wp/2013/09/04/vcloud-director-and-vcloud-networking-and-security-product-update/
 ratings_users:
   - "0"
 ratings_score:

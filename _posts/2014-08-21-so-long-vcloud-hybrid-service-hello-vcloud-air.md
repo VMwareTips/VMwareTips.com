@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2496
 permalink: /2014/08/21/so-long-vcloud-hybrid-service-hello-vcloud-air/
+redirect_from: /wp/2014/08/21/so-long-vcloud-hybrid-service-hello-vcloud-air/
 ratings_users:
   - "0"
 ratings_score:

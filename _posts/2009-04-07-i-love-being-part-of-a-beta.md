@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=687
 permalink: /2009/04/07/i-love-being-part-of-a-beta/
+redirect_from: /wp/2009/04/07/i-love-being-part-of-a-beta/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

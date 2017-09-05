@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=387
 permalink: /2008/12/18/vmware-2008-year-in-review/
+redirect_from: /wp/2008/12/18/vmware-2008-year-in-review/
 ratings_users:
   - "0"
 ratings_score:

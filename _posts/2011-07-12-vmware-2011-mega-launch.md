@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1355
 permalink: /2011/07/12/vmware-2011-mega-launch/
+redirect_from: /wp/2011/07/12/vmware-2011-mega-launch/
 ratings_users:
   - "1"
 ratings_score:

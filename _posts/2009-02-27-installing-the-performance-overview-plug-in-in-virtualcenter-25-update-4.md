@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=630
 permalink: /2009/02/27/installing-the-performance-overview-plug-in-in-virtualcenter-25-update-4/
+redirect_from: /wp/2009/02/27/installing-the-performance-overview-plug-in-in-virtualcenter-25-update-4/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

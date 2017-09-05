@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=851
 permalink: /2009/06/02/two-sessions-approved-for-vmworld-2009/
+redirect_from: /wp/2009/06/02/two-sessions-approved-for-vmworld-2009/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

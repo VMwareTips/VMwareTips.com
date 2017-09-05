@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1079
 permalink: /2009/11/09/microsoft-exchange-server-2010-released-today/
+redirect_from: /wp/2009/11/09/microsoft-exchange-server-2010-released-today/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

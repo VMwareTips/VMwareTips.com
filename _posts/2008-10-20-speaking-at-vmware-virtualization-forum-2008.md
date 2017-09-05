@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=131
 permalink: /2008/10/20/speaking-at-vmware-virtualization-forum-2008/
+redirect_from: /wp/2008/10/20/speaking-at-vmware-virtualization-forum-2008/
 views:
   - "10148"
 ratings_users:

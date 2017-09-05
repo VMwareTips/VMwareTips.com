@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=733
 permalink: /2009/04/19/day-two-arrived-in-palo-alto-ca/
+redirect_from: /wp/2009/04/19/day-two-arrived-in-palo-alto-ca/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

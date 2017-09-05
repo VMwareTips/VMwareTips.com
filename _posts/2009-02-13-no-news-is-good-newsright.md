@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=578
 permalink: /2009/02/13/no-news-is-good-newsright/
+redirect_from: /wp/2009/02/13/no-news-is-good-newsright/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

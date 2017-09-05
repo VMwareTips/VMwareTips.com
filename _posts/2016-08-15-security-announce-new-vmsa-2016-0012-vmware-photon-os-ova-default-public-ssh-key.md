@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3146
 permalink: /2016/08/15/security-announce-new-vmsa-2016-0012-vmware-photon-os-ova-default-public-ssh-key/
+redirect_from: /wp/2016/08/15/security-announce-new-vmsa-2016-0012-vmware-photon-os-ova-default-public-ssh-key/
 ratings_users:
   - "0"
 ratings_score:

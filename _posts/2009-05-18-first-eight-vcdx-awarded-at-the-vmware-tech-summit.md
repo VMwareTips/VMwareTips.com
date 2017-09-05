@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=787
 permalink: /2009/05/18/first-eight-vcdx-awarded-at-the-vmware-tech-summit/
+redirect_from: /wp/2009/05/18/first-eight-vcdx-awarded-at-the-vmware-tech-summit/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

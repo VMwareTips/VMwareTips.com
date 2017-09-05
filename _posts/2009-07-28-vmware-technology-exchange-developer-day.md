@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=940
 permalink: /2009/07/28/vmware-technology-exchange-developer-day/
+redirect_from: /wp/2009/07/28/vmware-technology-exchange-developer-day/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

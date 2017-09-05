@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=408
 permalink: /2008/12/22/vm-storage-raid-protection-and-performance/
+redirect_from: /wp/2008/12/22/vm-storage-raid-protection-and-performance/
 ratings_users:
   - "0"
 ratings_score:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1753
 permalink: /2012/10/05/security-announce-vmsa-2012-0014-vmware-vcenter-operations-capacityiq-and-movie-decoder-security-updates/
+redirect_from: /wp/2012/10/05/security-announce-vmsa-2012-0014-vmware-vcenter-operations-capacityiq-and-movie-decoder-security-updates/
 ratings_users:
   - "0"
 ratings_score:

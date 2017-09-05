@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1807
 permalink: /2012/10/27/win-access-to-vmworld-2012-sessions/
+redirect_from: /wp/2012/10/27/win-access-to-vmworld-2012-sessions/
 ratings_users:
   - "0"
 ratings_score:

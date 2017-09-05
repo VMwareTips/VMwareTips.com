@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=582
 permalink: /2009/02/19/goodbye-backup-agentsgoodbye-vcb/
+redirect_from: /wp/2009/02/19/goodbye-backup-agentsgoodbye-vcb/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1323
 permalink: /2011/04/11/thinapped-vsphere-client/
+redirect_from: /wp/2011/04/11/thinapped-vsphere-client/
 ratings_users:
   - "0"
 ratings_score:

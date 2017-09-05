@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2978
 permalink: /2016/03/16/vmware-support-alert-alert-known-supportability-issues-with-certain-dell-12g-controllers-and-virtual-san/
+redirect_from: /wp/2016/03/16/vmware-support-alert-alert-known-supportability-issues-with-certain-dell-12g-controllers-and-virtual-san/
 ratings_users:
   - "0"
 ratings_score:

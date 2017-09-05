@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=947
 permalink: /2009/07/29/vcdx-design-exam-beta-results/
+redirect_from: /wp/2009/07/29/vcdx-design-exam-beta-results/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

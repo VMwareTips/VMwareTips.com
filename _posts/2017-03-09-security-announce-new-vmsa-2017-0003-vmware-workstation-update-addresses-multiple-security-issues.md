@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3372
 permalink: /2017/03/09/security-announce-new-vmsa-2017-0003-vmware-workstation-update-addresses-multiple-security-issues/
+redirect_from: /wp/2017/03/09/security-announce-new-vmsa-2017-0003-vmware-workstation-update-addresses-multiple-security-issues/
 ratings_users:
   - "0"
 ratings_score:

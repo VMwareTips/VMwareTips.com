@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=667
 permalink: /2009/04/01/20-hours-until-vcdx-design-exam/
+redirect_from: /wp/2009/04/01/20-hours-until-vcdx-design-exam/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

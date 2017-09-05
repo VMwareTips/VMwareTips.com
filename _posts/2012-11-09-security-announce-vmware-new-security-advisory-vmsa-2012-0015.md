@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1840
 permalink: /2012/11/09/security-announce-vmware-new-security-advisory-vmsa-2012-0015/
+redirect_from: /wp/2012/11/09/security-announce-vmware-new-security-advisory-vmsa-2012-0015/
 ratings_users:
   - "0"
 ratings_score:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1209
 permalink: /2010/08/16/vmworld-2010-whats-on-your-mind/
+redirect_from: /wp/2010/08/16/vmworld-2010-whats-on-your-mind/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

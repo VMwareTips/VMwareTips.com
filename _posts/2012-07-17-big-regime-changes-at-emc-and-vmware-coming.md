@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1497
 permalink: /2012/07/17/big-regime-changes-at-emc-and-vmware-coming/
+redirect_from: /wp/2012/07/17/big-regime-changes-at-emc-and-vmware-coming/
 ratings_users:
   - "1"
 ratings_score:

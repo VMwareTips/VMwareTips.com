@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2376
 permalink: /2014/07/14/vmware-support-alert-alert-creating-tenants-and-adding-or-deleting-users-fails-in-vcloud-automation-center-when-using-vsphere-sso/
+redirect_from: /wp/2014/07/14/vmware-support-alert-alert-creating-tenants-and-adding-or-deleting-users-fails-in-vcloud-automation-center-when-using-vsphere-sso/
 ratings_users:
   - "0"
 ratings_score:

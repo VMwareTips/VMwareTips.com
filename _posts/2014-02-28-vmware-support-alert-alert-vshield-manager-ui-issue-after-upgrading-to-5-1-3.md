@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2275
 permalink: /2014/02/28/vmware-support-alert-alert-vshield-manager-ui-issue-after-upgrading-to-5-1-3/
+redirect_from: /wp/2014/02/28/vmware-support-alert-alert-vshield-manager-ui-issue-after-upgrading-to-5-1-3/
 ratings_users:
   - "0"
 ratings_score:

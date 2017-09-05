@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=917
 permalink: /2009/07/20/third-vmworld-session-added-virtualizing-sql/
+redirect_from: /wp/2009/07/20/third-vmworld-session-added-virtualizing-sql/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

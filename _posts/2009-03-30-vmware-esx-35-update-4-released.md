@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=656
 permalink: /2009/03/30/vmware-esx-35-update-4-released/
+redirect_from: /wp/2009/03/30/vmware-esx-35-update-4-released/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

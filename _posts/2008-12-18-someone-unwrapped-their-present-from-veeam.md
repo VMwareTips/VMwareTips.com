@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=391
 permalink: /2008/12/18/someone-unwrapped-their-present-from-veeam/
+redirect_from: /wp/2008/12/18/someone-unwrapped-their-present-from-veeam/
 ratings_users:
   - "0"
 ratings_score:

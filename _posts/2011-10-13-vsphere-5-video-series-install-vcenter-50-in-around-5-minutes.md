@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1441
 permalink: /2011/10/13/vsphere-5-video-series-install-vcenter-50-in-around-5-minutes/
+redirect_from: /wp/2011/10/13/vsphere-5-video-series-install-vcenter-50-in-around-5-minutes/
 ratings_users:
   - "4"
 ratings_score:

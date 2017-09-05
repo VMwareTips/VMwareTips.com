@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=459
 permalink: /2009/01/12/issue-vmware-esxesxi-san-io-failure/
+redirect_from: /wp/2009/01/12/issue-vmware-esxesxi-san-io-failure/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

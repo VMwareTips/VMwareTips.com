@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=314
 permalink: /2008/12/01/vmworld-2008-highlights-reel/
+redirect_from: /wp/2008/12/01/vmworld-2008-highlights-reel/
 ratings_users:
   - "1"
 ratings_score:

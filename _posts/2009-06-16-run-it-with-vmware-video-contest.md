@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=879
 permalink: /2009/06/16/run-it-with-vmware-video-contest/
+redirect_from: /wp/2009/06/16/run-it-with-vmware-video-contest/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

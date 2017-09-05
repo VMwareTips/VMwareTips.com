@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1929
 permalink: /2013/01/09/bidw-business-analyst-for-kaiser-permamente-in-oakland-ca/
+redirect_from: /wp/2013/01/09/bidw-business-analyst-for-kaiser-permamente-in-oakland-ca/
 ratings_users:
   - "0"
 ratings_score:

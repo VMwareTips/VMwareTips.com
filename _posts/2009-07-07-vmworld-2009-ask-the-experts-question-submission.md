@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=903
 permalink: /2009/07/07/vmworld-2009-ask-the-experts-question-submission/
+redirect_from: /wp/2009/07/07/vmworld-2009-ask-the-experts-question-submission/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

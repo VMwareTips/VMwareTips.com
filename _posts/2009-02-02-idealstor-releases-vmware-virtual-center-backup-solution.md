@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=530
 permalink: /2009/02/02/idealstor-releases-vmware-virtual-center-backup-solution/
+redirect_from: /wp/2009/02/02/idealstor-releases-vmware-virtual-center-backup-solution/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

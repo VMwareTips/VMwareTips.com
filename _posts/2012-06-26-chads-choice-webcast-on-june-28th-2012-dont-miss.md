@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1494
 permalink: /2012/06/26/chads-choice-webcast-on-june-28th-2012-dont-miss/
+redirect_from: /wp/2012/06/26/chads-choice-webcast-on-june-28th-2012-dont-miss/
 ratings_users:
   - "1"
 ratings_score:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2313
 permalink: /2014/04/10/vmware-support-alert-alert-response-to-heartbleed-openssl-security-issue/
+redirect_from: /wp/2014/04/10/vmware-support-alert-alert-response-to-heartbleed-openssl-security-issue/
 ratings_users:
   - "1"
 ratings_score:

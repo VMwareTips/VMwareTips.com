@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3398
 permalink: /2017/05/11/vmware-support-alert-beta-launch-of-docs-vmware-com/
+redirect_from: /wp/2017/05/11/vmware-support-alert-beta-launch-of-docs-vmware-com/
 ratings_users:
   - "1"
 ratings_score:

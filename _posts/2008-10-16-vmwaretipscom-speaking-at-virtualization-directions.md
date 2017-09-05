@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=87
 permalink: /2008/10/16/vmwaretipscom-speaking-at-virtualization-directions/
+redirect_from: /wp/2008/10/16/vmwaretipscom-speaking-at-virtualization-directions/
 views:
   - "1721"
 ratings_users:

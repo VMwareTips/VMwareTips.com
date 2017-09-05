@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=367
 permalink: /2008/12/15/vmware-vi3-network-communication-diagram/
+redirect_from: /wp/2008/12/15/vmware-vi3-network-communication-diagram/
 ratings_users:
   - "1"
 ratings_score:

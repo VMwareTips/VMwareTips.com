@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1880
 permalink: /2012/12/13/vmware-engineer-in-malvern-pa/
+redirect_from: /wp/2012/12/13/vmware-engineer-in-malvern-pa/
 ratings_users:
   - "0"
 ratings_score:

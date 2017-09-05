@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3223
 permalink: /2016/09/19/security-announce-updated-vmsa-2016-0010-1-vmware-product-updates-address-multiple-important-security-issues/
+redirect_from: /wp/2016/09/19/security-announce-updated-vmsa-2016-0010-1-vmware-product-updates-address-multiple-important-security-issues/
 ratings_users:
   - "0"
 ratings_score:

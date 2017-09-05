@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1916
 permalink: /2013/01/04/urgent-requirement-system-administration-tallahassee-fl-1-year/
+redirect_from: /wp/2013/01/04/urgent-requirement-system-administration-tallahassee-fl-1-year/
 ratings_users:
   - "0"
 ratings_score:

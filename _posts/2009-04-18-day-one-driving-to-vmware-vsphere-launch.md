@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=731
 permalink: /2009/04/18/day-one-driving-to-vmware-vsphere-launch/
+redirect_from: /wp/2009/04/18/day-one-driving-to-vmware-vsphere-launch/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

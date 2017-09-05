@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1415
 permalink: /2011/08/26/vmworld-2011-madness/
+redirect_from: /wp/2011/08/26/vmworld-2011-madness/
 ratings_users:
   - "1"
 ratings_score:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=872
 permalink: /2009/06/09/vmware-online-virtualization-forum/
+redirect_from: /wp/2009/06/09/vmware-online-virtualization-forum/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

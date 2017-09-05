@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1908
 permalink: /2013/01/02/vmware-support-alert-performance-history-for-past-year-may-contain-only-30-days/
+redirect_from: /wp/2013/01/02/vmware-support-alert-performance-history-for-past-year-may-contain-only-30-days/
 ratings_users:
   - "0"
 ratings_score:

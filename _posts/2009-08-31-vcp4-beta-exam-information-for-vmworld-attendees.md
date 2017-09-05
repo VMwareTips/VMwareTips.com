@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=993
 permalink: /2009/08/31/vcp4-beta-exam-information-for-vmworld-attendees/
+redirect_from: /wp/2009/08/31/vcp4-beta-exam-information-for-vmworld-attendees/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

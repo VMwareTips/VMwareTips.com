@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3009
 permalink: /2016/04/27/security-announce-update-vmsa-2015-0007-4-vmware-vcenter-and-esxi-updates-address-critical-security-issues/
+redirect_from: /wp/2016/04/27/security-announce-update-vmsa-2015-0007-4-vmware-vcenter-and-esxi-updates-address-critical-security-issues/
 ratings_users:
   - "0"
 ratings_score:

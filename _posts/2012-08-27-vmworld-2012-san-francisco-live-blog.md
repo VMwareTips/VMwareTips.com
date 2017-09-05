@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1597
 permalink: /2012/08/27/vmworld-2012-san-francisco-live-blog/
+redirect_from: /wp/2012/08/27/vmworld-2012-san-francisco-live-blog/
 liveblogging_hashtag:
   - vmworld
 ratings_users:

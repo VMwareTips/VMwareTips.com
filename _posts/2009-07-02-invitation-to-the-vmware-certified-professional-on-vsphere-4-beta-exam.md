@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=894
 permalink: /2009/07/02/invitation-to-the-vmware-certified-professional-on-vsphere-4-beta-exam/
+redirect_from: /wp/2009/07/02/invitation-to-the-vmware-certified-professional-on-vsphere-4-beta-exam/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

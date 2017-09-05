@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1256
 permalink: /2011/01/11/vcdx4-annoucement/
+redirect_from: /wp/2011/01/11/vcdx4-annoucement/
 ratings_users:
   - "0"
 ratings_score:

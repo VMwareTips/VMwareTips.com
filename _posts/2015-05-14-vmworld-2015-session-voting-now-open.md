@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2677
 permalink: /2015/05/14/vmworld-2015-session-voting-now-open/
+redirect_from: /wp/2015/05/14/vmworld-2015-session-voting-now-open/
 ratings_users:
   - "0"
 ratings_score:

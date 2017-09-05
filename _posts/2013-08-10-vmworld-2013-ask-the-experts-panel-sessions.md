@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2102
 permalink: /2013/08/10/vmworld-2013-ask-the-experts-panel-sessions/
+redirect_from: /wp/2013/08/10/vmworld-2013-ask-the-experts-panel-sessions/
 ratings_users:
   - "0"
 ratings_score:

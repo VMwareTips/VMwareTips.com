@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1182
 permalink: /2010/06/08/emc-celerra-plug-in-for-vmware-v11-view-integration/
+redirect_from: /wp/2010/06/08/emc-celerra-plug-in-for-vmware-v11-view-integration/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

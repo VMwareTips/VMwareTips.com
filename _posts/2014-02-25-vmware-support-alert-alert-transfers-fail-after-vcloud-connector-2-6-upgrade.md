@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2273
 permalink: /2014/02/25/vmware-support-alert-alert-transfers-fail-after-vcloud-connector-2-6-upgrade/
+redirect_from: /wp/2014/02/25/vmware-support-alert-alert-transfers-fail-after-vcloud-connector-2-6-upgrade/
 ratings_users:
   - "0"
 ratings_score:

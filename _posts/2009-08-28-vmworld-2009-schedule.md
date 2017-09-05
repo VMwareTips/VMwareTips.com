@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=982
 permalink: /2009/08/28/vmworld-2009-schedule/
+redirect_from: /wp/2009/08/28/vmworld-2009-schedule/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

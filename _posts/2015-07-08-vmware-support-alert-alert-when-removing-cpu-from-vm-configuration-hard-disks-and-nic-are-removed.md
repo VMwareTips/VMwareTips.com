@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2727
 permalink: /2015/07/08/vmware-support-alert-alert-when-removing-cpu-from-vm-configuration-hard-disks-and-nic-are-removed/
+redirect_from: /wp/2015/07/08/vmware-support-alert-alert-when-removing-cpu-from-vm-configuration-hard-disks-and-nic-are-removed/
 ratings_users:
   - "0"
 ratings_score:

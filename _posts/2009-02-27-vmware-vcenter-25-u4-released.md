@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=628
 permalink: /2009/02/27/vmware-vcenter-25-u4-released/
+redirect_from: /wp/2009/02/27/vmware-vcenter-25-u4-released/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

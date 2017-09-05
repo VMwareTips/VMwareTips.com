@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2653
 permalink: /2015/05/06/vmware-support-alert-alert-virtual-machines-on-vxlan-wires-may-be-unable-to-communicate-across-hosts-with-their-edges-or-distributed-routers/
+redirect_from: /wp/2015/05/06/vmware-support-alert-alert-virtual-machines-on-vxlan-wires-may-be-unable-to-communicate-across-hosts-with-their-edges-or-distributed-routers/
 ratings_users:
   - "0"
 ratings_score:

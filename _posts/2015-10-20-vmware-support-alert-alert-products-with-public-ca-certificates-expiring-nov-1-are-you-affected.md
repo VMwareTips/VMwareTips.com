@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2835
 permalink: /2015/10/20/vmware-support-alert-alert-products-with-public-ca-certificates-expiring-nov-1-are-you-affected/
+redirect_from: /wp/2015/10/20/vmware-support-alert-alert-products-with-public-ca-certificates-expiring-nov-1-are-you-affected/
 ratings_users:
   - "0"
 ratings_score:

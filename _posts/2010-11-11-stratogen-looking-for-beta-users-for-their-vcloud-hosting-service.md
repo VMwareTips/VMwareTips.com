@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1223
 permalink: /2010/11/11/stratogen-looking-for-beta-users-for-their-vcloud-hosting-service/
+redirect_from: /wp/2010/11/11/stratogen-looking-for-beta-users-for-their-vcloud-hosting-service/
 ratings_users:
   - "0"
 ratings_score:

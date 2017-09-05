@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=249
 permalink: /2008/10/30/product-review-vizioncore-vfoglight/
+redirect_from: /wp/2008/10/30/product-review-vizioncore-vfoglight/
 ratings_users:
   - "8"
 ratings_score:

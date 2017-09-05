@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2060
 permalink: /2013/05/29/western-pa-vmug-user-conference/
+redirect_from: /wp/2013/05/29/western-pa-vmug-user-conference/
 ratings_users:
   - "0"
 ratings_score:

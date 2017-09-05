@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=268
 permalink: /2008/11/02/product-review-sun-virtualbox/
+redirect_from: /wp/2008/11/02/product-review-sun-virtualbox/
 ratings_users:
   - "3"
 ratings_score:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1274
 permalink: /2011/02/11/vmware-vsphere-41-u1-released/
+redirect_from: /wp/2011/02/11/vmware-vsphere-41-u1-released/
 ratings_users:
   - "2"
 ratings_score:

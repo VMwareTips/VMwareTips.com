@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=931
 permalink: /2009/07/26/vmworld-2009-underground-party-on-sunday/
+redirect_from: /wp/2009/07/26/vmworld-2009-underground-party-on-sunday/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3410
 permalink: /2017/07/27/security-announce-new-vmsa-2017-0012-vmware-vix-api-vm-direct-access-function-security-issue/
+redirect_from: /wp/2017/07/27/security-announce-new-vmsa-2017-0012-vmware-vix-api-vm-direct-access-function-security-issue/
 ratings_users:
   - "0"
 ratings_score:

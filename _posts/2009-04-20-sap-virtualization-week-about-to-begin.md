@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=740
 permalink: /2009/04/20/sap-virtualization-week-about-to-begin/
+redirect_from: /wp/2009/04/20/sap-virtualization-week-about-to-begin/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

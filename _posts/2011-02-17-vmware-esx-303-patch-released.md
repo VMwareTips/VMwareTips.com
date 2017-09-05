@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1286
 permalink: /2011/02/17/vmware-esx-303-patch-released/
+redirect_from: /wp/2011/02/17/vmware-esx-303-patch-released/
 ratings_users:
   - "0"
 ratings_score:

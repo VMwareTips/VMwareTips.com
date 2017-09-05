@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=653
 permalink: /2009/03/20/vmware-vcenter-mobile-access/
+redirect_from: /wp/2009/03/20/vmware-vcenter-mobile-access/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

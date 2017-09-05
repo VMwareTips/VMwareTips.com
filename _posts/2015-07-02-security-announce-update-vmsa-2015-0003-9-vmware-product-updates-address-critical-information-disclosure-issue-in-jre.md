@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2723
 permalink: /2015/07/02/security-announce-update-vmsa-2015-0003-9-vmware-product-updates-address-critical-information-disclosure-issue-in-jre/
+redirect_from: /wp/2015/07/02/security-announce-update-vmsa-2015-0003-9-vmware-product-updates-address-critical-information-disclosure-issue-in-jre/
 ratings_users:
   - "0"
 ratings_score:

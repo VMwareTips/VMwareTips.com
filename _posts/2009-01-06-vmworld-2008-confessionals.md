@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=451
 permalink: /2009/01/06/vmworld-2008-confessionals/
+redirect_from: /wp/2009/01/06/vmworld-2008-confessionals/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

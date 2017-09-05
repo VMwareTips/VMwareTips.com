@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1892
 permalink: /2012/12/20/security-announce-vmsa-2012-0018-vmware-security-updates-for-vcsa-and-esxi/
+redirect_from: /wp/2012/12/20/security-announce-vmsa-2012-0018-vmware-security-updates-for-vcsa-and-esxi/
 ratings_users:
   - "0"
 ratings_score:

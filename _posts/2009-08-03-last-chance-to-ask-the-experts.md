@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=952
 permalink: /2009/08/03/last-chance-to-ask-the-experts/
+redirect_from: /wp/2009/08/03/last-chance-to-ask-the-experts/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

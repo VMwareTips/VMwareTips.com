@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=763
 permalink: /2009/04/29/sap-virtualization-week-2009-virtualizing-sap-presentation/
+redirect_from: /wp/2009/04/29/sap-virtualization-week-2009-virtualizing-sap-presentation/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3026
 permalink: /2016/05/25/security-announce-updated-vmsa-2015-0007-5-vmware-vcenter-and-esxi-updates-address-critical-security-issues/
+redirect_from: /wp/2016/05/25/security-announce-updated-vmsa-2015-0007-5-vmware-vcenter-and-esxi-updates-address-critical-security-issues/
 ratings_users:
   - "0"
 ratings_score:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=105
 permalink: /2008/10/18/common-issues-with-nfslockdisable1/
+redirect_from: /wp/2008/10/18/common-issues-with-nfslockdisable1/
 views:
   - "11923"
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2788
 permalink: /2015/09/01/vmworld-day-1-quick-review/
+redirect_from: /wp/2015/09/01/vmworld-day-1-quick-review/
 ratings_users:
   - "0"
 ratings_score:

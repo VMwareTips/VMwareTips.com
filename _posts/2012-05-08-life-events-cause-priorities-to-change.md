@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1480
 permalink: /2012/05/08/life-events-cause-priorities-to-change/
+redirect_from: /wp/2012/05/08/life-events-cause-priorities-to-change/
 ratings_users:
   - "0"
 ratings_score:

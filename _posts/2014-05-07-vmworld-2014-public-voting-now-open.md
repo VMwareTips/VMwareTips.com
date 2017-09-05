@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2334
 permalink: /2014/05/07/vmworld-2014-public-voting-now-open/
+redirect_from: /wp/2014/05/07/vmworld-2014-public-voting-now-open/
 ratings_users:
   - "0"
 ratings_score:

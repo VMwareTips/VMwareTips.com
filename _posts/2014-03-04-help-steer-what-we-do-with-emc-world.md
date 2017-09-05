@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2289
 permalink: /2014/03/04/help-steer-what-we-do-with-emc-world/
+redirect_from: /wp/2014/03/04/help-steer-what-we-do-with-emc-world/
 ratings_users:
   - "0"
 ratings_score:

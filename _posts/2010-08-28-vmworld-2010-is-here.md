@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1212
 permalink: /2010/08/28/vmworld-2010-is-here/
+redirect_from: /wp/2010/08/28/vmworld-2010-is-here/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

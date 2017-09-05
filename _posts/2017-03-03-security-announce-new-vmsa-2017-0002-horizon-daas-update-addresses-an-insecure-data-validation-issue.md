@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3370
 permalink: /2017/03/03/security-announce-new-vmsa-2017-0002-horizon-daas-update-addresses-an-insecure-data-validation-issue/
+redirect_from: /wp/2017/03/03/security-announce-new-vmsa-2017-0002-horizon-daas-update-addresses-an-insecure-data-validation-issue/
 ratings_users:
   - "0"
 ratings_score:

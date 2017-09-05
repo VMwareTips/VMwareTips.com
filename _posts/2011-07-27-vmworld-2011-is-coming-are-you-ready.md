@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1410
 permalink: /2011/07/27/vmworld-2011-is-coming-are-you-ready/
+redirect_from: /wp/2011/07/27/vmworld-2011-is-coming-are-you-ready/
 ratings_users:
   - "1"
 ratings_score:

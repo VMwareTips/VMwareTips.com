@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=962
 permalink: /2009/08/20/train-signal-vsphere-video-launch/
+redirect_from: /wp/2009/08/20/train-signal-vsphere-video-launch/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

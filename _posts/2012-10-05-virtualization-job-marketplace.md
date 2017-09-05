@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1756
 permalink: /2012/10/05/virtualization-job-marketplace/
+redirect_from: /wp/2012/10/05/virtualization-job-marketplace/
 ratings_users:
   - "2"
 ratings_score:

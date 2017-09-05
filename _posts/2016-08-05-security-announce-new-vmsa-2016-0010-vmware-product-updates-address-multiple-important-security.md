@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3111
 permalink: /2016/08/05/security-announce-new-vmsa-2016-0010-vmware-product-updates-address-multiple-important-security/
+redirect_from: /wp/2016/08/05/security-announce-new-vmsa-2016-0010-vmware-product-updates-address-multiple-important-security/
 ratings_users:
   - "0"
 ratings_score:

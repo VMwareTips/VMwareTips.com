@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=339
 permalink: /2008/12/12/free-holiday-gift-from-veeam/
+redirect_from: /wp/2008/12/12/free-holiday-gift-from-veeam/
 ratings_users:
   - "1"
 ratings_score:

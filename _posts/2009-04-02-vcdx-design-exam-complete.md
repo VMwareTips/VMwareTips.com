@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=670
 permalink: /2009/04/02/vcdx-design-exam-complete/
+redirect_from: /wp/2009/04/02/vcdx-design-exam-complete/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

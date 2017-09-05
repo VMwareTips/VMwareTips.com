@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1927
 permalink: /2013/01/09/vmware-systems-manager-in-lebanon-pa/
+redirect_from: /wp/2013/01/09/vmware-systems-manager-in-lebanon-pa/
 ratings_users:
   - "0"
 ratings_score:

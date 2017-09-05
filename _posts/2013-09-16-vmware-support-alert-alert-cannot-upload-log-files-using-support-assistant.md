@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2173
 permalink: /2013/09/16/vmware-support-alert-alert-cannot-upload-log-files-using-support-assistant/
+redirect_from: /wp/2013/09/16/vmware-support-alert-alert-cannot-upload-log-files-using-support-assistant/
 ratings_users:
   - "0"
 ratings_score:

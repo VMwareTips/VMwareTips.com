@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1925
 permalink: /2013/01/09/infrastructure-architect-position-in-torrance-ca/
+redirect_from: /wp/2013/01/09/infrastructure-architect-position-in-torrance-ca/
 ratings_users:
   - "0"
 ratings_score:

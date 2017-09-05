@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2615
 permalink: /2015/02/16/vmware-kb-digest-new-kb-articles-published-for-week-ending-21415/
+redirect_from: /wp/2015/02/16/vmware-kb-digest-new-kb-articles-published-for-week-ending-21415/
 ratings_users:
   - "0"
 ratings_score:

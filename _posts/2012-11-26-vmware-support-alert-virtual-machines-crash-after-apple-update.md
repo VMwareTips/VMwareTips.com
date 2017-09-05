@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1851
 permalink: /2012/11/26/vmware-support-alert-virtual-machines-crash-after-apple-update/
+redirect_from: /wp/2012/11/26/vmware-support-alert-virtual-machines-crash-after-apple-update/
 ratings_users:
   - "0"
 ratings_score:

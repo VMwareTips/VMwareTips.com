@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3294
 permalink: /2016/11/22/security-announce-updated-vmsa-2016-0005-5-vmware-product-updates-address-critical-and-important-security-issues/
+redirect_from: /wp/2016/11/22/security-announce-updated-vmsa-2016-0005-5-vmware-product-updates-address-critical-and-important-security-issues/
 ratings_users:
   - "0"
 ratings_score:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=319
 permalink: /2008/12/01/vmworldcom-ask-the-experts/
+redirect_from: /wp/2008/12/01/vmworldcom-ask-the-experts/
 ratings_users:
   - "1"
 ratings_score:

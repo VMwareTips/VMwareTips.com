@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2317
 permalink: /2014/04/18/vmware-support-alert-alert-vcac-6-0-x-tenants-become-inaccessible-and-identity-stores-disappear/
+redirect_from: /wp/2014/04/18/vmware-support-alert-alert-vcac-6-0-x-tenants-become-inaccessible-and-identity-stores-disappear/
 ratings_users:
   - "1"
 ratings_score:

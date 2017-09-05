@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1796
 permalink: /2012/10/22/more-great-jobs-posted/
+redirect_from: /wp/2012/10/22/more-great-jobs-posted/
 ratings_users:
   - "0"
 ratings_score:

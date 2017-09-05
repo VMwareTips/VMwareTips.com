@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1162
 permalink: /2010/05/28/vmware-esxi-40-patch-bundle-06/
+redirect_from: /wp/2010/05/28/vmware-esxi-40-patch-bundle-06/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

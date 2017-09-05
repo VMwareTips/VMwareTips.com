@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=414
 permalink: /2008/12/23/netapp-snapmanager-for-virtual-infrastructure-and-vibe/
+redirect_from: /wp/2008/12/23/netapp-snapmanager-for-virtual-infrastructure-and-vibe/
 ratings_users:
   - "1"
 ratings_score:

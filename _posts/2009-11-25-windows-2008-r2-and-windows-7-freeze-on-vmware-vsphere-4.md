@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1083
 permalink: /2009/11/25/windows-2008-r2-and-windows-7-freeze-on-vmware-vsphere-4/
+redirect_from: /wp/2009/11/25/windows-2008-r2-and-windows-7-freeze-on-vmware-vsphere-4/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

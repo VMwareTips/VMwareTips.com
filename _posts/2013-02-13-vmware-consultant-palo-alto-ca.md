@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1979
 permalink: /2013/02/13/vmware-consultant-palo-alto-ca/
+redirect_from: /wp/2013/02/13/vmware-consultant-palo-alto-ca/
 ratings_users:
   - "0"
 ratings_score:

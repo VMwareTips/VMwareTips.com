@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1137
 permalink: /2010/01/04/vmwaretipscom-2009-holiday-giveaway-extravaganza-winners/
+redirect_from: /wp/2010/01/04/vmwaretipscom-2009-holiday-giveaway-extravaganza-winners/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2809
 permalink: /2015/09/10/vmware-support-alert-alert-important-information-before-upgrading-to-vsphere-6-0-update-1/
+redirect_from: /wp/2015/09/10/vmware-support-alert-alert-important-information-before-upgrading-to-vsphere-6-0-update-1/
 ratings_users:
   - "0"
 ratings_score:

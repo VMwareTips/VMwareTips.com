@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3402
 permalink: /2017/06/06/security-announce-updated-vmsa-2016-0024-1-vsphere-data-protection-vdp-updates-address-ssh-key-based-authentication-issue/
+redirect_from: /wp/2017/06/06/security-announce-updated-vmsa-2016-0024-1-vsphere-data-protection-vdp-updates-address-ssh-key-based-authentication-issue/
 ratings_users:
   - "0"
 ratings_score:

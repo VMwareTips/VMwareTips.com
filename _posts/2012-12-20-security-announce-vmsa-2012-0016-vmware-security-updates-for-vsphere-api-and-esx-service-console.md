@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1887
 permalink: /2012/12/20/security-announce-vmsa-2012-0016-vmware-security-updates-for-vsphere-api-and-esx-service-console/
+redirect_from: /wp/2012/12/20/security-announce-vmsa-2012-0016-vmware-security-updates-for-vsphere-api-and-esx-service-console/
 ratings_users:
   - "0"
 ratings_score:

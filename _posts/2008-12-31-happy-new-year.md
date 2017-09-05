@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=442
 permalink: /2008/12/31/happy-new-year/
+redirect_from: /wp/2008/12/31/happy-new-year/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

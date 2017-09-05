@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3343
 permalink: /2016/12/20/security-announce-new-vmsa-2016-0023-vmware-esxi-updates-address-a-cross-site-scripting-issue/
+redirect_from: /wp/2016/12/20/security-announce-new-vmsa-2016-0023-vmware-esxi-updates-address-a-cross-site-scripting-issue/
 ratings_users:
   - "0"
 ratings_score:

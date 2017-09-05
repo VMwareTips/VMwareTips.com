@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=804
 permalink: /2009/05/21/join-me-for-a-netapp-talktech-on-virtualizing-sql/
+redirect_from: /wp/2009/05/21/join-me-for-a-netapp-talktech-on-virtualizing-sql/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

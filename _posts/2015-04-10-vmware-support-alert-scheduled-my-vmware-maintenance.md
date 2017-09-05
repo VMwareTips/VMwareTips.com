@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2643
 permalink: /2015/04/10/vmware-support-alert-scheduled-my-vmware-maintenance/
+redirect_from: /wp/2015/04/10/vmware-support-alert-scheduled-my-vmware-maintenance/
 ratings_users:
   - "0"
 ratings_score:

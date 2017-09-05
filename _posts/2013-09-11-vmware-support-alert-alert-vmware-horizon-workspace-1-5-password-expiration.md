@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2167
 permalink: /2013/09/11/vmware-support-alert-alert-vmware-horizon-workspace-1-5-password-expiration/
+redirect_from: /wp/2013/09/11/vmware-support-alert-alert-vmware-horizon-workspace-1-5-password-expiration/
 ratings_users:
   - "0"
 ratings_score:

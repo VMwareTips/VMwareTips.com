@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=662
 permalink: /2009/04/01/vmware-launch-event-on-april-21st-sponsorship-opportunities-available/
+redirect_from: /wp/2009/04/01/vmware-launch-event-on-april-21st-sponsorship-opportunities-available/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

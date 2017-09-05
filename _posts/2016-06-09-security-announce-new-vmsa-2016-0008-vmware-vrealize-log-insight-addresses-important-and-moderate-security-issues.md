@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3071
 permalink: /2016/06/09/security-announce-new-vmsa-2016-0008-vmware-vrealize-log-insight-addresses-important-and-moderate-security-issues/
+redirect_from: /wp/2016/06/09/security-announce-new-vmsa-2016-0008-vmware-vrealize-log-insight-addresses-important-and-moderate-security-issues/
 ratings_users:
   - "0"
 ratings_score:

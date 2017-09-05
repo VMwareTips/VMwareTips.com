@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=457
 permalink: /2009/01/09/hp-msa1500-ruined-my-customers-week/
+redirect_from: /wp/2009/01/09/hp-msa1500-ruined-my-customers-week/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

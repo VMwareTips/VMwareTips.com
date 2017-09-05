@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1087
 permalink: /2009/11/25/vmware-view-4-available-for-download/
+redirect_from: /wp/2009/11/25/vmware-view-4-available-for-download/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

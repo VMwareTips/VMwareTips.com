@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1169
 permalink: /2010/05/28/vmware-certified-professional-vsphere-4-study-guide/
+redirect_from: /wp/2010/05/28/vmware-certified-professional-vsphere-4-study-guide/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

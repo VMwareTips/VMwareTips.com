@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2815
 permalink: /2015/09/24/vmware-support-alert-alert-linked-clone-pool-creation-and-recompose-failure/
+redirect_from: /wp/2015/09/24/vmware-support-alert-alert-linked-clone-pool-creation-and-recompose-failure/
 ratings_users:
   - "0"
 ratings_score:

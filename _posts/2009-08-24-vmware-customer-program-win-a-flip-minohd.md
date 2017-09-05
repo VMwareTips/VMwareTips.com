@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=979
 permalink: /2009/08/24/vmware-customer-program-win-a-flip-minohd/
+redirect_from: /wp/2009/08/24/vmware-customer-program-win-a-flip-minohd/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

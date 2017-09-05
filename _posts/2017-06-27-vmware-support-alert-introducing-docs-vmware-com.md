@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3408
 permalink: /2017/06/27/vmware-support-alert-introducing-docs-vmware-com/
+redirect_from: /wp/2017/06/27/vmware-support-alert-introducing-docs-vmware-com/
 ratings_users:
   - "0"
 ratings_score:
@@ -23,10 +24,6 @@ tags:
   - support
   - VMware
 ---
-In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following Special Alert direct from VMware Support Insider.
-
-http://bit.ly/2tR359Z
-
 Today we are pleased to announce the official launch of docs.vmware.com. This portal unifies the product documentation for all VMware products, versions, and languages into a single platform so you can find the information that you are looking for more quickly and easily. VMware products offer a wide range of business solutions from desktop virtualization to supporting your hybrid cloud. We’ve heard your feedback that finding the right information can be difficult. Our search was out of date, the look and feel were not modern, the content was siloed, and the docs were not available on mobile devices. To address these problems, we decided to start from scratch. The design of this site is meant to enable you to better filter content, find relevant answers, and create custom views of information that you can access on any device.
 
 #### Key Features for You
@@ -80,5 +77,3 @@ Here are a few features that we hope will help you find the information that you
 The post <a rel="nofollow" href="http://bit.ly/2thAeyx">Introducing docs.vmware.com</a> appeared first on <a rel="nofollow" href="http://bit.ly/1KGVvob">Support Insider</a>.
 
 <img src="http://bit.ly/2thtUqE" height="1" width="1" alt="" />
-
-Vía Alerts – Support Insider http://bit.ly/2thAeyx

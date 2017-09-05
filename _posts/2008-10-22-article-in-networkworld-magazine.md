@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=149
 permalink: /2008/10/22/article-in-networkworld-magazine/
+redirect_from: /wp/2008/10/22/article-in-networkworld-magazine/
 ratings_users:
   - "0"
 ratings_score:

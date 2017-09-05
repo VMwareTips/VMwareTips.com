@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1135
 permalink: /2010/01/04/vote-for-vmwaretipscom/
+redirect_from: /wp/2010/01/04/vote-for-vmwaretipscom/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

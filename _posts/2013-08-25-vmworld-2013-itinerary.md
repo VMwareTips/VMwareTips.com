@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2111
 permalink: /2013/08/25/vmworld-2013-itinerary/
+redirect_from: /wp/2013/08/25/vmworld-2013-itinerary/
 ratings_users:
   - "0"
 ratings_score:

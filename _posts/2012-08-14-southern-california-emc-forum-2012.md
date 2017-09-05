@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1557
 permalink: /2012/08/14/southern-california-emc-forum-2012/
+redirect_from: /wp/2012/08/14/southern-california-emc-forum-2012/
 ratings_users:
   - "1"
 ratings_score:

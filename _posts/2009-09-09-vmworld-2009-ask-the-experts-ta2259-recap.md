@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1005
 permalink: /2009/09/09/vmworld-2009-ask-the-experts-ta2259-recap/
+redirect_from: /wp/2009/09/09/vmworld-2009-ask-the-experts-ta2259-recap/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

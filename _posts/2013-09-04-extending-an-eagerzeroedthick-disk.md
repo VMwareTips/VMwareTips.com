@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2161
 permalink: /2013/09/04/extending-an-eagerzeroedthick-disk/
+redirect_from: /wp/2013/09/04/extending-an-eagerzeroedthick-disk/
 ratings_users:
   - "0"
 ratings_score:

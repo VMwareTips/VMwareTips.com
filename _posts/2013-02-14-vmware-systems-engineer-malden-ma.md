@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1983
 permalink: /2013/02/14/vmware-systems-engineer-malden-ma/
+redirect_from: /wp/2013/02/14/vmware-systems-engineer-malden-ma/
 ratings_users:
   - "0"
 ratings_score:

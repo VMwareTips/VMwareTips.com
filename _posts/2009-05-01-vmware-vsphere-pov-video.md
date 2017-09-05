@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=768
 permalink: /2009/05/01/vmware-vsphere-pov-video/
+redirect_from: /wp/2009/05/01/vmware-vsphere-pov-video/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

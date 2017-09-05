@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=466
 permalink: /2009/01/14/vmware-vexpert-voting-begins/
+redirect_from: /wp/2009/01/14/vmware-vexpert-voting-begins/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

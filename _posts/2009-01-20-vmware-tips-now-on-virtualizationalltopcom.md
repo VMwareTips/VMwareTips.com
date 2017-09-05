@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=498
 permalink: /2009/01/20/vmware-tips-now-on-virtualizationalltopcom/
+redirect_from: /wp/2009/01/20/vmware-tips-now-on-virtualizationalltopcom/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

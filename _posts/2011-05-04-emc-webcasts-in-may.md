@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1335
 permalink: /2011/05/04/emc-webcasts-in-may/
+redirect_from: /wp/2011/05/04/emc-webcasts-in-may/
 ratings_users:
   - "0"
 ratings_score:

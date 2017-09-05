@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1906
 permalink: /2013/01/01/systems-engineer-st-paul-mn-12-mon-contract/
+redirect_from: /wp/2013/01/01/systems-engineer-st-paul-mn-12-mon-contract/
 ratings_users:
   - "0"
 ratings_score:

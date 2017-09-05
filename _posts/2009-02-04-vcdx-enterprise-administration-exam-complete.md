@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=538
 permalink: /2009/02/04/vcdx-enterprise-administration-exam-complete/
+redirect_from: /wp/2009/02/04/vcdx-enterprise-administration-exam-complete/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

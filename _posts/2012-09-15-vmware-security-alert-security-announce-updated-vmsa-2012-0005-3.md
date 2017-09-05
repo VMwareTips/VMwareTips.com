@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1715
 permalink: /2012/09/15/vmware-security-alert-security-announce-updated-vmsa-2012-0005-3-vmware-vcenter-server-orchestrator-update-manager-vshield-vsphere-client-workstation-player-esxi-and-esx-address-several-se-2/
+redirect_from: /wp/2012/09/15/vmware-security-alert-security-announce-updated-vmsa-2012-0005-3-vmware-vcenter-server-orchestrator-update-manager-vshield-vsphere-client-workstation-player-esxi-and-esx-address-several-se-2/
 ratings_users:
   - "0"
 ratings_score:

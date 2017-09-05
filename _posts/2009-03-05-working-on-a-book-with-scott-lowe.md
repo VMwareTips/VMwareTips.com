@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=639
 permalink: /2009/03/05/working-on-a-book-with-scott-lowe/
+redirect_from: /wp/2009/03/05/working-on-a-book-with-scott-lowe/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

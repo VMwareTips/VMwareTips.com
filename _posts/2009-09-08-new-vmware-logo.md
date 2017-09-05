@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1000
 permalink: /2009/09/08/new-vmware-logo/
+redirect_from: /wp/2009/09/08/new-vmware-logo/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=292
 permalink: /2008/11/25/netapp-customer-success-story/
+redirect_from: /wp/2008/11/25/netapp-customer-success-story/
 ratings_users:
   - "0"
 ratings_score:

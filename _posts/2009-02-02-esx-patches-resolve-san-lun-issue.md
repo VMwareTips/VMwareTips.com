@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=527
 permalink: /2009/02/02/esx-patches-resolve-san-lun-issue/
+redirect_from: /wp/2009/02/02/esx-patches-resolve-san-lun-issue/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

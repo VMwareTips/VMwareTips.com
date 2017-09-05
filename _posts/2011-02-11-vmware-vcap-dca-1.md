@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1279
 permalink: /2011/02/11/vmware-vcap-dca-1/
+redirect_from: /wp/2011/02/11/vmware-vcap-dca-1/
 ratings_users:
   - "1"
 ratings_score:

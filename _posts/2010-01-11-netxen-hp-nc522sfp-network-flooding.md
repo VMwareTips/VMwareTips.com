@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1141
 permalink: /2010/01/11/netxen-hp-nc522sfp-network-flooding/
+redirect_from: /wp/2010/01/11/netxen-hp-nc522sfp-network-flooding/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

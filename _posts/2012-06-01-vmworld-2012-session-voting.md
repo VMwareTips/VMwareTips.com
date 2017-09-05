@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1485
 permalink: /2012/06/01/vmworld-2012-session-voting/
+redirect_from: /wp/2012/06/01/vmworld-2012-session-voting/
 ratings_users:
   - "2"
 ratings_score:

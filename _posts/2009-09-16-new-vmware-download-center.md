@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1019
 permalink: /2009/09/16/new-vmware-download-center/
+redirect_from: /wp/2009/09/16/new-vmware-download-center/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1277
 permalink: /2011/02/11/vmware-vcloud-director-101-released/
+redirect_from: /wp/2011/02/11/vmware-vcloud-director-101-released/
 ratings_users:
   - "0"
 ratings_score:

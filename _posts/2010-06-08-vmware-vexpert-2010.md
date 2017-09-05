@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1179
 permalink: /2010/06/08/vmware-vexpert-2010/
+redirect_from: /wp/2010/06/08/vmware-vexpert-2010/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

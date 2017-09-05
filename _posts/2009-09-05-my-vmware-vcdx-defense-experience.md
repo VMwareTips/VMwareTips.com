@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=997
 permalink: /2009/09/05/my-vmware-vcdx-defense-experience/
+redirect_from: /wp/2009/09/05/my-vmware-vcdx-defense-experience/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

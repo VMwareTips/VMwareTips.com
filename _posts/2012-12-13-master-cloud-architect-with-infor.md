@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1878
 permalink: /2012/12/13/master-cloud-architect-with-infor/
+redirect_from: /wp/2012/12/13/master-cloud-architect-with-infor/
 ratings_users:
   - "0"
 ratings_score:

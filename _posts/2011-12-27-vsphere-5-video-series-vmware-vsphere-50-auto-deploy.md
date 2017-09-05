@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1459
 permalink: /2011/12/27/vsphere-5-video-series-vmware-vsphere-50-auto-deploy/
+redirect_from: /wp/2011/12/27/vsphere-5-video-series-vmware-vsphere-50-auto-deploy/
 ratings_users:
   - "6"
 ratings_score:

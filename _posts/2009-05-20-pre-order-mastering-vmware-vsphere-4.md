@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=798
 permalink: /2009/05/20/pre-order-mastering-vmware-vsphere-4/
+redirect_from: /wp/2009/05/20/pre-order-mastering-vmware-vsphere-4/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

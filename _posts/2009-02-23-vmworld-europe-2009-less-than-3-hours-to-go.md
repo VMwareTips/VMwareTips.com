@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=590
 permalink: /2009/02/23/vmworld-europe-2009-less-than-3-hours-to-go/
+redirect_from: /wp/2009/02/23/vmworld-europe-2009-less-than-3-hours-to-go/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

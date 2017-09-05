@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=326
 permalink: /2008/12/05/virtualizing-your-dmz/
+redirect_from: /wp/2008/12/05/virtualizing-your-dmz/
 ratings_users:
   - "3"
 ratings_score:

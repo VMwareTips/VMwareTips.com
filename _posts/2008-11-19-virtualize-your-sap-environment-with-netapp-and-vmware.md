@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=287
 permalink: /2008/11/19/virtualize-your-sap-environment-with-netapp-and-vmware/
+redirect_from: /wp/2008/11/19/virtualize-your-sap-environment-with-netapp-and-vmware/
 ratings_users:
   - "0"
 ratings_score:

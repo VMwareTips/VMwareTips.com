@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=513
 permalink: /2009/01/26/storage-efficiency-article-in-tech-ontap/
+redirect_from: /wp/2009/01/26/storage-efficiency-article-in-tech-ontap/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=575
 permalink: /2009/02/12/virtualizing-mission-critical-applications-technical-roundtable/
+redirect_from: /wp/2009/02/12/virtualizing-mission-critical-applications-technical-roundtable/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

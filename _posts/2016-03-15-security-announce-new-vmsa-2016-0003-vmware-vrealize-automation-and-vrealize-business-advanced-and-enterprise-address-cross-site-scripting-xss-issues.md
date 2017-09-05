@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2976
 permalink: /2016/03/15/security-announce-new-vmsa-2016-0003-vmware-vrealize-automation-and-vrealize-business-advanced-and-enterprise-address-cross-site-scripting-xss-issues/
+redirect_from: /wp/2016/03/15/security-announce-new-vmsa-2016-0003-vmware-vrealize-automation-and-vrealize-business-advanced-and-enterprise-address-cross-site-scripting-xss-issues/
 ratings_users:
   - "0"
 ratings_score:

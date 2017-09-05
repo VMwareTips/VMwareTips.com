@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2827
 permalink: /2015/10/01/vmware-support-alert-alert-snapshot-consolidation-causes-unexpected-signal-11/
+redirect_from: /wp/2015/10/01/vmware-support-alert-alert-snapshot-consolidation-causes-unexpected-signal-11/
 ratings_users:
   - "0"
 ratings_score:

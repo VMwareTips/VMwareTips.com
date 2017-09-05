@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1253
 permalink: /2011/01/10/vspecialist-rockstars-are-worldwide/
+redirect_from: /wp/2011/01/10/vspecialist-rockstars-are-worldwide/
 ratings_users:
   - "1"
 ratings_score:

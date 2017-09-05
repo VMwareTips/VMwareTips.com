@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=246
 permalink: /2008/10/29/netapp-accelerate-cancelled/
+redirect_from: /wp/2008/10/29/netapp-accelerate-cancelled/
 ratings_users:
   - "0"
 ratings_score:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1330
 permalink: /2011/04/30/ruby-vsphere-console-rvc/
+redirect_from: /wp/2011/04/30/ruby-vsphere-console-rvc/
 ratings_users:
   - "0"
 ratings_score:

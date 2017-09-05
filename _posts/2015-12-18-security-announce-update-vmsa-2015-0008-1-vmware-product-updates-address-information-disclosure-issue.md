@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2884
 permalink: /2015/12/18/security-announce-update-vmsa-2015-0008-1-vmware-product-updates-address-information-disclosure-issue/
+redirect_from: /wp/2015/12/18/security-announce-update-vmsa-2015-0008-1-vmware-product-updates-address-information-disclosure-issue/
 ratings_users:
   - "0"
 ratings_score:

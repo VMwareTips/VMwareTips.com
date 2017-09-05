@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1230
 permalink: /2010/11/11/vmware-vcap4-dcd-beta-exam-experience/
+redirect_from: /wp/2010/11/11/vmware-vcap4-dcd-beta-exam-experience/
 ratings_users:
   - "0"
 ratings_score:

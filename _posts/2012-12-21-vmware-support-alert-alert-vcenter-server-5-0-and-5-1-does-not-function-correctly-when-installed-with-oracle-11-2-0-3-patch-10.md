@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1900
 permalink: /2012/12/21/vmware-support-alert-alert-vcenter-server-5-0-and-5-1-does-not-function-correctly-when-installed-with-oracle-11-2-0-3-patch-10/
+redirect_from: /wp/2012/12/21/vmware-support-alert-alert-vcenter-server-5-0-and-5-1-does-not-function-correctly-when-installed-with-oracle-11-2-0-3-patch-10/
 ratings_users:
   - "0"
 ratings_score:

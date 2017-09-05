@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=494
 permalink: /2009/01/18/vmwaretipscom-goes-mobile/
+redirect_from: /wp/2009/01/18/vmwaretipscom-goes-mobile/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

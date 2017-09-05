@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1288
 permalink: /2011/02/21/get-your-read-on/
+redirect_from: /wp/2011/02/21/get-your-read-on/
 ratings_users:
   - "1"
 ratings_score:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1884
 permalink: /2012/12/17/systems-engineer-1-year-contract-minnesota/
+redirect_from: /wp/2012/12/17/systems-engineer-1-year-contract-minnesota/
 ratings_users:
   - "0"
 ratings_score:

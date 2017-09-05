@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1235
 permalink: /2010/11/12/have-a-passion-for-virtualization-were-looking-for-you/
+redirect_from: /wp/2010/11/12/have-a-passion-for-virtualization-were-looking-for-you/
 ratings_users:
   - "2"
 ratings_score:

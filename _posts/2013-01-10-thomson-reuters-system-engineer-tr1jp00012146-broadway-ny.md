@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1931
 permalink: /2013/01/10/thomson-reuters-system-engineer-tr1jp00012146-broadway-ny/
+redirect_from: /wp/2013/01/10/thomson-reuters-system-engineer-tr1jp00012146-broadway-ny/
 ratings_users:
   - "0"
 ratings_score:

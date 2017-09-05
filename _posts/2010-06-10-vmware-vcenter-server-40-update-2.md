@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1158
 permalink: /2010/06/10/vmware-vcenter-server-40-update-2/
+redirect_from: /wp/2010/06/10/vmware-vcenter-server-40-update-2/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

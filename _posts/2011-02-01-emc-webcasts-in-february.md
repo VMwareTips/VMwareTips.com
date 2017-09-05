@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1258
 permalink: /2011/02/01/emc-webcasts-in-february/
+redirect_from: /wp/2011/02/01/emc-webcasts-in-february/
 ratings_users:
   - "0"
 ratings_score:

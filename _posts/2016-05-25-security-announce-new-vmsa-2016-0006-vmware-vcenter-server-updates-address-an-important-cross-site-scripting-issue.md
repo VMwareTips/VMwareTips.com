@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3024
 permalink: /2016/05/25/security-announce-new-vmsa-2016-0006-vmware-vcenter-server-updates-address-an-important-cross-site-scripting-issue/
+redirect_from: /wp/2016/05/25/security-announce-new-vmsa-2016-0006-vmware-vcenter-server-updates-address-an-important-cross-site-scripting-issue/
 ratings_users:
   - "0"
 ratings_score:

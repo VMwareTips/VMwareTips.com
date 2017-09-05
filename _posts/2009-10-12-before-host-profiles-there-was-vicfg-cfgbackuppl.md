@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1053
 permalink: /2009/10/12/before-host-profiles-there-was-vicfg-cfgbackuppl/
+redirect_from: /wp/2009/10/12/before-host-profiles-there-was-vicfg-cfgbackuppl/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

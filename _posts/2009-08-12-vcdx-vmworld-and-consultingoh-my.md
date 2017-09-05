@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=960
 permalink: /2009/08/12/vcdx-vmworld-and-consultingoh-my/
+redirect_from: /wp/2009/08/12/vcdx-vmworld-and-consultingoh-my/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

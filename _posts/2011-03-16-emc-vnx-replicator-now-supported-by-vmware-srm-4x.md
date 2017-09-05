@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1318
 permalink: /2011/03/16/emc-vnx-replicator-now-supported-by-vmware-srm-4x/
+redirect_from: /wp/2011/03/16/emc-vnx-replicator-now-supported-by-vmware-srm-4x/
 ratings_users:
   - "0"
 ratings_score:

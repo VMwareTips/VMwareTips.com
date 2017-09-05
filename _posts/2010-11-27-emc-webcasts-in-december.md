@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1239
 permalink: /2010/11/27/emc-webcasts-in-december/
+redirect_from: /wp/2010/11/27/emc-webcasts-in-december/
 ratings_users:
   - "1"
 ratings_score:

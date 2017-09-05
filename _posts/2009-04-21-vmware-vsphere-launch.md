@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=746
 permalink: /2009/04/21/vmware-vsphere-launch/
+redirect_from: /wp/2009/04/21/vmware-vsphere-launch/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

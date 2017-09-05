@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1316
 permalink: /2011/03/01/storage-saavy-in-socal-want-a-job/
+redirect_from: /wp/2011/03/01/storage-saavy-in-socal-want-a-job/
 ratings_users:
   - "0"
 ratings_score:

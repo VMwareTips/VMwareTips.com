@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=658
 permalink: /2009/03/31/vmware-enhanced-vmotion-compatibility-evc/
+redirect_from: /wp/2009/03/31/vmware-enhanced-vmotion-compatibility-evc/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

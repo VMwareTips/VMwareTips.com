@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=241
 permalink: /2008/10/28/product-reviews-coming-soon/
+redirect_from: /wp/2008/10/28/product-reviews-coming-soon/
 ratings_users:
   - "0"
 ratings_score:

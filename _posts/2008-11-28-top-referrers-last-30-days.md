@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=311
 permalink: /2008/11/28/top-referrers-last-30-days/
+redirect_from: /wp/2008/11/28/top-referrers-last-30-days/
 ratings_users:
   - "1"
 ratings_score:

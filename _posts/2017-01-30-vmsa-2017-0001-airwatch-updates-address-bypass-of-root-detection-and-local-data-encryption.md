@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3367
 permalink: /2017/01/30/vmsa-2017-0001-airwatch-updates-address-bypass-of-root-detection-and-local-data-encryption/
+redirect_from: /wp/2017/01/30/vmsa-2017-0001-airwatch-updates-address-bypass-of-root-detection-and-local-data-encryption/
 ratings_users:
   - "1"
 ratings_score:

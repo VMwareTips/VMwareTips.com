@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2194
 permalink: /2013/09/25/vmware-support-alert-alert-active-directory-authentication-fails-when-vcenter-single-sign-on-5-5-runs-on-windows-server-2012-along-with-ad/
+redirect_from: /wp/2013/09/25/vmware-support-alert-alert-active-directory-authentication-fails-when-vcenter-single-sign-on-5-5-runs-on-windows-server-2012-along-with-ad/
 ratings_users:
   - "0"
 ratings_score:

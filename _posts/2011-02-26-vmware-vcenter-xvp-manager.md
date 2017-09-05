@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1297
 permalink: /2011/02/26/vmware-vcenter-xvp-manager/
+redirect_from: /wp/2011/02/26/vmware-vcenter-xvp-manager/
 ratings_users:
   - "0"
 ratings_score:

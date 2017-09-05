@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2655
 permalink: /2015/05/11/vmware-support-alert-alert-vsphere-web-client-5-0-fails-to-load/
+redirect_from: /wp/2015/05/11/vmware-support-alert-alert-vsphere-web-client-5-0-fails-to-load/
 ratings_users:
   - "0"
 ratings_score:

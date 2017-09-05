@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2181
 permalink: /2013/09/22/vmware-support-alert-alert-vsa-manager-plug-in-does-not-appear-in-the-vsphere-web-client/
+redirect_from: /wp/2013/09/22/vmware-support-alert-alert-vsa-manager-plug-in-does-not-appear-in-the-vsphere-web-client/
 ratings_users:
   - "0"
 ratings_score:

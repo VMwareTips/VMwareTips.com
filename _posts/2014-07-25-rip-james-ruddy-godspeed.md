@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2384
 permalink: /2014/07/25/rip-james-ruddy-godspeed/
+redirect_from: /wp/2014/07/25/rip-james-ruddy-godspeed/
 ratings_users:
   - "0"
 ratings_score:

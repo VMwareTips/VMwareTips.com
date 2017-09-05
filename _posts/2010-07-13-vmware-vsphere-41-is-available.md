@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1206
 permalink: /2010/07/13/vmware-vsphere-41-is-available/
+redirect_from: /wp/2010/07/13/vmware-vsphere-41-is-available/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

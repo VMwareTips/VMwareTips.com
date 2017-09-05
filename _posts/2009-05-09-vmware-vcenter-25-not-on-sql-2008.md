@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=778
 permalink: /2009/05/09/vmware-vcenter-25-not-on-sql-2008/
+redirect_from: /wp/2009/05/09/vmware-vcenter-25-not-on-sql-2008/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

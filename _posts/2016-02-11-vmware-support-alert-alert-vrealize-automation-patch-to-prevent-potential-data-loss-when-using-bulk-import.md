@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2933
 permalink: /2016/02/11/vmware-support-alert-alert-vrealize-automation-patch-to-prevent-potential-data-loss-when-using-bulk-import/
+redirect_from: /wp/2016/02/11/vmware-support-alert-alert-vrealize-automation-patch-to-prevent-potential-data-loss-when-using-bulk-import/
 ratings_users:
   - "0"
 ratings_score:

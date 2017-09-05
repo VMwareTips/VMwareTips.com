@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=478
 permalink: /2009/01/16/mass-vm-shutdown-script/
+redirect_from: /wp/2009/01/16/mass-vm-shutdown-script/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

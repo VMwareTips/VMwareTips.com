@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=647
 permalink: /2009/03/20/lots-of-new-exciting-things-happened-this-week/
+redirect_from: /wp/2009/03/20/lots-of-new-exciting-things-happened-this-week/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

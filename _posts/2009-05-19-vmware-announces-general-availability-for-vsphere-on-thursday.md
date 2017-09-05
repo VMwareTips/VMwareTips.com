@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=795
 permalink: /2009/05/19/vmware-announces-general-availability-for-vsphere-on-thursday/
+redirect_from: /wp/2009/05/19/vmware-announces-general-availability-for-vsphere-on-thursday/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

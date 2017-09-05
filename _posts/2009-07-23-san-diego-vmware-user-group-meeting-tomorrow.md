@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=929
 permalink: /2009/07/23/san-diego-vmware-user-group-meeting-tomorrow/
+redirect_from: /wp/2009/07/23/san-diego-vmware-user-group-meeting-tomorrow/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

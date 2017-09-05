@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1968
 permalink: /2013/02/08/security-announce-updated-vmsa-2013-0001-1-vmware-vsphere-security-updates-for-the-authentication-service-and-third-party-libraries/
+redirect_from: /wp/2013/02/08/security-announce-updated-vmsa-2013-0001-1-vmware-vsphere-security-updates-for-the-authentication-service-and-third-party-libraries/
 ratings_users:
   - "0"
 ratings_score:

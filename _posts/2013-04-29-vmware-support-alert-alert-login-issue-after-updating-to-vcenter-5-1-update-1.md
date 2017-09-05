@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2036
 permalink: /2013/04/29/vmware-support-alert-alert-login-issue-after-updating-to-vcenter-5-1-update-1/
+redirect_from: /wp/2013/04/29/vmware-support-alert-alert-login-issue-after-updating-to-vcenter-5-1-update-1/
 ratings_users:
   - "0"
 ratings_score:

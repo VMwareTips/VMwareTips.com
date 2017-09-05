@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=275
 permalink: /2008/11/12/product-review-sun-xvm-server/
+redirect_from: /wp/2008/11/12/product-review-sun-xvm-server/
 ratings_users:
   - "1"
 ratings_score:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1247
 permalink: /2011/01/10/huge-things-coming-from-emc/
+redirect_from: /wp/2011/01/10/huge-things-coming-from-emc/
 ratings_users:
   - "0"
 ratings_score:

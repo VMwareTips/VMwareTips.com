@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1155
 permalink: /2010/04/01/announcing-new-windows-31-training/
+redirect_from: /wp/2010/04/01/announcing-new-windows-31-training/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

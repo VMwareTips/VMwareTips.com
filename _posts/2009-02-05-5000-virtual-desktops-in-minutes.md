@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=562
 permalink: /2009/02/05/5000-virtual-desktops-in-minutes/
+redirect_from: /wp/2009/02/05/5000-virtual-desktops-in-minutes/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

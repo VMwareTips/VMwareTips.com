@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3388
 permalink: /2017/03/28/security-announce-new-vmsa-2017-0006-vmware-esxi-workstation-and-fusion-updates-address-critical-and-moderate-security-issues/
+redirect_from: /wp/2017/03/28/security-announce-new-vmsa-2017-0006-vmware-esxi-workstation-and-fusion-updates-address-critical-and-moderate-security-issues/
 ratings_users:
   - "0"
 ratings_score:

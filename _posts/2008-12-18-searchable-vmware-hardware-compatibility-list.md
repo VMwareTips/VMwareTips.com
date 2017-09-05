@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=384
 permalink: /2008/12/18/searchable-vmware-hardware-compatibility-list/
+redirect_from: /wp/2008/12/18/searchable-vmware-hardware-compatibility-list/
 ratings_users:
   - "0"
 ratings_score:

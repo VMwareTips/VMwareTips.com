@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1989
 permalink: /2013/02/20/vsphere-land-voting-for-top-blogs-2013/
+redirect_from: /wp/2013/02/20/vsphere-land-voting-for-top-blogs-2013/
 ratings_users:
   - "0"
 ratings_score:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=3206
 permalink: /2016/09/13/security-announce-new-vmsa-2016-0014-vmware-esxi-workstation-fusion-and-tools-updates-address-multiple-security-issues/
+redirect_from: /wp/2016/09/13/security-announce-new-vmsa-2016-0014-vmware-esxi-workstation-fusion-and-tools-updates-address-multiple-security-issues/
 ratings_users:
   - "0"
 ratings_score:

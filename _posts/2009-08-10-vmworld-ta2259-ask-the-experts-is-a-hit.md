@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=958
 permalink: /2009/08/10/vmworld-ta2259-ask-the-experts-is-a-hit/
+redirect_from: /wp/2009/08/10/vmworld-ta2259-ask-the-experts-is-a-hit/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

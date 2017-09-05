@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=885
 permalink: /2009/06/25/vmware-vsphere-4-enterprise-plus-2-month-sns/
+redirect_from: /wp/2009/06/25/vmware-vsphere-4-enterprise-plus-2-month-sns/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

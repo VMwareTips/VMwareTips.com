@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=487
 permalink: /2009/01/16/ssh-from-esx-host-to-esx-host-with-no-password/
+redirect_from: /wp/2009/01/16/ssh-from-esx-host-to-esx-host-with-no-password/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

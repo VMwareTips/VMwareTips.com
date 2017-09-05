@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1898
 permalink: /2012/12/21/vmware-support-alert-alert-upgrading-to-view-agent-5-1-2-can-result-in-performance-issues/
+redirect_from: /wp/2012/12/21/vmware-support-alert-alert-upgrading-to-view-agent-5-1-2-can-result-in-performance-issues/
 ratings_users:
   - "0"
 ratings_score:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=925
 permalink: /2009/07/23/vmworld-2009-sessions-scheduled/
+redirect_from: /wp/2009/07/23/vmworld-2009-sessions-scheduled/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

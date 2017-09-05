@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=899
 permalink: /2009/07/06/burton-group-catalyst-conference-2009/
+redirect_from: /wp/2009/07/06/burton-group-catalyst-conference-2009/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

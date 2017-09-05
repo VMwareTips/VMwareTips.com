@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=519
 permalink: /2009/02/02/san-diego-vmug-meeting-tomorrow/
+redirect_from: /wp/2009/02/02/san-diego-vmug-meeting-tomorrow/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

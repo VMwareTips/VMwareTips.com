@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=369
 permalink: /2008/12/15/esxi-u3-allows-full-administration-via-rcli/
+redirect_from: /wp/2008/12/15/esxi-u3-allows-full-administration-via-rcli/
 ratings_users:
   - "0"
 ratings_score:

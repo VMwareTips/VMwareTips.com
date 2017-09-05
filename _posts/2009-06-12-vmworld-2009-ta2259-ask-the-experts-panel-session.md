@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=876
 permalink: /2009/06/12/vmworld-2009-ta2259-ask-the-experts-panel-session/
+redirect_from: /wp/2009/06/12/vmworld-2009-ta2259-ask-the-experts-panel-session/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

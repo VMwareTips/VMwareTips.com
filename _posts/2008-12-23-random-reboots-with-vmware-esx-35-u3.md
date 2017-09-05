@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=432
 permalink: /2008/12/23/random-reboots-with-vmware-esx-35-u3/
+redirect_from: /wp/2008/12/23/random-reboots-with-vmware-esx-35-u3/
 ratings_users:
   - "3"
 ratings_score:

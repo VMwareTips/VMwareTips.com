@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=594
 permalink: /2009/02/25/congratulations-you-have-received-a-vmware-vexpert-award/
+redirect_from: /wp/2009/02/25/congratulations-you-have-received-a-vmware-vexpert-award/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=20
 permalink: /2008/09/12/netapp-snapshots-in-esx/
+redirect_from: /wp/2008/09/12/netapp-snapshots-in-esx/
 views:
   - "18131"
 ratings_users:

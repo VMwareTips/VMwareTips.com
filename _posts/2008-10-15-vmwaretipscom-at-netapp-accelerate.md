@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=56
 permalink: /2008/10/15/vmwaretipscom-at-netapp-accelerate/
+redirect_from: /wp/2008/10/15/vmwaretipscom-at-netapp-accelerate/
 views:
   - "2419"
 ratings_users:

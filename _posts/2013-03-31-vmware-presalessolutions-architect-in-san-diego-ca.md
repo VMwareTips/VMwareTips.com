@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2015
 permalink: /2013/03/31/vmware-presalessolutions-architect-in-san-diego-ca/
+redirect_from: /wp/2013/03/31/vmware-presalessolutions-architect-in-san-diego-ca/
 ratings_users:
   - "0"
 ratings_score:

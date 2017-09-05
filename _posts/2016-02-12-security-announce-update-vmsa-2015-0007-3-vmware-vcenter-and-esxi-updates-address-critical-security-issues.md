@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2935
 permalink: /2016/02/12/security-announce-update-vmsa-2015-0007-3-vmware-vcenter-and-esxi-updates-address-critical-security-issues/
+redirect_from: /wp/2016/02/12/security-announce-update-vmsa-2015-0007-3-vmware-vcenter-and-esxi-updates-address-critical-security-issues/
 ratings_users:
   - "0"
 ratings_score:

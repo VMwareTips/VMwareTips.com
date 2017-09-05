@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=446
 permalink: /2009/01/06/defunct-cimservera-processes-freez-vmware-esx-35/
+redirect_from: /wp/2009/01/06/defunct-cimservera-processes-freez-vmware-esx-35/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2710
 permalink: /2015/06/22/vmware-support-alert-alert-support-for-leap-seconds-in-vmware-products/
+redirect_from: /wp/2015/06/22/vmware-support-alert-alert-support-for-leap-seconds-in-vmware-products/
 ratings_users:
   - "0"
 ratings_score:

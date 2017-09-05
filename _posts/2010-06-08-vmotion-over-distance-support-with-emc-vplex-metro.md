@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1176
 permalink: /2010/06/08/vmotion-over-distance-support-with-emc-vplex-metro/
+redirect_from: /wp/2010/06/08/vmotion-over-distance-support-with-emc-vplex-metro/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=504
 permalink: /2009/01/21/cloning-physical-linux-pc-that-uses-lvm/
+redirect_from: /wp/2009/01/21/cloning-physical-linux-pc-that-uses-lvm/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

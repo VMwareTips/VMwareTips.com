@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=357
 permalink: /2008/12/12/esx-reference-cards/
+redirect_from: /wp/2008/12/12/esx-reference-cards/
 ratings_users:
   - "0"
 ratings_score:

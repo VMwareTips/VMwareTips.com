@@ -7,6 +7,7 @@ layout: post
 guid: http://vmwaretips.com/wp/?p=5
 permalink: /2008/09/12/changing-service-console-ip-address-in-esx-35/
 redirect_from: /wp/2008/09/12/changing-service-console-ip-address-in-esx-35/
+redirect_from: /wp/2008/09/12/changing-service-console-ip-address-in-esx-35/
 views:
   - "106981"
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=800
 permalink: /2009/05/21/vmware-vsphere-is-available-for-download/
+redirect_from: /wp/2009/05/21/vmware-vsphere-is-available-for-download/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

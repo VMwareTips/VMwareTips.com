@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=696
 permalink: /2009/04/10/vmwaretips-to-cover-vsphere-launch-thanks-to-trainsignal/
+redirect_from: /wp/2009/04/10/vmwaretips-to-cover-vsphere-launch-thanks-to-trainsignal/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

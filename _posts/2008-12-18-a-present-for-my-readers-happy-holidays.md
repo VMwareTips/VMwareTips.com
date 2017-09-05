@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=389
 permalink: /2008/12/18/a-present-for-my-readers-happy-holidays/
+redirect_from: /wp/2008/12/18/a-present-for-my-readers-happy-holidays/
 ratings_users:
   - "0"
 ratings_score:

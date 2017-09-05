@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1923
 permalink: /2013/01/08/senior-storage-manager-opportunity-in-san-jose-ca/
+redirect_from: /wp/2013/01/08/senior-storage-manager-opportunity-in-san-jose-ca/
 ratings_users:
   - "0"
 ratings_score:

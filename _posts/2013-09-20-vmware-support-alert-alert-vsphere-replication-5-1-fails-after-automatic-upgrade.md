@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=2177
 permalink: /2013/09/20/vmware-support-alert-alert-vsphere-replication-5-1-fails-after-automatic-upgrade/
+redirect_from: /wp/2013/09/20/vmware-support-alert-alert-vsphere-replication-5-1-fails-after-automatic-upgrade/
 ratings_users:
   - "0"
 ratings_score:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1717
 permalink: /2012/09/16/vmware-security-alert-security-announce-updated-vmsa-2012-0008-1-vmware-esx-updates-to-esx-service-console-2/
+redirect_from: /wp/2012/09/16/vmware-security-alert-security-announce-updated-vmsa-2012-0008-1-vmware-esx-updates-to-esx-service-console-2/
 ratings_users:
   - "0"
 ratings_score:

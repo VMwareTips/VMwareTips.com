@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=888
 permalink: /2009/06/25/vmware-code-central-now-online/
+redirect_from: /wp/2009/06/25/vmware-code-central-now-online/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

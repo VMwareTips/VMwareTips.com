@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1972
 permalink: /2013/02/08/security-announce-new-vmsa-2013-0002-vmware-esx-workstation-fusion-and-view-vmci-privilege/
+redirect_from: /wp/2013/02/08/security-announce-new-vmsa-2013-0002-vmware-esx-workstation-fusion-and-view-vmci-privilege/
 ratings_users:
   - "0"
 ratings_score:

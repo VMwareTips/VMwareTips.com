@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1085
 permalink: /2009/11/25/vmware-vsphere-40-update-1-released/
+redirect_from: /wp/2009/11/25/vmware-vsphere-40-update-1-released/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

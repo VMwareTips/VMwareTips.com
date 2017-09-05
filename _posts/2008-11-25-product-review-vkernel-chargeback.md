@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=294
 permalink: /2008/11/25/product-review-vkernel-chargeback/
+redirect_from: /wp/2008/11/25/product-review-vkernel-chargeback/
 ratings_users:
   - "1"
 ratings_score:

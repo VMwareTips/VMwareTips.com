@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=30
 permalink: /2008/09/13/changing-the-ip-of-your-nfs-datastore/
+redirect_from: /wp/2008/09/13/changing-the-ip-of-your-nfs-datastore/
 views:
   - "23734"
 ratings_users:

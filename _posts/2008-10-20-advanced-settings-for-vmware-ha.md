@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=125
 permalink: /2008/10/20/advanced-settings-for-vmware-ha/
+redirect_from: /wp/2008/10/20/advanced-settings-for-vmware-ha/
 views:
   - "31653"
 ratings_users:

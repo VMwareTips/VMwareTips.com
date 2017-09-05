@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1024
 permalink: /2009/09/16/share-your-vmware-experience-and-win-a-macbook/
+redirect_from: /wp/2009/09/16/share-your-vmware-experience-and-win-a-macbook/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=515
 permalink: /2009/01/29/vmware-workstation-ubuntu-810-ctrl-alt-ins-not-working/
+redirect_from: /wp/2009/01/29/vmware-workstation-ubuntu-810-ctrl-alt-ins-not-working/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

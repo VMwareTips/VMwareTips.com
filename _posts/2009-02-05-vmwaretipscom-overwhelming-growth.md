@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=555
 permalink: /2009/02/05/vmwaretipscom-overwhelming-growth/
+redirect_from: /wp/2009/02/05/vmwaretipscom-overwhelming-growth/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:

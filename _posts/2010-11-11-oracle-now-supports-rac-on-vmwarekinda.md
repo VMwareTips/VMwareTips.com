@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=1228
 permalink: /2010/11/11/oracle-now-supports-rac-on-vmwarekinda/
+redirect_from: /wp/2010/11/11/oracle-now-supports-rac-on-vmwarekinda/
 ratings_users:
   - "0"
 ratings_score:

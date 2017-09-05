@@ -6,6 +6,7 @@ author: Rick Scherer
 layout: post
 guid: http://vmwaretips.com/wp/?p=517
 permalink: /2009/01/29/my-hdd-failed-but-ddrescue-saved-the-day/
+redirect_from: /wp/2009/01/29/my-hdd-failed-but-ddrescue-saved-the-day/
 aktt_notify_twitter:
   - 'yes'
 ratings_users:
