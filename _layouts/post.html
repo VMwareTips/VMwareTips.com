@@ -105,13 +105,9 @@ layout: default
          </p>
        {% endif %}
 
-       {% if page.share %}
-        <p class="page__social">{% include social-share.html %}</p>
-       {% endif %}
-
-       {% if site.comments.provider and page.comments %}
-          <p class="page__comments">{% include disqus.html %}</p>
-       {% endif %}
+       {% if page.share %}{% include social-share.html %}{% endif %}
+       <hr>
+       {% if site.comments.provider and page.comments %}{% include disqus.html %}{% endif %}
 
        <!-- {% include post_pagination.html %} -->
 
