@@ -104,14 +104,11 @@ layout: default
            </span>
          </p>
        {% endif %}
-
-       {% if page.share %}{% include social-share.html %}{% endif %}
-       <hr>
-       {% if site.comments.provider and page.comments %}{% include disqus.html %}{% endif %}
-
-       <!-- {% include post_pagination.html %} -->
-
    </footer>
+   {% if page.share %}{% include social-share.html %}{% endif %}
+   <hr>
+   {% if site.comments.provider and page.comments %}{% include disqus.html %}{% endif %}
+   <!-- {% include post_pagination.html %} -->
    </article>
    {% if page.id and page.related and site.related_posts.size > 0 %}
    <div class="page__related">
