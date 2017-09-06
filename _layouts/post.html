@@ -119,15 +119,13 @@ layout: default
            </div>
          </div>
        {% endif %}
-
-     {% if site.comments.provider and page.comments %}
-       <hr>
-       <h4>Comments</h4>
-       {% include disqus.html %}
-     {% endif %}
-
    <!-- {% include post_pagination.html %} -->
 
    </footer>
+   {% if site.comments.provider and page.comments %}
+     <h4>Comments</h4>
+     {% include disqus.html %}
+   {% endif %}
+
    </article>
  </div>
