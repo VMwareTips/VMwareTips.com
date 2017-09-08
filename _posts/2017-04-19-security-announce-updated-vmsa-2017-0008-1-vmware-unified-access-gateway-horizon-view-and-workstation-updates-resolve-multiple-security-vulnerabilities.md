@@ -1,6 +1,6 @@
 ---
 id: 3396
-title: '[Security-announce] Updated VMSA-2017-0008.1-VMware Unified Access Gateway, Horizon View and Workstation updates resolve multiple security vulnerabilities'
+title: 'Updated VMSA-2017-0008.1-VMware Unified Access Gateway, Horizon View and Workstation updates resolve multiple security vulnerabilities'
 date: 2017-04-19T13:21:20+00:00
 author: Rick Scherer
 layout: post

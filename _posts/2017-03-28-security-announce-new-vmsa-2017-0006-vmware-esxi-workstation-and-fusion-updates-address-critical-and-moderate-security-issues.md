@@ -1,6 +1,6 @@
 ---
 id: 3388
-title: '[Security-announce] NEW VMSA-2017-0006 VMware ESXi, Workstation and Fusion updates address critical and moderate security issues'
+title: 'New VMSA-2017-0006 VMware ESXi, Workstation and Fusion updates address critical and moderate security issues'
 date: 2017-03-28T09:38:21+00:00
 author: Rick Scherer
 layout: post

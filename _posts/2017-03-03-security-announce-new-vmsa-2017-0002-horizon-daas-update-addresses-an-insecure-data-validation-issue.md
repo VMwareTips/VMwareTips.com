@@ -1,6 +1,6 @@
 ---
 id: 3370
-title: '[Security-announce] New VMSA-2017-0002 Horizon DaaS update addresses an insecure data validation issue'
+title: 'New VMSA-2017-0002 Horizon DaaS update addresses an insecure data validation issue'
 date: 2017-03-03T01:02:10+00:00
 author: Rick Scherer
 layout: post

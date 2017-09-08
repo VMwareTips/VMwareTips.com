@@ -1,6 +1,6 @@
 ---
 id: 3402
-title: '[Security-announce] UPDATED &#8211; VMSA-2016-0024.1 &#8211; vSphere Data Protection (VDP) updates address SSH Key-Based authentication issue'
+title: 'Updated VMSA-2016-0024.1 &#8211; vSphere Data Protection (VDP) updates address SSH Key-Based authentication issue'
 date: 2017-06-06T12:21:28+00:00
 author: Rick Scherer
 layout: post

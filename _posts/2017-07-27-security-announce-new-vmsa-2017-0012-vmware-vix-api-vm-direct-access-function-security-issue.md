@@ -1,6 +1,6 @@
 ---
 id: 3410
-title: '[Security-announce] NEW VMSA-2017-0012 &#8211; VMware VIX API VM Direct Access Function security issue'
+title: 'New VMSA-2017-0012 &#8211; VMware VIX API VM Direct Access Function security issue'
 date: 2017-07-27T10:53:21+00:00
 author: Rick Scherer
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 3404
-title: '[Security-announce] NEW &#8211; VMSA-2017-0010 &#8211; vSphere Data Protection (VDP) updates address multiple security issues'
+title: 'New VMSA-2017-0010 &#8211; vSphere Data Protection (VDP) updates address multiple security issues'
 date: 2017-06-06T12:21:30+00:00
 author: Rick Scherer
 layout: post

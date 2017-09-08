@@ -1,6 +1,6 @@
 ---
 id: 3372
-title: '[Security-announce] New VMSA-2017-0003 VMware Workstation update addresses multiple security issues'
+title: 'New VMSA-2017-0003 VMware Workstation update addresses multiple security issues'
 date: 2017-03-09T21:49:13+00:00
 author: Rick Scherer
 layout: post

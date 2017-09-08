@@ -1,6 +1,6 @@
 ---
 id: 3412
-title: '[Security-announce] New VMSA-2017-0013 &#8211; VMware vCenter Server and Tools updates resolve multiple security vulnerabilities'
+title: 'New VMSA-2017-0013 &#8211; VMware vCenter Server and Tools updates resolve multiple security vulnerabilities'
 date: 2017-07-27T20:53:37+00:00
 author: Rick Scherer
 layout: post
