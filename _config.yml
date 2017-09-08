@@ -11,7 +11,7 @@ title                    : "VMware.Tips - Virtualization : Cloud : Software-Defi
 logo                     : "site-logo.png"
 title_separator          : "-"
 name                     : "Rick Scherer"
-description              : "Principal Global Architect, CTO Ambassador, and Cloud Native Aficionado"
+description              : "Rick Scherer is a Principal Global Architect & CTO Ambassador at Dell EMC, supporting the relationships with the American Express and Intel accounts. He is VCDX #21."
 url                      : "http://www.vmwaretips.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "VMwareTips/VMwareTips.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
