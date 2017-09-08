@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "www.vmwaretips.com"
+logo                     : "site-logo.png"
 title_separator          : "-"
 name                     : "Rick Scherer"
 description              : "Lead Global Architect, CTO Ambassador, and Cloud Native Aficionado"
