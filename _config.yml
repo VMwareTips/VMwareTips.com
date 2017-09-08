@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "www.vmwaretips.com"
+title                    : "VMware.Tips - Virtualization : Cloud : Software-Defined : Hyper-Converged"
 logo                     : "site-logo.png"
 title_separator          : "-"
 name                     : "Rick Scherer"
-description              : "Lead Global Architect, CTO Ambassador, and Cloud Native Aficionado"
+description              : "Principal Global Architect, CTO Ambassador, and Cloud Native Aficionado"
 url                      : "http://www.vmwaretips.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rickscherer/vmwaretips.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "VMwareTips/VMwareTips.com" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
