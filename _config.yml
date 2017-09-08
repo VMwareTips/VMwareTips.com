@@ -249,7 +249,6 @@ defaults:
       header:
 #        image: image-banner.jpg
 sidebar:
-  - title: ""
+  - title: "Sponsors"
     image: "https://ad.doubleclick.net/ddm/ad/N410401.1772599VMWARETIPS.COMWP/B10464038.145280793;sz=180x150;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
     url: "https://ad.doubleclick.net/ddm/jump/N410401.1772599VMWARETIPS.COMWP/B10464038.145280793;sz=180x150;ord=[timestamp]?"
-    
