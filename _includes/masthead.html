@@ -10,7 +10,7 @@
               	<img src="{{ site.logo }}" alt="{{ site.title }}">
               {% else %}
               	<img src="{{ site.logo | prepend: "/images/" | prepend: base_path }}" class="site__logo" alt="{{ site.title }}">
-              {% endif %}{{ site.title }}</a></li>
+              {% endif %}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
