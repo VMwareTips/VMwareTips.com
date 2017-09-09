@@ -29,7 +29,7 @@ tags:
 ---
 In the event you need to change the VLAN of any of your Port Groups here is some good instruction on doing just that. Remember, VLANs are configured at the Port Group level and not the vSwitch level. This allows you to trunk as many VLANs you need to your vSwitch&#8217;s then create dedicated Port Groups for each of those Virtual LANs.
 
-<!--more-->
+
 
 First lets look at our existing configuration;
 

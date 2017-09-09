@@ -53,7 +53,7 @@ tags:
   
 ](http://bit.ly/2aY64pB) Date Published: 8/11/2016
 
-<!--more-->
+
 
 **VMware Horizon 6 version** 
   

@@ -103,7 +103,7 @@ Date Published: 11/23/2016
   
 Date Published: 11/22/2016
 
-<!--more-->
+
 
 **VMware Horizon** 
   

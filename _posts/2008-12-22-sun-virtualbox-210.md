@@ -24,7 +24,7 @@ tags:
 ---
 For those of you that have read my prior post on <a href="http://vmwaretips.com/wp/2008/11/02/product-review-sun-virtualbox/" target="_blank">Sun VirtualBox</a>, you would already know that I think it is a viable alternative to VMware Server.  Although I do not feel it is strong enough to contend with VMware Workstation, I feel it definietely sits at the top of the free type-2 based hypervisor offerings.  The best thing about it is that it has a build for pretty much every operating system (including Mac).
 
-<!--more-->
+
 
 In VirtualBox version 2.1.0 there have been a ton of enhancements and bug fixes.  You can view the entire list <a href="http://www.virtualbox.org/wiki/Changelog" target="_blank">here</a>.
 

@@ -27,7 +27,7 @@ tags:
 ---
 A few days ago VMware released vCenter 2.5 U4, the latest installment of their vCenter Server.  I have yet to upgrade my environment(s), but I will be planning to do so very soon.  There are two new enhancements to vCenter with this release, and a handful of updates.
 
-<!--more-->
+
 
 **What&#8217;s New**
 

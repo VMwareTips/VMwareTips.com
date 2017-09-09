@@ -40,7 +40,7 @@ You&#8217;ve guessed it, VMware has released Update 2 of their flagship bare-met
 > 
 > **Additional Guest Operating System Support**— ESX/ESXi 4.0 Update 2 adds support for Ubuntu 10.04. For a complete list of supported guest operating systems with this release, see the <a href="http://www.vmware.com/resources/compatibility/search.php" target="_blank"><em>VMware Compatibility Guide</em></a>.
 
-<!--more-->
+
 
 Here are some of the key issues that are resolved in this update;
 

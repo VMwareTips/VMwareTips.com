@@ -29,7 +29,7 @@ tags:
 ---
 <span style="color: #888888;"><span style="color: #888888;">After discussing the issue(s) about NFS.LockDisable and how those problems may be generated (ie: VMware HA initiation), a few comments came in about VMware HA and how the default settings may not fit their specific needs.</span></span>
 
-<span style="color: #888888;"><!--more--></span>
+<span style="color: #888888;"></span>
 
 <span style="color: #888888;"><span style="color: #888888;">Well, here are some Advanced Settings that you can change from within your Cluster.</span></span>
 

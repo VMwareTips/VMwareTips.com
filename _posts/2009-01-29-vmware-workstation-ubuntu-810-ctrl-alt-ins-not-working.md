@@ -31,7 +31,7 @@ tags:
 ---
 Well, if some of you haven&#8217;t heard (from twitter) &#8211; I recently lost my HDD. Which not only stinks, but it is a huge pain having to rebuild to exactly how you like your system.  So I figured this would be a good time to upgrade to Ubuntu 8.10 (previously I ran 8.04).  After getting my O/S exactly how I like it, I installed VMware Workstation 6.5 and thankfully was able to recover my VMDK from my failed disk (more details in another blog later) and it started up just fine.   But, for some reason some of my keys were not working, first thing I noticed was Ctrl-Alt-Ins didn&#8217;t work (the alternative to Ctrl-Alt-Del for Windows logons).  Luckily, Duncan over at <a href="http://www.yellow-bricks.com" target="_blank">Yellow-Bricks</a> already hit this hurdle and posted a <a href="http://www.yellow-bricks.com/2008/11/19/vmware-workstation-ubuntu-ctrl-alt-ins-not-working/" target="_blank">blog</a> on how to resolve.  Thanks Duncan!
 
-<!--more-->
+
 
 From Yellow-Bricks.com&#8230;.
 

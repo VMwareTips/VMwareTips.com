@@ -47,7 +47,7 @@ NetApp announced a couple weeks back the integration of NetApp SnapMirror to Tap
 </p>
 
 <p class="fontNormal">
-  <!--more-->
+  
 </p>
 
 <p class="fontNormal">

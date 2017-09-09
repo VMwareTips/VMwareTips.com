@@ -42,7 +42,7 @@ It is 9am Pacific Time on Tuesday, July 12th 2011 and I sure hope you&#8217;re t
 
 Spoiler alert&#8230; reading beyond this point talks about amazing updates and new features from **vm**ware!
 
-<!--more-->
+
 
 This by far has to be the most exciting launch in the history of **vm**ware, not only are we getting an update to the vSphere product suite that has hundreds if not thousands of enhancements and new features, we&#8217;re also getting updates to other great products like vCloud Director, vShield and SRM.
 

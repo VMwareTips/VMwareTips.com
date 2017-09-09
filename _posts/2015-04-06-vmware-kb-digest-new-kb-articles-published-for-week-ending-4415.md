@@ -27,7 +27,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following list of new KB Entries for this week, direct from VMware Support.
 
-**<!--more-->Datacenter**
+**Datacenter**
 
 [Following upgrade to or installation of ESXi 5.1, repeated message: “SSL_VerifyCbHelper: Certificate verification is disabled, so connection will proceed despite the error” in the host-probe.log (2104475)](http://vmw.re/1DEu6jb)
   

@@ -45,7 +45,7 @@ Date Published: 12/29/2016
   
 [Configuring and troubleshooting Load Balancing as a Service in Integrated Openstack 3.0 (2147657)](http://bit.ly/2iZVgIJ)
   
-Date Published: 12/28/2016<!--more-->
+Date Published: 12/28/2016
 
 **VMware vCenter Server**
   

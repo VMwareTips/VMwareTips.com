@@ -59,7 +59,7 @@ Date Published: 6/30/2016
   
 Date Published: 6/29/2016
 
-<!--more-->
+
 
 **VMware EVO:RAIL**
   

@@ -37,4 +37,3 @@ So, here is your chance to have that hard hitting Virtualization question answer
 
 View the rest of this blog post to view the submission form&#8230;
 
-<!--more-->

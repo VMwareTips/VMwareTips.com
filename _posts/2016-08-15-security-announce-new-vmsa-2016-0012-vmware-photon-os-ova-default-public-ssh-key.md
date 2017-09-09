@@ -96,7 +96,7 @@ tags:
   </h5>
   
   <p>
-    VMware Photon OS OVA contains a default public ssh key.<!--more-->
+    VMware Photon OS OVA contains a default public ssh key.
   </p>
 </div>
 

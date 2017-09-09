@@ -51,7 +51,7 @@ Date Published: 8/18/2016
   
 Date Published: 8/16/2016
 
-<!--more-->
+
 
 **VMware User Environment Manager**
   

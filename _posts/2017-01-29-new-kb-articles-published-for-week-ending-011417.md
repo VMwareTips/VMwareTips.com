@@ -57,7 +57,7 @@ Date Published: 1/12/2017
   
 Date Published: 1/12/2017
 
-<!--more-->
+
 
 **My VMware**
   

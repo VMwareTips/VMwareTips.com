@@ -28,7 +28,7 @@ tags:
 ---
 <span style="color: #888888;">Here is a brief write-up on how to access the Service Console of VMware ESXi. As a disclaimer, this should only be done under the direct supervision of a VMware Support Engineer.</span>
 
-<span style="color: #888888;"><!--more--></span>
+<span style="color: #888888;"></span>
 
   1. <span style="color: #888888;">From the ESXi console summary screen hit <strong>ALT-F1<span style="font-weight: normal;">.</span></strong></span>
   2. <span style="color: #888888;"><strong><span style="font-weight: normal;">Enter the word &#8220;</span>unsupported<span style="font-weight: normal;">&#8221; (without quotes).</span></strong></span>

@@ -39,6 +39,6 @@ This will be the only customer ran SAP based breakout session at VMworld, I&#821
 
 Even if your not interested in the session, be sure to stop by just to say hi!
 
-<!--more-->
+
 
 [Click here to download EA1562 in PDF Format](http://vmwaretips.com/wp/wp-content/uploads/2008/11/ea1562.pdf)

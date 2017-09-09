@@ -57,7 +57,7 @@ Happy Holidays! This video is a continuation of my vSphere 5 Video Series, in th
 </p>
 
 <p style="text-align: left; ">
-  <!--more-->
+  
 </p>
 
 <p style="text-align: left; ">

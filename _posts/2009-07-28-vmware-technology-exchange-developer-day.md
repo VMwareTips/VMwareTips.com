@@ -36,7 +36,7 @@ Technology Day is on Monday, August 31st at the Moscone Center in San Francisco,
   
 <span style="font-family: Calibri; font-size: small;">For event updates(twitter) : <a href="http://twitter.com/VMDeveloperDay" target="_blank">@VMDeveloperDay</a></span>
 
-<!--more-->
+
 
 **<span style="text-decoration: underline;">Focused on the needs of ALL developers building solutions on VMware platforms, Technology Exchange Developer Day is a 1-day event covering the latest on: </span>**
 

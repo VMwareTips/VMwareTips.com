@@ -27,7 +27,7 @@ tags:
 ---
 I finally received an email this afternoon from VMware in regards to the VCDX exam, it finally sounds like they&#8217;ve gotten it straightened out with Pearson VUE on how it will work.  Not to mention they are asking me to schedule a time to take the Exam!
 
-<!--more-->
+
 
 Basically you need to be invited to take the VCDX Exam. The VCDX certification is a multi-step process, most importantly you will need to be a VCP 3.x (those of you who are still VCP in 2.5 will need to take the VCP3 test).  Then you will need to take the VCDX Qualification Review (<a href="http://mylearn.vmware.com/mgrSurvey/feedback.cfm?survey=4583&poll=0&mL_method=overview&senderURL=none&senderDesc=none&ui=Full&user=0" target="_blank">link</a>), this is then reviewed by the VMware Education department.  Upon their approval they will coordinate with you a scheduled time to take the VCDX Enterprise Administration Exam &#8211; when you complete and pass that you then take the Design Exam then finally after all that you present and defend a successful VMware Infrastructure design and implementation plan.  All of these steps can be found on the VMware website (<a href="http://mylearn1.vmware.com/portals/certification//" target="_blank">link</a>).
 

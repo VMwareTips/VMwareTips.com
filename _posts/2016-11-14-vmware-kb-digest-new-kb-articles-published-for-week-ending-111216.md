@@ -59,7 +59,7 @@ Date Published: 11/8/2016
   
 Date Published: 11/7/2016
 
-<!--more-->
+
 
 **VMware Identity Manager** 
   

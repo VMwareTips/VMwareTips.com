@@ -28,7 +28,7 @@ In our effort to provide our viewers with up to the minute information on VMware
 
 &nbsp;
 
-<!--more-->
+
 
 <img class="asset asset-image at-xid-6a00d8341c328153ef01543330c84d970c alignleft" style="margin: 0px 25px 5px 0px; border: 0px;" title="VMware Support Alert" src="http://blogs.vmware.com/tp/.a/6a00d8341c328153ef01543330c84d970c-800wi" alt="VMware Support Alert" width="86" height="86" border="0" />
 

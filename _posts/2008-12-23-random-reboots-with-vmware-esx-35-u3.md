@@ -27,7 +27,7 @@ tags:
 ---
 <span style="color: #000000;">This goes back to a posting on December 12th about VMware HA&#8217;s Virtual Machine Monitoring <a href="http://vmwaretips.com/wp/2008/12/12/vm-may-unexpectedly-reboot-when-using-ha-with-virtual-machine-monitoring/" target="_blank">rebooting guests after a VMotion</a>, which<a href="http://vmwaretips.com/wp/2008/12/12/vm-may-unexpectedly-reboot-when-using-ha-with-virtual-machine-monitoring/" target="_blank"> </a>was originally brought up by <a href="http://blog.scottlowe.org/2008/12/12/vmware-ha-problem-with-update-3/" target="_blank">Scott Lowe</a> and <a href="http://www.yellow-bricks.com/2008/12/12/vms-may-unexpectedly-reboot-when-using-vmware-ha-with-virtual-machine-monitoring/" target="_blank">Duncan Epping</a>. Well, a reader on Scott&#8217;s site has been talking with him about this problem and even after disabling Virtual Machine Monitoring it hasn&#8217;t gone away.</span>
 
-<span style="color: #000000;"><!--more--></span>
+<span style="color: #000000;"></span>
 
 <span style="color: #000000;">Here is the excerpt from Scott&#8217;s website;</span>
 

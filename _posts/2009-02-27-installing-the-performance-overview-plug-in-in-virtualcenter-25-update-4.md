@@ -33,7 +33,7 @@ tags:
 ---
 For those of you upgrading to vCenter 2.5 U4 and and are planning to use the new Performance Overview Plugin, there are some additional steps required to making this work.  Pretty much the biggest thing is that you need the Java Development Kit installed on the vCenter server. All of this is covered in <a href="http://kb.vmware.com/kb/1008296" target="_blank">VMware KB 1008296</a>, but for your convenience I&#8217;ve included the steps here.
 
-<!--more-->
+
 
 <div>
   <strong>Prior to installing the Performance Overview plug-in:</strong>

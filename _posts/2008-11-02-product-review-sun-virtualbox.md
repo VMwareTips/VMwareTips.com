@@ -28,7 +28,7 @@ tags:
 ---
 I never was really interested in Sun VirtualBox until I went to a Product Roadshow put on by Sun Microsystems about 2 weeks ago. As soon as I returned to my office I immediately download VirtualBox to see what all the hype was about.
 
-<!--more-->
+
 
 First I must tell you my main PC that I tested this product with was a HP x4600 workstation with a Dual Core Intel 3GHz processor and 3.5GB of RAM.  My primary O/S is Ubuntu 8.04.
 

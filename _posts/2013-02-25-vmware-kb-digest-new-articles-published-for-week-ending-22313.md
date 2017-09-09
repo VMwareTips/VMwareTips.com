@@ -27,7 +27,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following list of new KB Entries for this week, direct from VMware Support.
 
-**<!--more-->VMware ESX**
+**VMware ESX**
 
 <a href="http://kb.vmware.com/kb/2042539" target="_blank">VMware ESX 3.5 Feb 2013 Patches (2042539)</a>
   

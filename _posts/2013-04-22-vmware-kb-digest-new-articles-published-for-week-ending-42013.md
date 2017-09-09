@@ -27,7 +27,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following list of new KB Entries for this week, direct from VMware Support.
 
-**<!--more-->VMware ESX**
+**VMware ESX**
 
 <a href="http://kb.vmware.com/kb/2050379" target="_blank">Installing VMware Tools on a virtual machine running 32-bit CentOS 6.4 guest operating system causes the virtual machine to reboot repeatedly (2050379)</a>
   

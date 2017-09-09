@@ -33,7 +33,7 @@ tags:
 ---
 Actually this is not that difficult, but remember you will require console access to the server. Be sure to put the machine in Maintenance Mode then Disconnect it from Virtual Center. Then connect to the console of the ESX host;
 
-<!--more-->
+
 
   1. First we need to remove the old IP, the easiest way is to delete the vswif interface
       * esxcfg-vswif -d vswif0

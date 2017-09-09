@@ -30,7 +30,7 @@ Recently my employer found the need to assess virtual machine utilization, to be
 
 As you may have read, I&#8217;ve already reviewed Vizioncore&#8217;s vFoglight &#8211; which is a real nice product and extremely flexible&#8230;but, as some may have already seen or heard, it is extremely bloated and put a 2 vCPU/4GB Virtual Machine to its knees. (Also, it does not have a Chargeback feature..which is surprising since the older versions of vCharter did) &#8230;So, this is where vKernel&#8217;s product line comes in.
 
-<!--more-->
+
 
 vKernel&#8217;s Chargeback is exactly that, its a product designed to help you assess what a Virtual Machine is costing you to run it&#8230;.nothing more, nothing less.   The installation is the most streamlined process I&#8217;ve seen, but it should be since it is a Virtual Appliance.  Simply import this Virtual Appliance from within your VI Infrastructure Client and your up and running in less than an hour (depending on your WAN connection speed).
 

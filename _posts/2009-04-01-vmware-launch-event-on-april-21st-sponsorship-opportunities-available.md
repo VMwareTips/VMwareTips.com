@@ -31,7 +31,7 @@ tags:
 ---
 As many of you know (or may not know), VMware will be having a _&#8220;<a href="http://searchservervirtualization.techtarget.com/news/article/0,289142,sid94_gci1352538,00.html" target="_blank">Launch Event</a>&#8220;*_ on Tuesday, April 21st.  This is going to be an exciting event where VMware CEO Paul Maritz will be hosting the launch of their next generation virtualization platform.
 
-<!--more-->
+
 
 [<img class="alignright size-full wp-image-663" title="netapp-logo" src="http://vmwaretips.com/wp/wp-content/uploads/2009/04/netapp-logo.jpg" alt="" width="85" height="96" />](http://vmwaretips.com/wp/wp-content/uploads/2009/04/netapp-logo.jpg)I was invited by VMware to attend this event, not only as a customer but also as a member of the media. My plan is to cover the event complete with video and then post this to the VMwareTips.com website. Special thanks to <a href="http://www.netapp.com" target="_blank">NetApp</a> for covering my travel and lodging, luckily for me I will be in Palo Alto that week for <a href="http://vmwaretips.com/wp/2009/02/08/sap-virtualization-week-2009/" target="_blank">SAP Virtualization Week</a> speaking on April 22nd.
 

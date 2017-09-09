@@ -62,7 +62,7 @@ authentication issue
 
 vSphere Data Protection (VDP)
 
-<!--more-->
+
 
 &nbsp;
 

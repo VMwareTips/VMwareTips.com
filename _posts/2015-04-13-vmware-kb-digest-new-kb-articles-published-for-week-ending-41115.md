@@ -29,7 +29,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following list of new KB Entries for this week, direct from VMware Support.
 
-**<!--more-->VMware ESXi**
+**VMware ESXi**
 
 [VMware vSphere ESXi 6.0 hostd logs sent to an external syslog collector have a timestamp of: NoneZ (2111202)](http://vmw.re/1cp4xqo)
   

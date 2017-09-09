@@ -39,7 +39,7 @@ This is going to be an amazing week! I can&#8217;t wait for the fun to start (in
 
 So that&#8217;s it for now&#8230; let&#8217;s switch on the live blogging and hope this all works out! Have a Great Week!
 
-<!--more-->
+
 
 **Live Blogging Feed&#8230;**
   

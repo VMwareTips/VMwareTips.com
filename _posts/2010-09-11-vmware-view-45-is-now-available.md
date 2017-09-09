@@ -32,7 +32,7 @@ One week after the finish of VMworld 2010 _US Edition_ VMware drops one of the m
 
 Before I get into the details of what&#8217;s new in this major dot release one must ponder why this release goes against the VMware version standards that were placed when vSphere 4.0 was released.  How come this version isn&#8217;t 4.1? Or furthermore how come vSphere 4.1 isn&#8217;t vSphere 4.5 &#8212; there were definitely enough enhancements for vS 4.1 to be a major release.
 
-<!--more-->
+
 
 Anyways it is what it is and perhaps we could expect something even greater from the vSphere family before it&#8217;s next major version (5.0), which has been hinted in this <a href="http://www.youtube.com/watch?v=H5aAYOy2RPE" target="_blank">YouTube</a> (at 1:32) video showing the upcoming iPad vSphere Management App.
 

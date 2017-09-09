@@ -35,7 +35,7 @@ So, I&#8217;ve already had a couple <a href="http://vmwaretips.com/wp/2008/12/05
 
 OK &#8212; so lets take it a step further, say you don&#8217;t want to fork out the money for SMVI, what can you do?  Well, NetApp released on its <a href="http://now.netapp.com/NOW/download/tools/vibe/" target="_blank">NOW ToolChest</a> (support subscription required) a tool called VIBE, Virtual Infrastructure Backup Engine.
 
-<!--more-->
+
 
 VIBE is a free tool which operates exactly as SMVI, the only catch is that you do not get the pretty GUI that SMVI gives you.  VIBE is completely text based via either Perl or compiled EXE (Perl for Linux or EXE for Windows), and I&#8217;m actually running it on my vCenter server nightly at Midnight.  VIBE interacts with vCenter to grab all of your datastore and VM information and to actually kick off the VM level snapshot.  VIBE then interacts with your NetApp FAS to kick off the NetApp level snapshot and any SnapMirror syncs.
 

@@ -33,7 +33,7 @@ tags:
 ---
 It has been confirmed that I will be speaking at SAP Virtualization Week this year, I will be discussing the City of San Diego&#8217;s implementation of SAP Netweaver 7 on VMware ESX 3.5.  Here is some information direct from the SAP Enterprise Virtualization website:
 
-<!--more-->
+
 
 <p style="padding-left: 30px;">
   <em>Many of our top customers will meet onsite at COIL to listen to 25 sessions presented by customers, partners and SAP, to talk about their experience with virtualization in SAP environments and to discuss the newest trends and technologies.</em>

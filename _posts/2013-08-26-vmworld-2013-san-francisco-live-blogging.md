@@ -37,7 +37,7 @@ This is going to be an amazing week! I can’t wait for the fun to start and ing
 
 So that’s it for now… let’s switch on the live blogging and hope this all works out! Have a Great Week!
 
-<!--more-->
+
 
 **Live Blogging Feed&#8230;**
   

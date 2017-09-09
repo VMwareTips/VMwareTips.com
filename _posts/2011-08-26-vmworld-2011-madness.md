@@ -41,7 +41,7 @@ There are about 20 of us here, from around the global, working diligently on get
 
 So here is my schedule, full of great sessions, fun networking opportunities, awesome parties and completely slammed&#8230;.boy I love VMworld!
 
-<!--more-->
+
 
 <table border="0" cellspacing="6" cellpadding="6" width="100%">
   <tr>

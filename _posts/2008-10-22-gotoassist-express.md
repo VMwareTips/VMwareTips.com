@@ -25,7 +25,7 @@ tags:
 ---
 Its not often that I talk about non virtualized things, but a recent run-in with this new piece of software created by Citrix has me delighted. Most tech heads know that your typically the first line of support for your friends and families desktop repair needs, with this being said its typically a nightmare providing phone support for non-techie people without getting frustrated and pulling your own hair out, or even worse yelling at the person.
 
-<!--more-->
+
 
 We all know there are services out there for remote support, GoToAssist being one of them but they typically come with a fee, they are extremely cumbersome and require client side software to be preloaded before initiating the support call.
 

@@ -63,7 +63,7 @@ Date Published: 9/6/2016
   
 Date Published: 9/6/2016
 
-<!--more-->
+
 
 **VMware Mirage**
   

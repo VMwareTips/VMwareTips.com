@@ -33,7 +33,7 @@ Tina from VMware Certification contacted me today to schedule my VCDX Enterprise
 
 As you all know, the VCDX Certification is a three step process, first off your required to be a VCP in 3.x+ then you need to take the qualification questionnaire which is reviewed by the VMware Certification department. Upon approval they will contact you to schedule the first step;
 
-<!--more-->
+
 
 **Step 1**
   

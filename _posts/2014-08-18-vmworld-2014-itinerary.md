@@ -42,7 +42,7 @@ I look forward to seeing all of my vHomies out in San Francisco, for those atten
 
 BTW, the parties/events listed below are just a small fraction of what&#8217;s going on.  These events are where you&#8217;ll most likely see me, but be sure to check out the full list here <a href="http://bit.ly/vmworld2014parties" target="_blank">http://bit.ly/vmworld2014parties</a>
 
-Safe travels, see you all next week!<!--more-->
+Safe travels, see you all next week!
 
 ![](http://vmwaretips.com/wp/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")
 

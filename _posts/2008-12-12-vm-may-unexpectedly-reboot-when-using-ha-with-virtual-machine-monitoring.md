@@ -29,7 +29,7 @@ tags:
 ---
 As mentioned on <a href="http://blog.scottlowe.org/2008/12/12/vmware-ha-problem-with-update-3/" target="_blank">Scott Lowe</a> and <a href="http://www.yellow-bricks.com/2008/12/12/vms-may-unexpectedly-reboot-when-using-vmware-ha-with-virtual-machine-monitoring/" target="_blank">Duncan Epping&#8217;s</a> sites, an issue has been uncovered with VMware ESX 3.5 Update 3 in regards to Virtual Machines rebooting when using VMware HA with Virtual Machine Monitoring enabled.
 
-<!--more-->
+
 
 **To stay up to date on this VMware KB, please visit their website; <a href="http://kb.vmware.com/selfservice/microsites/search.do?cmd=displayKC&docType=kc&externalId=1007899&sliceId=1&docTypeID=DT_KB_1_1&dialogID=9798685&stateId=1%200%209806084" target="_blank">VMware KB 1007899</a>**
 

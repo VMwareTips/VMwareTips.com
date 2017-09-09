@@ -62,7 +62,7 @@ tags:
   </div>
 </div>
 
-<!--more-->
+
 
 <div class="paragraphText parbase section">
   <div class="section-custom ">

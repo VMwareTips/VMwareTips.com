@@ -32,7 +32,7 @@ This morning I wake up to find an e-mail from the VMware Certification departmen
 
 It looks like the General Release exam will become available in August, based on the information provided in the e-mail from VMware;
 
-<!--more-->
+
 
 <p style="PADDING-LEFT: 30px">
   <em>Dear Rick,</em>

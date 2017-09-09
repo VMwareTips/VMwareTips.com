@@ -37,7 +37,7 @@ Their product does look very promising, the concept is simple, you place their s
 
 Rich over at VM /ETC did a <a href="http://vmetc.com/2009/03/20/vmware-infrastructure-administration-via-phone-possible-rove-mobile-admin/" target="_blank">very nice write up</a>, including some screen-shots of what the VI interface looks like on a Windows Mobile Device.
 
-<!--more-->
+
 
 **Extend your IT Reach with Mobile Admin**
 

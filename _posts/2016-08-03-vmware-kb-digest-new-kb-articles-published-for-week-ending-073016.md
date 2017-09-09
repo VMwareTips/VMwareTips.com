@@ -81,7 +81,7 @@ Date Published: 7/26/2016
   
 Date Published: 7/25/2016
 
-<!--more-->
+
 
 **VMware vCenter Server** 
   

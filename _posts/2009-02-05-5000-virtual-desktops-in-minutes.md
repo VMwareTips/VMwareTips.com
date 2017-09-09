@@ -41,4 +41,3 @@ Most people have never heard about NetApp&#8217;s Rapid Cloning Utility (RCU) fo
 
 In this video below, NetApp demonstrates the cost savings of their zero disk cost provisioning and data deduplication software. 5000 Virtual Desktops provisioned in minutes, while only taking a little over 10GB storage.
 
-<!--more-->

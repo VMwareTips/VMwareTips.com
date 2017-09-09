@@ -43,7 +43,7 @@ Date Published: 11/30/2016
   
 Date Published: 11/29/2016
 
-<!--more-->
+
 
 **VMware Horizon 7 version** 
   

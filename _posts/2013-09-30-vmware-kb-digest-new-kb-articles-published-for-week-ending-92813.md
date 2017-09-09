@@ -27,7 +27,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following list of new KB Entries for this week, direct from VMware Support.
 
-<!--more-->
+
 
 [Silver Peak Software WAN Optimization solution in VMware software defined data center (2060271)](http://kb.vmware.com/kb/2060271)
   

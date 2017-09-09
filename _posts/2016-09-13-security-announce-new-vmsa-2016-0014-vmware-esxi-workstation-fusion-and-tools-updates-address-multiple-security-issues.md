@@ -32,7 +32,7 @@ tags:
 
 [<img class="alignnone wp-image-3215" src="http://vmwaretips.com/wp/wp-content/uploads/2016/09/vmsa-2016-0014-1.jpg" alt="vmsa-2016-0014-1" width="450" height="368" srcset="http://vmwaretips.com/wp/wp-content/uploads/2016/09/vmsa-2016-0014-1.jpg 738w, http://vmwaretips.com/wp/wp-content/uploads/2016/09/vmsa-2016-0014-1-300x246.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" />](http://vmwaretips.com/wp/wp-content/uploads/2016/09/vmsa-2016-0014-1.jpg)
 
-<!--more-->
+
 
 <div class="paragraphText parbase section">
   <div class="section-custom ">

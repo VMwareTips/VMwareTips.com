@@ -53,7 +53,7 @@ Date Published: 11/1/2016
   
 [ESXi metadata locking operations may fail with file level lock with the error : “Device or resource busy [type 10c00001] ” (2147529)](http://bit.ly/2g2vQN1)
   
-Date Published: 11/2/2016<!--more-->
+Date Published: 11/2/2016
 
 **VMware Horizon** 
   

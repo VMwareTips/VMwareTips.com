@@ -26,7 +26,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following Special Alert direct from VMware Support Insider.
 
-<!--more-->
+
 
 VMware has become aware of an issue caused by expired passwords in the virtual machines that make up the Horizon Workspace vApp. The issue affects VMware Horizon Workspace 1.5.0 (Build Number 1220937)
 

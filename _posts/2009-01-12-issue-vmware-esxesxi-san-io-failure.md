@@ -38,7 +38,7 @@ tags:
 ---
 In the twitter queue today I heard a new VMware KB has been released in regards to a potential SAN failure (FibreChannel and iSCSI).  More information and the most recent updates can be found on the <a href="http://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1008130" target="_blank">VMware KB.</a>  I&#8217;ve included a breakdown of the issue and resolution, which can be found below.
 
-<!--more-->
+
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>

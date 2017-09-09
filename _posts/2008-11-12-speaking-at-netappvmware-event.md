@@ -29,7 +29,7 @@ I&#8217;ll be giving a customer example presentation at the San Diego Go Green e
 
 You can signup at this website; <a href="http://communications.netapp.com/p/Network_Appliance/AMERICAS_20081002_Green_Roadshow?%20REF_SOURCE=web" target="_blank">NetApp Go Green Event</a>
 
-<!--more-->
+
 
 After events end I will plan on publishing my presentation on here.  Please check all of my other conference notices because I will be uploading those presentations shortly.
 

@@ -63,7 +63,7 @@ Date Published: 7/5/2016
   
 Date Published: 7/7/2016
 
-<!--more-->
+
 
 **VMware vCenter Chargeback Manager for Service Provider **
   

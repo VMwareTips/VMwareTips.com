@@ -31,7 +31,7 @@ tags:
 ---
 <span style="color: #000000;">VMware has released the latest update to its ESX(i) 3.5 flagship product, <em>Update 4</em>.  It is strongly recommended that you upgrade to <a href="http://vmwaretips.com/wp/2009/02/27/vmware-vcenter-25-u4-released/">VMware vCenter 2.5 Update 4</a> prior to upgrading your ESX hosts.  Updates such as this one typically include a number of system improvements and also all of the patches available in-between it and the previous update available. </span><span style="color: #000000;">Numerous driver additions and updates have been added to this update roll-up, including;</span>
 
-<!--more-->
+
 
   * **<span style="color: #000000;">Expanded Support for Enhanced vmxnet Adapter</span>**
   * **<span style="color: #000000;">Enablement of Intel Xeon Processor 5500 Series</span>**

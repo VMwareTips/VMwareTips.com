@@ -31,7 +31,7 @@ tags:
 ---
 I&#8217;ve ran into some issues today trying to change the IP address of my NFS Datastore. Our filer has a nice 10GbE interface that I&#8217;m not using, so my thought was to put my hosts into Maintenance Mode one at a time, remove the old datastore and connect the new one&#8230;which is essentially the same exact mount but going over a different interface. Boy was I wrong&#8230;
 
-<!--more-->
+
 
 VMotion uses the datastore location path, not the datastore name to do it&#8217;s migrations. Basically VC thought this was a completly new datastore, even appended (1) after it. I verified this by looking at the datastores inventory and noticed they listed both, even showed that they were different paths;
 

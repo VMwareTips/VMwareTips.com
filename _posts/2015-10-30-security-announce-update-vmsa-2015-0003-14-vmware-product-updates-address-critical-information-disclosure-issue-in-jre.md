@@ -100,7 +100,7 @@ tags:
             </div>
             
             <div>
-              <!--more-->
+              
               
               <br /> <strong>1. Summary</strong>
             </div>

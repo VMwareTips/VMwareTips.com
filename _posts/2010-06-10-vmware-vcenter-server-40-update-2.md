@@ -45,7 +45,7 @@ VMware has just dropped the second major update bundle (Update 2) for their flag
 
 Here are some of the key issues that are resolved in this update;
 
-<!--more-->
+
 
 > **Storage vMotion fails even if the destination datastore has sufficient disk space
   

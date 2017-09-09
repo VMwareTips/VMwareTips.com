@@ -35,7 +35,7 @@ Most of you know that I was the featured guest on a Live TechTalk last week, Net
 
 If you have any additional questions in regards to the TechTalk event, please feel free to submit a comment to this post &#8211; or email me at rick (at) vmwaretips (dot) com.
 
-<!--more-->
+
 
 **Q: Did San Diego Data Processing Corporation (SDDPC) go with 64-bit OS and SQL Server® or 32-bit, and why?
   

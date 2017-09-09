@@ -61,7 +61,7 @@ Date Published: 7/21/2016
   
 Date Published: 7/21/2016
 
-<!--more-->
+
 
 **VMware Horizon DaaS**
   

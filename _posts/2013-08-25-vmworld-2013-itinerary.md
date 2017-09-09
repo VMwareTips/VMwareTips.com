@@ -41,7 +41,7 @@ The networking opportunities have to be the best piece of VMworld, never will yo
 
 So here is my schedule, full of great sessions, fun networking opportunities, awesome parties and completely slammed from morning to evening&#8230;.boy I love VMworld! At the bottom of the page I&#8217;m going to include some &#8220;Interested&#8221; sessions and Vendors, these are sessions that I wasn&#8217;t able to schedule due to conflict but that I&#8217;d still very much like to watch perhaps on-demand after the conference.
 
-<!--more-->
+
 
 ![](http://vmwaretips.com/wp/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")
 

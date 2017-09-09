@@ -33,7 +33,7 @@ tags:
 ---
 I guess I posted a little too soon about Rove&#8217;s Mobile Admin release that has full support for VMware vCenter.   VMware has just announced VMware vCenter Mobile Access (vCMA) which is due to be released BETA in April, this is a Virtual Appliance that links your mobile device/smart phone to your vCenter Server. More information can be found on the <a href="http://communities.vmware.com/community/beta/vcmobileaccess" target="_blank">Technology Preview Site</a>.
 
-<!--more-->Here is the brief write-up found on the VMTN blog site;
+Here is the brief write-up found on the VMTN blog site;
 
 **Introducing VMware vCenter Mobile Access**
 

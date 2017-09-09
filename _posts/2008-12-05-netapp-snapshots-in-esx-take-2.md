@@ -33,7 +33,7 @@ tags:
 ---
 Alright, well I finally set aside some time to sit and think about my [script that runs my snapshots](http://vmwaretips.com/wp/2008/09/12/netapp-snapshots-in-esx/) (VMware Snapshots then NetApp Snapshots then remove VMware Snapshot).   The problem with my current script is that if you have multiple VMware Snapshots they all get removed&#8230; which IMO maybe isn&#8217;t a bad thing (since your not suppose to keep snapshots for that long), but I can see in some environments it may not be a good thing.
 
-<!--more-->
+
 
 So, thanks to a comment posted by Hajo Ehlers (no website or email address left), he made me think about using the VCB utilities built into ESX to remove a specific snapshot.  What is nice about the VCB utility is that you can get a SsId (Snapshot ID) for each snapshot created on the VM.  So after grabbing this SsId you can remove your snapshot with that ID (rather than removing all of them).
 

@@ -45,7 +45,7 @@ Date Published: 10/4/2016
   
 Date Published: 10/7/2016
 
-<!--more-->
+
 
 **VMware Integrated OpenStack **
   

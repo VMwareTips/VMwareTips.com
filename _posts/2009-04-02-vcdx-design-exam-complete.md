@@ -31,7 +31,7 @@ tags:
 ---
 I started the VCDX Design Exam at 2pm (GMT-8 04/02/09), and finished it right before 6pm. It took me the entire 4 hours to complete the exam, luckily I was able to complete all 134 questions within the allowed time. I&#8217;ve heard from some people that have taken it that they weren&#8217;t able to finish all the questions. I must admit though, when I noticed there was about 20 minutes left I rushed through the remaining questions and did not thoroughly think about my answers as well as I did previously.
 
-<!--more-->
+
 
 From what I can tell you (which I cannot say much due to the release you agree to at the beginning of the exam), there are 134 questions and the majority of them are those lovely multiple choice ones. There is one _Visio_ style design question were you need to build a sample environment based on _the customers criteria_, then there is a handful (5-10) questions were you do some word association style answers.  For example, they give you a listing of RAID levels and you need to choose the description that describes them best.
 

@@ -29,7 +29,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following list of new KB Entries for this week, direct from VMware Support.
 
-<!--more-->
+
 
 [Radware vDirect Plug-in for VMware vCloud Networking and Security (vCNS) (2061333)](http://kb.vmware.com/kb/2061333)
   

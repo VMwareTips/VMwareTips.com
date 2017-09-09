@@ -32,7 +32,7 @@ tags:
 ---
 Today I got into a heated discussion with a &#8220;_Virtualization Expert_&#8221; at Gartner today about the risks associated with virtualizing your DMZ, primarily into the same environment as your non-DMZ servers.
 
-<!--more-->As you can see in my diagram below, this is my plan;  Create a completely isolated vSwitch with dedicated NICs for my DMZ portgroup, which is separated from the vSwitch that contains my Service Console, VMKernel and other Virtual Machine portgroup.
+As you can see in my diagram below, this is my plan;  Create a completely isolated vSwitch with dedicated NICs for my DMZ portgroup, which is separated from the vSwitch that contains my Service Console, VMKernel and other Virtual Machine portgroup.
 
 [singlepic id="46" w="320" h="240" mode="watermark" float="center" ]
 

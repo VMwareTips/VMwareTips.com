@@ -28,7 +28,7 @@ tags:
 ---
 Just like everyone else, Sun has joined the Virtualization marketplace. A couple weeks back I reviewed Sun VirtualBox which takes a stab at VMware Server with somewhat of a success (simply because its fast and runs on virtually any operating system (Mac included)). This round I will discuss their bare-metal stage 1 hypervisor, xVM Server.
 
-<!--more-->
+
 
 At first I was a little excited about this product, the fact that it is based on the Sun Solaris operating system was definietly an eye opener.  But, once I dug deeper I was almost immediately disappointed in the short comings of this product.  Keep in mind, this product is still in Beta, but from what I hear even at its 1.0 GA release it will not be able to touch any of its competitors.
 

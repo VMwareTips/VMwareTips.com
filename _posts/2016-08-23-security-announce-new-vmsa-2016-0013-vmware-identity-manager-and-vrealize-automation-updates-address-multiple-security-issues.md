@@ -72,7 +72,7 @@ tags:
           </p>
           
           <p>
-            <!--more-->
+            
           </p>
         </div>
       </div>

@@ -37,7 +37,7 @@ tags:
 
 Many of you NetApp/ESX users should know by now that SnapManager for VI has been released. Many of you should also know that NetApp&#8217;s costs of licensing such tools can be fairly pricey. For those of us that can&#8217;t afford or justify the purchase of SMVI, I give to you a very handy script that I wrote&#8230;.
 
-<!--more-->
+
 
 This script will first create quiesced VMware ESX Snapshots, then connect to your NetApp FAS and kick off a snapshot creation.
 

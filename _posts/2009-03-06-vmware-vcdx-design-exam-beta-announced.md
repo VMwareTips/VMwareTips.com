@@ -33,7 +33,7 @@ tags:
 ---
 Just received an e-mail from the VCDX Certification team that the Design Exam (beta) is available for me until April 10th. As part of the beta I would be entitled to a 50% discount ($200) and I would need to send my comments and suggestions to the team after taking the exam.  I&#8217;m going to schedule it now, maybe for the week of March 23rd.  I&#8217;ll need a couple weeks to study, especially when I&#8217;m trying to edit a book, do a day job and all the other fun things life brings me.
 
-<!--more-->
+
 
 Included below is the e-mail I received from the VCDX team, some sensitive information has been removed.
 

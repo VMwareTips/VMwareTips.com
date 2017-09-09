@@ -33,7 +33,7 @@ tags:
 ---
 I recently ran into a situation with a customer where they needed to add another host to their cluster.  Problem is, their original hosts had single core AMD Opteron processors (Opteron 285) and the host they wanted to purchase came with either a Dual-Core or Quad-Core Opteron.  The customer was scared about the VMotion Compatibility between their older AMD hosts and the newer hosts they would be purchasing&#8230;.so much that they wanted me to find them an old single-core system. I know EVC is nothing new, I&#8217;ve been enabling it when needed for almost 8 months now.  You may run into a situation where your customer (or boss) is a little hesitant in enabling this advanced feature. But rest assured, VMware has <a href="http://kb.vmware.com/kb/1003212" target="_blank">KB 1003212</a> to answer all your questions.
 
-<!--more-->
+
 
 Well, with a little bit of convincing and by showing the customer <a href="http://kb.vmware.com/kb/1003212" target="_blank">VMware KB Article 1003212</a> I was able to enable Enhanced VMotion Compatibility (EVC) on their vCenter cluster.
 

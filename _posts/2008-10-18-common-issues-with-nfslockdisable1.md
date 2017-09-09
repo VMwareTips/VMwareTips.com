@@ -38,7 +38,7 @@ tags:
 ---
 <span style="color: #888888;">After seeing a mention on Scott Lowe&#8217;s blog (<a href="http://blog.scottlowe.org/2008/10/18/important-note-regarding-vmware-over-nfs/" target="_blank">blog.scottlowe.org</a>) and on Storage Monkeys Blog (<a href="http://blogs.storagemonkeys.com/index.php/2008/10/important-note-regarding-vmware-over-nfs/" target="_blank">blogs.storagemonkeys.com</a>) I&#8217;ve decided to discuss the issue(s) that I&#8217;ve came across in regards to disabling NFS Locking with the NFS.LockDisable=1 function.</span>
 
-<!--more-->
+
 
 <span style="color: #888888;">As the problem can arise from many different circumstances, the majority of feedback I&#8217;m receiving appears to be caused by a VMware HA failover (either intentional or unintentional). Thus, I would like to discuss VMware HA and how it works (based on my experience and knowledge).<br /> </span>
 

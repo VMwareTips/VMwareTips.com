@@ -32,7 +32,7 @@ tags:
 ---
 In the VM blogging world today there was some discussion on which RAID level to use with your virtual environment (<a href="http://professionalvmware.com/2008/12/19/what-raid-level-do-you-use-for-your-vmfs/" target="_blank">Professional VMware Blog</a> & <a href="http://rogerlunditblog.blogspot.com/2008/12/what-raid-level-do-you-use-for-your.html" target="_blank">Roger Lund&#8217;s IT Blog</a>). This is not an exact science, it really depends on what your doing and what your budget is &#8211; and what your storage array supports. If your as fortunate as I am and have a NetApp, you get to use their patented RAID-DP which is their flavor of RAID 6 (ADG) offering double parity &#8211; meaning you can sustain a dual disk failure per RAID group and see no performance degradation when repairing the RAID group.
 
-<!--more-->
+
 
 If you have the money and room in your array, you can always implement RAID 10. This works as a mixture of RAID 1 and RAID 0, with a minimum of (4) disks you stripe the data over 50% of them then mirror it to the remaining 50%. Although a RAID 10 can sustain a dual disk failure, there is a catch; If both of the failures happen to disks containing the matching block &#8211; your data is gone. And you really need quite a few disks to lower your risk, for example with (4) disks in a RAID 10 your risk is 50%, (6) disks is 33% and so on. You really need a ton of disks to make this a safe option.
 

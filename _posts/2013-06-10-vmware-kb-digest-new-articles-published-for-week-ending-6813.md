@@ -27,7 +27,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following list of new KB Entries for this week, direct from VMware Support.
 
-<strong style="font-size: 13px; line-height: 19px;"><!--more-->My VMware</strong>
+<strong style="font-size: 13px; line-height: 19px;">My VMware</strong>
 
 <a href="http://kb.vmware.com/kb/2052829" target="_blank">VMware vSphere Operations Management and VMware vCloud Suite Licensing (2052829)</a>
   

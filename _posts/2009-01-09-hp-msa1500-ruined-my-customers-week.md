@@ -35,7 +35,7 @@ tags:
 ---
 A customer of mine with a small ESX deployment ran into some major grief this week with their MSA1500.  Unfortunately for them, it took 3 days for them to pick up the phone and get hold of me. This isn&#8217;t the first time I&#8217;ve ran into a problem caused by an MSA1500, and it will not be the last.  Symptoms start out minimal, VMs appear to be running slow&#8230;systems unresponsive&#8230;then BOOM all out catastrophic failure!
 
-<!--more-->
+
 
 The problem is that the controller built into the MSA1500, it just was not made to support any throughput.  The sweet spot for these devices is 2 ESX hosts and a handful of Virtual Machines (0-15), anything more than that and you&#8217;ll be asking for trouble.
 

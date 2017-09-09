@@ -29,7 +29,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following list of new KB Entries for this week, direct from VMware Support.
 
-<!--more-->
+
 
 [Renewing support contracts on VMware Online Store using Purchase Order (PO) as payment method (2145572)](http://vmw.re/1TR5hFD)
   

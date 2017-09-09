@@ -27,7 +27,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following list of new KB Entries for this week, direct from VMware Support.
 
-<strong style="font-size: 13px; line-height: 19px;"><!--more-->VMware ESX</strong>
+<strong style="font-size: 13px; line-height: 19px;">VMware ESX</strong>
 
 [After upgrading to vCenter Server 5.0 Update 2 or 5.1, the Hardware Status tab reports: No alerts or warnings out of 0 sensors (2041590)](http://kb.vmware.com/kb/2041590)
   

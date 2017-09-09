@@ -27,7 +27,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following list of new KB Entries for this week, direct from VMware Support.
 
-<strong style="font-size: 13px; line-height: 19px;"><!--more-->VMware ESXi</strong>
+<strong style="font-size: 13px; line-height: 19px;">VMware ESXi</strong>
 
 [Linux virtual machine’s boot is slow and displays the warning: RecordRoutingInfo: Unable to collect IPv4 routing table (2048572)](http://kb.vmware.com/kb/2048572)
   

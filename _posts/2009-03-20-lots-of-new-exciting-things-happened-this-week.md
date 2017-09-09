@@ -35,7 +35,7 @@ tags:
 ---
 Hey people, sorry the site hasn&#8217;t been as active as it has in the past, I wanted to at least provide you with a weekly update.  As most of you know, I&#8217;m the Technical Editor for Scott Lowe&#8217;s upcoming book, this has taken up a good majority of my free time. Also things are crazy busy in local government right now, I&#8217;ve been working 50-60 hour weeks.  This hasn&#8217;t left me with much free time to do anything.  I haven&#8217;t signed on to Twitter in a couple days, I missed this weeks VMTN Roundtable&#8230; I feel so out of the loop!
 
-<!--more-->
+
 
 So, first off was the product review and demo I was suppose to do of Rove Mobile Admin, more information on this can be found [here](http://vmwaretips.com/wp/2009/03/20/rove-mobile-admin-42-vmware-vcenter-support-added/).
 

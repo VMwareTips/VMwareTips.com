@@ -30,7 +30,7 @@ tags:
 ---
 This morning when I came into work my twitter box was flooded and there was a lot of heat distributed across the virtualization blogging world.  This all started when <a href="http://fawzi.wordpress.com/2008/12/14/hyper-v-vs-vmware/" target="_blank">this post</a> was published on the Zero&#8217;s & One&#8217;s blog site.  Almost immediately <a href="http://blog.scottlowe.org/2008/12/15/youve-got-to-be-kidding-me/" target="_blank">Scott Lowe</a> and <a href="http://www.boche.net/blog/?p=690" target="_blank">Jason Boche</a> posted their rebuttals, along with dozens of other comments on the initial posting and even more spread across Twitter&#8230; Now I would like to chime in.
 
-<!--more-->
+
 
 Ok, so if you haven&#8217;t read the posting by now, it basically is comparing Microsoft Hyper-V to VMware ESX &#8211; the huge problem with this is that it is a completely unbalanced review mainly because the author is comparing Microsoft Hyper-V with the Enterprise Edition of VMware ESX &#8212; which IMO are in two completely different product offerings.
 

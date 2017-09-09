@@ -33,7 +33,7 @@ tags:
 ---
 Well, if you haven&#8217;t already figured out I&#8217;m big on shell scripts and Unix/Linux in general, so when my company informed me that they needed to bring down one of our NetApp FAS clusters for system maintenance, the wheels in my head started turning.  I&#8217;m sorry this isn&#8217;t in our beloved Powershell scripting language, but I&#8217;m old school and needed to write a shell based script to gracefully shutdown all my virtual machines.
 
-<!--more-->
+
 
 I know there are other ways to do this, but I really don&#8217;t want to wake up at 3AM on Sunday to do it.  So below is my shell script, which I&#8217;ve scheduled in cron on one of my ESX 3.5 hosts.
 

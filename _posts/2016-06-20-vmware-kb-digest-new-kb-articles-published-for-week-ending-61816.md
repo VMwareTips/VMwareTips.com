@@ -67,7 +67,7 @@ tags:
   
 ](http://vmw.re/28J3tNe) Date Published: 6/16/2016
 
-<!--more-->
+
 
 **VMware Horizon**
   

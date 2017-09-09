@@ -31,7 +31,7 @@ tags:
 ---
 Earlier today <a href="http://www.ivobeerens.nl/?p=255" target="_blank">Virtual IEF</a> posted a blog about not being able to access an ESX host, not by ssh, not by VIC and not even through vCenter.  Evidently this is caused by the hardware monitoring agents (HP, Dell, etc) auto-detecting the management server and failing authentication.  This causes cimservera to be spawned hundreds if not thousands of times thus causing so much CPU and Network traffic locally that it cannot respond within the thresholds for SSH, or VPX agents.
 
-<!--more-->
+
 
 <div>
   Cimservera is an authentication daemon and a defect was discovered that leaves the defunct process on failed login. This issue is <strong>not</strong> specific to certain management agents. This was observed to happen on idling VMware ESX hosts with hardware management agents installed and discovered by their corresponding management application. High number of the defunct processes could result in various symptoms resulting from the VMware ESX Service Console failing to spawn new processes.

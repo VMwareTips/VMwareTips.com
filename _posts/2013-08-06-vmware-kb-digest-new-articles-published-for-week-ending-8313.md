@@ -27,7 +27,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following list of new KB Entries for this week, direct from VMware Support.
 
-<strong style="font-size: 13px; line-height: 19px;"><!--more-->VMware ESX</strong>
+<strong style="font-size: 13px; line-height: 19px;">VMware ESX</strong>
 
 [The vmkernel log reports SITPUA error messages (2045271)](http://kb.vmware.com/kb/2045271)
   

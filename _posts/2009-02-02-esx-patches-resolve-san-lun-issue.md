@@ -30,7 +30,7 @@ tags:
 ---
 In a previous <a href="http://vmwaretips.com/wp/2009/01/12/issue-vmware-esxesxi-san-io-failure/" target="_blank">article</a> I discuss how an ESX host can halt if LUN metadata updates are done the same time a LUN path fails.  Thankfully VMware has released a patch for this problem, along with a few others.  I strongly suggest you to upgrade if your running VMware ESX 3.5 U3 and block level storage.
 
-<!--more-->
+
 
   * ESX350-200901401-SG &#8211; PATCH &#8211; Security &#8211; <a onclick="javascript:pageTracker._trackPageview('/outbound/article/kb.vmware.com');" href="http://kb.vmware.com/kb/1006651" target="new">KB 1006651</a> &#8211; Updates VMkernel VMX hostd. But most important fix that this patch contains definitely is: <!--Eng PR 356915, KB 1008130-->VMware ESX and ESXi 3.5 U3 I/O failure on SAN LUNs, and LUN queue is blocked indefinitely. For a full description of this issue, see 
     

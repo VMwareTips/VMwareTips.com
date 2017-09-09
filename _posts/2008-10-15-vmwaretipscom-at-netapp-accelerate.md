@@ -34,7 +34,7 @@ tags:
   
 ** Sad to hear that NetApp Accelerate has been canceled.  You can definitely tell our economy isn&#8217;t doing too good when conferences like these are canceled. You can read the official NetApp statement on the cancellation on <a href="http://www.netapp.com/accelerate" target="_blank">their website</a>.
 
-<!--more-->
+
 
 I just received word that NetApp would like for me to speak at their 2009 Accelerate Conference, this will be Feb 23-26 in San Francisco, CA. I’m not sure what the topic will be, but I’m almost certain it will have to do with Virtualizing and the benefits of NetApp for your ROI. But I could be wrong, so as soon as I do hear what my topic will be I will be sure to post it.
 

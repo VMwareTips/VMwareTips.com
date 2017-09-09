@@ -34,7 +34,7 @@ tags:
 ---
 On Tuesday morning my HDD failed on my PC at the office.  Most of my important data is in a NFS volume on a FAS6030, but my PC still had some important stuff on it.  Including a Windows XP virtual machine that has all my necessary programs (Outlook, SAP, TweetDeck) and some files that I forgot to copy over to my NFS share.  Using a tool called ddrescue I was able to save most of my data, I&#8217;ll go into how it works and what I did.
 
-<!--more-->
+
 
 Well, on Tuesday morning my PC wouldn&#8217;t start after a reboot, it would pretty much freeze right after GRUB did its thing.   I booted from the Ubuntu Live CD and saw some lovely errors in the messages file:
 

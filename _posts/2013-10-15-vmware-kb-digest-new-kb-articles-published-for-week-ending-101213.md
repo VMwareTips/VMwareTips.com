@@ -29,7 +29,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following list of new KB Entries for this week, direct from VMware Support.
 
-<strong style="font-size: 13px; line-height: 19px;"><!--more-->Not Specified</strong>
+<strong style="font-size: 13px; line-height: 19px;">Not Specified</strong>
 
 [Trend Micro Deep Security 9 VMware vCloud Networking and Security, VMware vShield Endpoint Support Matrix (2061878)](http://kb.vmware.com/kb/2061878)
   

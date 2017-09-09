@@ -49,7 +49,7 @@ Date Published: 12/12/2016
   
 Date Published: 12/12/2016
 
-<!--more-->
+
 
 **VMware Horizon** 
   

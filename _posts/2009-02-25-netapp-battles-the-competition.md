@@ -32,7 +32,7 @@ tags:
 ---
 In a clever marketing video NetApp produced (in house), NTAP takes on DD and e2 in an _8 Mile_ style rap battle. This was quite entertaining, thanks for the 4 minute break from a stressful day NetApp!
 
-<!--more-->
+
 
 Special thanks to <a href="http://blogs.netapp.com/drdedupe/2009/02/2001-called-and-they-want-their-storage-back.html" target="_blank">Dr. Dedup</a> for posting the link to this video, I would&#8217;ve never seen it otherwise!
 

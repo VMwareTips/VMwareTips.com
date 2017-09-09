@@ -30,7 +30,7 @@ tags:
 
 Wow, has my schedule really filled up! It all started with VMworld 2008, now it feels like I&#8217;m speaking at a conference almost every week! I think I may need to get back into consulting!
 
-<!--more-->
+
 
 VMware&#8217;s vForum is a great one-day seminar (almost a like a mini VMworld), they have great breakout sessions and a solid general session. What&#8217;s nice is that they are doing this around the world. I will be speaking at the San Diego vForum, if your an end-user looking for more information, or a potential VMware customer I would highly recommend coming to this event. It will be extremely informative.
 

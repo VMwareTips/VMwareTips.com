@@ -31,7 +31,7 @@ tags:
 ---
 A lot of information about the upcoming 4.0 release of VMware&#8217;s Enterprise Virtualization product, vSphere, has been released at VMworld Europe 2009.  I&#8217;d like to share some of the exciting new capabilities in this upcoming release.
 
-<!--more-->
+
 
 **Virtual Machine Maximums
   

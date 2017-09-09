@@ -45,7 +45,7 @@ tags:
 ---
 Rodos posted a <a href="http://rodos.haywood.org/2008/12/year-that-was-2008-review-of-vmware.html" target="_blank">very nice blog</a> covering the big events that involved VMware in 2008.  Like he states, I do not believe this is the entire list, but I tell you what&#8230;.It has definietely been busy enough for me, I am ready for a little R&R &#8211; 2009 is sure to be even busier!
 
-<!--more-->
+
 
 <span class="Apple-style-span" style="font-weight: bold;">Jan</span>
 

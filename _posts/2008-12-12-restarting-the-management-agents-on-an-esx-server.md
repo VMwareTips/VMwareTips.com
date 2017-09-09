@@ -31,7 +31,7 @@ tags:
 ---
 It sometimes happens, you see errors about DRS not being able to apply resource settings, most likely do to an invalid fault.  Well, the quick and easy fix for this (and most other common ESX/VC related issues) is to simply restart the Management Agents on your ESX host.
 
-<!--more-->
+
 
 ### Restarting the Management agents on ESX Server 3.x
 

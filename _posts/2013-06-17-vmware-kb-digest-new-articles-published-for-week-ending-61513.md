@@ -27,7 +27,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following list of new KB Entries for this week, direct from VMware Support.
 
-**<!--more-->Socialcast On Premise v2**
+**Socialcast On Premise v2**
 
 <a href="http://kb.vmware.com/kb/2052601" target="_blank">Searching application or worker logs for actions and errors in Socialcast On Premise (2052601)</a>
   

@@ -29,6 +29,6 @@ tags:
 ---
 It has been a few days since I&#8217;ve blogged, I apologize for not devoting as much time this week as I should have. But, on a lighter note, I do plan on writing up a few product reviews this weekend.
 
-<!--more-->
+
 
 I am currently doing a POC on Vizioncore&#8217;s (Quest Software) vFoglight (formerly vCharter Pro or ESX Charter), this is a extremely robust tool and I cannot wait to tell you about it.  I&#8217;m also going to discuss Sun&#8217;s xVM Virtualbox and xVM Server, along with xVM Ops Center &#8211; three very cool pieces of software that you need to know about! Get ready for these most likely on Friday afternoon, the rest of my week will be busy so hopefully I can complete these by then.

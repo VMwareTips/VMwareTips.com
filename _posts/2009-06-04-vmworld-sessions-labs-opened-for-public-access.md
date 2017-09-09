@@ -32,7 +32,7 @@ tags:
 ---
 Tony Dunn and the rest of the VMworld.com team have opened up a number of breakout sessions and labs from VMworld Europe 2009 and VMworld 2008 for public access.  That&#8217;s right, you can now gain access to a number of sessions and labs for FREE!  Check it out right now, go log into your <a href="http://www.vmworld.com/" target="_blank">VMworld.com</a> account.
 
-<!--more-->
+
 
 <a href="http://www.vmworld.com/community/sessions/europe2009/" target="_blank">VMworld Europe 2009</a>:
   

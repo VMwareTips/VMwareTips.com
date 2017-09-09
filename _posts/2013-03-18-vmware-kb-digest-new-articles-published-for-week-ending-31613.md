@@ -27,7 +27,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following list of new KB Entries for this week, direct from VMware Support.
 
-**<!--more-->Socialcast**
+**Socialcast**
 
 <a href="http://kb.vmware.com/kb/2035370" target="_blank">Configuring Single Log-Out (SLO) for Socialcast On Premise v2 (2035370)</a>
   

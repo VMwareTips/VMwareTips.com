@@ -24,9 +24,5 @@ tags:
   - VMworld
 ---
 VMware has released a nice highlights reel from VMworld 2008. I have included it in this posting for your viewing pleasure.  To view it please click the Read More link below.  Enjoy!
-
-<!--more-->
-
-
   
 <a href="http://download3.vmware.com/vmworld/2008/vmworld2008_highlights.html" target="_blank">View Video in Larger Size</a>

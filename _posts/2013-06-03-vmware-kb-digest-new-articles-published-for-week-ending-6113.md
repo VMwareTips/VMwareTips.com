@@ -27,7 +27,7 @@ tags:
 ---
 In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following list of new KB Entries for this week, direct from VMware Support.
 
-<strong style="font-size: 13px; line-height: 19px;"><!--more-->VMware Data Recovery</strong>
+<strong style="font-size: 13px; line-height: 19px;">VMware Data Recovery</strong>
 
 <a href="http://kb.vmware.com/kb/2052476" target="_blank">vSphere Data Protection data migration tool fails with the error: Failed to attach VDR Appliance (2052476)</a>
   

@@ -53,7 +53,7 @@ Date Published: 10/18/2016
   
 Date Published: 10/21/2016
 
-<!--more-->
+
 
 **VMware Horizon** 
   

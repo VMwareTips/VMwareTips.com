@@ -32,7 +32,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  <!--more-->
+  
 </p>
 
 <div class="snapUniqueData">

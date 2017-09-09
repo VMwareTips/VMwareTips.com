@@ -26,7 +26,7 @@ tags:
 ---
 ##### [<img class="alignnone wp-image-3305" src="http://vmwaretips.com/wp/wp-content/uploads/2016/11/vmsa-2016-0022-a.jpg" alt="vmsa-2016-0022-a" width="450" height="307" srcset="http://vmwaretips.com/wp/wp-content/uploads/2016/11/vmsa-2016-0022-a.jpg 558w, http://vmwaretips.com/wp/wp-content/uploads/2016/11/vmsa-2016-0022-a-300x205.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" />](http://vmwaretips.com/wp/wp-content/uploads/2016/11/vmsa-2016-0022-a.jpg)
 
-<!--more-->
+
 
 ##### 1. Summary
 

@@ -37,7 +37,7 @@ tags:
 
 By default, ESX only supports AES encryption, OnTAP requires 3DES encryption. This means we&#8217;ll need to make a modification to the SSH configuration on ESX to have it support 3DES.  If your asking why would I want this, sometimes it comes in real handy to run OnTAP commands direct from your ESX command-line.  For example, if you want to see how much space an aggregate has left you can simply type; _ssh fas1 df -Ag aggr0_ &#8212; or if you want to grow the size of your LUN; _ssh fas1 lun resize /vol/vol#/qtree/lun# 500g &#8212;_ Anyways, the possibilities are endless.
 
-<!--more-->
+
 
 To modify the ciphers supported by ESX Server, edit the /etc/ssh/ssh_config file and change this line;
 

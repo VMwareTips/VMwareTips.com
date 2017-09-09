@@ -49,7 +49,7 @@ At first I was extremely shocked to hear this, this is pretty big news and I wou
 
 After doing some research of my own I found the following;
 
-<!--more-->
+
 
 > <p class="pSubhead2CMT" style="font-size: 9pt; font-style: normal; font-variant: normal; font-weight: bold; margin-left: 0pt; margin-right: 0pt; text-align: left; text-decoration: none; text-indent: 0pt; text-transform: none;">
 >   Expansion Module Options for Cisco UCS 6100 Series Fabric Interconnects

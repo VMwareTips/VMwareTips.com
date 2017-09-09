@@ -3,7 +3,6 @@ id: 48
 title: 'NFS Datastores and what was their BIG issue&#8230;'
 date: 2008-10-13T20:18:05+00:00
 author: Rick Scherer
-excerpt: http://vmwaretips.com/wp/?p=105
 layout: post
 guid: http://vmwaretips.com/wp/?p=48
 permalink: /2008/10/13/nfs-datastores-and-what-was-their-big-issue/
@@ -39,8 +38,6 @@ tags:
 ---
 This all started back about a year ago when I decided to move my datastores from Fibre Channel to NFS. The data was already on a NetApp FAS960c so I was enjoying thin provisioning and snapshots&#8230;but I wanted more!
 
-<!--more-->
-
 We recently installed a new FAS6030 and was excited to try A-SIS (Data deduplication), so I decided that this was the perfect time to move all of our data over to the new filer and also change architectures and make the jump to NFS. I built out the vSwitch that has our VMKernel portgroup to include a few more NICs and proceeded to follow the NetApp & VMware VI3 Storage Best Practices Guide (TR3428).
 
 Then I got to page number 9 (FYI, at the time this was version 3.1 of the document&#8230;I&#8217;ll get into why this is important later), where it proceeded to tell me to set NFS.LockDisable to 1 (0 is the default). Not really thinking anything about it I did it, which means I missed a unspoken Sys. Admin rule &#8212; always research suggested changes that could potentially affect other systems.
@@ -62,17 +59,17 @@ Until recently VMware has not had a fix for this &#8220;slow snapshot removal&#8
 **4.) Install this patch on the ESX server identified in step 2.**
 
 **5.) In the adv. configuration settings ensure that NFS file locking is enabled;
-  
+
 ** _NFS.LockDisable=0
-  
-_ 
+
+_
 
 <p style="padding-left: 30px;">
   <a class="thickbox" href="http://vmwaretips.com/wp/wp-content/gallery/screenshots/advset.png"><img class="ngg-singlepic ngg-left" src="http://vmwaretips.com/wp/wp-content/gallery/screenshots/advset.png" alt="advset.png" width="400" /></a><span class="thickbox"><em><br /> (Click on Image to Enlarge)<br /> </em></span><em>(this can also be done from the CLI with esxcfg-advcfg)</em>
 </p>
 
 **6.) Edit the following file: /etc/vmware/config file and add the line:**
-  
+
  _prefvmx.ConsolidateDeleteNFSLocks = &#8220;TRUE&#8221;_
 
 <p style="padding-left: 30px;">

@@ -38,7 +38,7 @@ I had a big problem Monday AM on one of my core SAP VM instances, that also happ
 
 This is where <a href="http://kb.vmware.com/kb/1007969" target="_blank">VMware KB 1007969</a> comes into the story&#8230;
 
-<!--more-->
+
 
 **Symptoms**
 

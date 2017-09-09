@@ -30,7 +30,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  <!--more-->
+  
 </p>
 
 <p style="text-align: left;">

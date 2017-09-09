@@ -41,7 +41,7 @@ Date Published: 9/26/2016
   
 Date Published: 9/28/2016
 
-<!--more-->
+
 
 **VMware Horizon Flex**
   

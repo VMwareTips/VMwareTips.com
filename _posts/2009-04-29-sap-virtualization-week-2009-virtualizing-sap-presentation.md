@@ -28,4 +28,3 @@ tags:
 ---
 Last week I spoke at SAP Virtualization Week 2009, I discussed The City of San Diego&#8217;s use of VMware Virtualization for their SAP NetWeaver deployment.  A lot of readers have asked for this presentation to be uploaded, for your enjoyment below is an audio recorded copy of my presentation.
 
-<!--more-->

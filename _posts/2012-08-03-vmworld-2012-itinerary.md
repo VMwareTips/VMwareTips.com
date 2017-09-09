@@ -38,7 +38,7 @@ So here is my schedule, full of great sessions, fun networking opportunities, aw
 
 If you have an event that your hosting/sponsoring and you&#8217;d like it added to my schedule, please let me know!
 
-<!--more-->
+
 
 <table width="100%" border="0" cellspacing="6" cellpadding="6">
   <tr>
