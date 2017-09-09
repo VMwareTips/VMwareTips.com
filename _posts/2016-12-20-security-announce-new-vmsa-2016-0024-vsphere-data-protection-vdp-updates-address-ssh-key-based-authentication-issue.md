@@ -25,7 +25,6 @@ tags:
   - VMware
 ---
 VMware Security Advisory
-
 Advisory ID: VMSA-2016-0024
 
 Severity:    Critical

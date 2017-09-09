@@ -25,7 +25,6 @@ tags:
   - VMware
 ---
 VMSA-2017-0002
-
 Horizon DaaS update addresses an insecure data validation issue
 VMware Security Advisory
 

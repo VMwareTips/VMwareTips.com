@@ -24,10 +24,6 @@ tags:
   - support
   - VMware
 ---
-In our effort to provide our viewers with up to the minute information on VMware related news and topics, we&#8217;re posting the following Special Alert direct from VMware Support Insider.
-
-http://bit.ly/2q8485z
-
 <p style="text-align: justify;">
   Today we are pleased to announce the beta launch of the <a href="http://bit.ly/2pDGhrI">docs.vmware.com</a> site. This portal unifies the product documentation for all products, versions, and languages into a single site so you can find the information that you are looking for more quickly. VMware products offer a wide range of business solutions from desktop virtualization to support your hybrid cloud. We’ve heard your feedback that finding the right information can be difficult. Our search was out of date, the look and feel was not modern, the content was siloed, and the docs were not available on mobile devices. To address these problems, we decided to create a new site from scratch. The design of this site is meant to enable you to better filter content, find relevant answers, and create custom views of information that you can access on any device.
 </p>

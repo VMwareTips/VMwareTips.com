@@ -25,7 +25,6 @@ tags:
   - VMware
 ---
 VMSA-2016-0024.1
-
 vSphere Data Protection (VDP) updates address SSH Key-Based authentication issue
 VMware Security Advisory
 

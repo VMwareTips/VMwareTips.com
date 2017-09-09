@@ -24,7 +24,6 @@ tags:
   - support
   - VMware
 ---
-
 VMSA-2017-0003
 VMware Workstation update addresses multiple security         issues
 VMware Security Advisory
