@@ -248,17 +248,3 @@ defaults:
       related: true
       header:
 #        image: image-banner.jpg
-
-collections:
-  - kb:
-    path: /kb/
-    output: true
-    permalink: /:collection/:name
-    values:
-        layout: single
-  - security:
-    path: /security/
-    output: true
-    permalink: /:collection/:name
-    values:
-        layout: single
