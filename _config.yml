@@ -250,9 +250,15 @@ defaults:
 #        image: image-banner.jpg
 
 collections:
-    kb:
-      output: true
-      permalink: /:collection/:path/
-    security:
-      output: true
-      permalink: /:collection/:path/
+  - kb:
+    path: /kb/
+    output: true
+    permalink: /:collection/:name
+    values:
+        layout: single
+  - security:
+    path: /security/
+    output: true
+    permalink: /:collection/:name
+    values:
+        layout: single
