@@ -216,6 +216,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+kb_archive:
+  type: liquid
+  path: /kb/
+security_archive:
+  type: liquid
+  path: /security/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
