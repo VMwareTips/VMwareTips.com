@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 permalink: /category/
 ---
 
@@ -7,7 +7,7 @@ permalink: /category/
     <h1>Filed Under <small>#{{ page.tag }}</small></h1>
 
     {% for post in site.categories[page.tag] %}
-        {% include archive-single.html %}
+        {% include post.html %}
     {% endfor %}
 
     {% include paginator.html %}
