@@ -252,3 +252,8 @@ defaults:
 collections:
   category:
     output: true
+  alert:
+    output: true
+  kb:
+    output: true
+    
