@@ -239,10 +239,6 @@ compress_html:
 defaults:
   - scope:
       path: ""
-      type: category
-    values:
-      layout: "category"
-      path: ""
     values:
       layout: single
       author_profile: true
