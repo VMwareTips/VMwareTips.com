@@ -248,12 +248,3 @@ defaults:
       related: true
       header:
 #        image: image-banner.jpg
-
-collections:
-  category:
-    output: true
-  alert:
-    output: true
-  kb:
-    output: true
-    
