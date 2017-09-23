@@ -18,6 +18,7 @@ ratings_average:
   - 5
 read_time: false		
 comments: false
+author_profile: true
 ---
 **Rick Scherer**, VCDX #21, vExpert, is a Lead Global Architect supporting the American Express and Intel accounts for Dell EMC, as well as an independent author, public speaker and founder of VMwareTips.com. Rick’s journey in Information Technology started in 1997, where he began his career providing hardware support at a Value Added Reseller of AST Computers. By mid 1998 he joined a regional internet service provider where he began supporting UNIX based systems that were critical to the companies dial-up, DSL and web-hosting services. This was the same year that he was introduced to VMware and their technology. In 2001, Rick took his knowledge and experience to The City of San Diego where over his 9 year tenure he formed and lead a Technical Architecture team, brought VMware Virtualization to life and led the march for a next generation data center and end-user computing.
 
