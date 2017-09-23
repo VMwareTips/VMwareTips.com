@@ -3,6 +3,6 @@ main:
   - title: "About"
     url: /about
   - title: "KB Articles"
-    url: /kb
+    url: /category/kb/
   - title: "Security Advisories"
-    url: /security
+    url: /category/alert/
