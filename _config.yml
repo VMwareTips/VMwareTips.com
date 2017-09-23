@@ -219,11 +219,13 @@ tag_archive:
 kb_archive:
   type: liquid
   path: /kb/
-  category: kb
+  layouts:
+    category: kb
 security_archive:
   type: liquid
   path: /security/
-  category: alert
+  layouts:
+    category: alert
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
