@@ -2,7 +2,3 @@
 main:
   - title: "About"
     url: /about
-  - title: "KB Articles"
-    url: /category/kb/
-  - title: "Security Advisories"
-    url: /category/alert/
