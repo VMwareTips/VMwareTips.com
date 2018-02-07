@@ -189,6 +189,7 @@ gems:
   - jekyll-feed
   - jemoji
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -248,3 +249,6 @@ defaults:
       related: true
       header:
 #        image: image-banner.jpg
+
+plugins:
+        - jekyll-seo-tag
