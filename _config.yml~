@@ -189,6 +189,7 @@ gems:
   - jekyll-feed
   - jemoji
   - jekyll-redirect-from
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
