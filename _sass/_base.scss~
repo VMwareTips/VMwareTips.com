@@ -313,3 +313,15 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+aside {
+	  float: left;
+	    width: 25%;
+	      padding: 1%;
+	        background-color: #5C255A;
+}
+
+.sticky {
+		  position: relative;
+		    top: 0;
+}
