@@ -17,26 +17,6 @@ related: false
      data-dcm-app-id=''>
 	<script src='https://www.googletagservices.com/dcm/dcmads.js'></script>
 	<SCRIPT charset="utf-8" type="text/javascript" src="http://ws-na.amazon-adsystem.com/widgets/q?rt=tf_mfw&ServiceVersion=20070822&MarketPlace=US&ID=V20070822/US/vmwacom-20/8001/daa240b2-0193-4fe3-9db7-dc18d9819b08"> </SCRIPT> <NOSCRIPT><A HREF="http://ws-na.amazon-adsystem.com/widgets/q?rt=tf_mfw&ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Fvmwacom-20%2F8001%2Fdaa240b2-0193-4fe3-9db7-dc18d9819b08&Operation=NoScript">Amazon.com Widgets</A></NOSCRIPT>
-	<h3>Tag Cloud</h3>
-	{% assign tags = site.tags | sort | limit:10 %}
-	{% for tag in tags %}
-	 <span class="site-tag">
-		     <a href="/tag/{{ tag | first | slugify }}/"
-			             style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
-				                 {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
-						     </a>
-					     </span>
-					     {% endfor %}
-<!-- 
-<font size="1em">Top 5 Most Viewed Posts
-<ul>
-{% for post in site.posts limit:5 %}
-<li><a href="{{ post.url }}" class="list-group-item">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
-</font>
-</ins>
--->
 </div>
 
 {% include base_path %}
@@ -48,3 +28,6 @@ related: false
 {% endfor %}
 
 {% include paginator.html %}
+
+<aside class="sticky">
+</aside>
