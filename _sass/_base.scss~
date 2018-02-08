@@ -317,7 +317,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 aside {
 	  float: right;
 	    width: 180px;
-	      padding: 30px;
+	      padding-top: 30px;
 	        background-color: #5C255A;
 }
 
