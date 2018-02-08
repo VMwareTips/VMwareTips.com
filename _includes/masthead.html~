@@ -20,7 +20,7 @@
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
             <li class="masthead__menu-item"><a href="/feed.xml" title="Atom/RSS feed"><i class="fa fa-fw fa-rss" aria-hidden="true"></i> Feed</a></li>
-	    <li class="masthead__menu-item">
+	    <li>
 	    <script>
   (function() {
        var cx = '009514856439835091937:fmoqsyxw8mw';
