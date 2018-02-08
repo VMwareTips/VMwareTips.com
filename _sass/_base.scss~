@@ -323,5 +323,5 @@ aside {
 
 .sticky {
 		  position: relative;
-		    top: 30;
+		    top: 30px;
 }
