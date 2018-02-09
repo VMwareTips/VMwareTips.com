@@ -314,6 +314,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
+@media (mid-width:700px) {
 aside {
 	float: right;
 	width: 180px;
@@ -323,4 +324,5 @@ aside {
 .sticky {
 	position: relative;
 	top: 0;
+}
 }
