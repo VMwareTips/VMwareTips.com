@@ -316,13 +316,14 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 
 @media screen and (max-width: 600px) {
 aside {
-	  float: right;
-	    width: 180px;
-	      padding-top: 40px;
+	float: right;
+	width: 180px;
+	padding-top: 40px;
+	visibility: hidden;
 }
 
 .sticky {
-		  position: relative;
-		    top: 0;
+	position: relative;
+	top: 0;
 }
 }
