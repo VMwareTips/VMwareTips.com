@@ -314,13 +314,16 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
-@media screen and (max-width:600px) {
-#aside .sticky {
+@media screen and (max-width:500px) {
+aside {
+	display: none;
+}
+.sticky {
 	display: none;
 }
 }
-@media screen and (min-width:601px) {
-#aside {
+@media screen and (min-width:501px) {
+aside {
 	float: right;
 	width: 180px;
 	padding-top: 40px;
