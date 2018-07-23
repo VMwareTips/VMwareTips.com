@@ -29,9 +29,9 @@ tags:
 ---
 <a rel="attachment wp-att-983" href="http://vmwaretips.com/wp/wp-content/uploads/2009/08/vmwswag.jpg"><img class="alignright size-medium wp-image-983" style="margin: 3px; border: black 1px solid;" title="VMworld Swag" src="http://vmwaretips.com/wp/wp-content/uploads/2009/08/vmwswag-300x225.jpg" alt="" width="250" srcset="http://vmwaretips.com/wp/wp-content/uploads/2009/08/vmwswag-300x225.jpg 300w, http://vmwaretips.com/wp/wp-content/uploads/2009/08/vmwswag.jpg 512w" sizes="(max-width: 300px) 100vw, 300px" /></a>VMworld is about to get under way!  This is probably one of the busiest weeks of my year, and the preparation typically takes 1-2 weeks in itself!
 
-I just wanted to share with you my schedule for next week, in the event you might be interested in meeting up with me and possibly getting your hands on some **_FREE_** VMwareTips.com swag! _(see right)_.  I&#8217;ve got VMwareTips.com buttons, stickers and polo shirts (Special Thanks to <a href="http://www.vkernel.com/CapacityAnalyzerDownload/?SRC=VMTIPSCA" target="_blank">VKernel</a>).
+I just wanted to share with you my schedule for next week, in the event you might be interested in meeting up with me and possibly getting your hands on some **_FREE_** VMwareTips.com swag! _(see right)_.  I&#8217;ve got VMwareTips.com buttons, stickers and polo shirts (Special Thanks to <a href="https://www.quest.com/" target="_blank">VKernel</a>).
 
-For the open times in my schedule, I&#8217;ll most likely be browsing the VMworld Solutions Exchange, probably at the <a href="http://communities.netapp.com/community/events/vmworld" target="_blank">NetApp</a> (Booth 2102) and <a href="http://www.vkernel.com/CapacityAnalyzerDownload/?SRC=VMTIPSCA" target="_blank">VKernel</a> (Booth 1832) booths. So be sure to come find me and show your support for VMwareTips but wearing a button or sticking a VMnut sticker on your laptop!
+For the open times in my schedule, I&#8217;ll most likely be browsing the VMworld Solutions Exchange, probably at the <a href="http://communities.netapp.com/community/events/vmworld" target="_blank">NetApp</a> (Booth 2102) and <a href="https://www.quest.com/" target="_blank">VKernel</a> (Booth 1832) booths. So be sure to come find me and show your support for VMwareTips but wearing a button or sticking a VMnut sticker on your laptop!
 
 **Sunday, Aug 30th**
   
