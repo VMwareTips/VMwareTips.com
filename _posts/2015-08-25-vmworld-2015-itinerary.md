@@ -4,7 +4,7 @@ title: VMworld 2015 Itinerary
 date: 2015-08-25T10:58:23+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=2768
+guid: https://www.vmwaretips.com/wp/?p=2768
 permalink: /2015/08/25/vmworld-2015-itinerary/
 redirect_from: /wp/2015/08/25/vmworld-2015-itinerary/
 ratings_users:
@@ -44,9 +44,9 @@ Also, don&#8217;t be shy&#8230; the virtualization community doesn&#8217;t bite 
 
 BTW, the parties/events listed below are just a small fraction of what&#8217;s going on.  These events are where you&#8217;ll most likely see me, but be sure to check out the full list here <a href="http://www.vmworld.com/en/gatherings.html" target="_blank">http://www.vmworld.com/en/gatherings.html</a>
 
-Safe travels, see you all next week!![](http://vmwaretips.com/wp/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")
+Safe travels, see you all next week!![](https://www.vmwaretips.com/wp/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")
 
-![](http://vmwaretips.com/wp/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")
+![](https://www.vmwaretips.com/wp/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")
 
 <table width="100%" border="0" cellspacing="6" cellpadding="6">
   <tr>

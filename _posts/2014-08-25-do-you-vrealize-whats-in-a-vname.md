@@ -4,7 +4,7 @@ title: 'Do You vRealize What&#8217;s in a vName?'
 date: 2014-08-25T06:51:19+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=2474
+guid: https://www.vmwaretips.com/wp/?p=2474
 permalink: /2014/08/25/do-you-vrealize-whats-in-a-vname/
 redirect_from: /wp/2014/08/25/do-you-vrealize-whats-in-a-vname/
 ratings_users:

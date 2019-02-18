@@ -4,7 +4,7 @@ title: VMware ESXi 4 and HP Servers
 date: 2009-10-27T13:21:12+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1063
+guid: https://www.vmwaretips.com/wp/?p=1063
 permalink: /2009/10/27/vmware-esxi-4-and-hp-servers/
 redirect_from: /wp/2009/10/27/vmware-esxi-4-and-hp-servers/
 aktt_notify_twitter:

@@ -4,7 +4,7 @@ title: VCDX Design Exam just a few weeks away
 date: 2009-02-05T13:58:42+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=545
+guid: https://www.vmwaretips.com/wp/?p=545
 permalink: /2009/02/05/vcdx-design-exam-just-a-few-weeks-away/
 redirect_from: /wp/2009/02/05/vcdx-design-exam-just-a-few-weeks-away/
 aktt_notify_twitter:
@@ -26,7 +26,7 @@ tags:
   - exam
   - vcdx
 ---
-Duncan over at <a href="http://www.yellow-bricks.com/2009/02/05/vcdx-design-exam-available-end-february/" target="_blank">Yellow-Bricks</a> came across a response on the <a href="http://communities.vmware.com/thread/171918?tstart=0&start=30" target="_blank">VMTN forums</a> from Jon Hall, Technical Certification Developer at VMware, in regards to the VCDX Design Exam (step 3 of 4). Looks like the third portion of the highly anticipated VCDX Certification will be available around the end of February.  Hopefully when I get the results on the <a href="http://vmwaretips.com/wp/2009/02/04/vcdx-enterprise-administration-exam-complete/" target="_blank">Enterprise Exam</a> Tina will let me schedule this next portion.
+Duncan over at <a href="http://www.yellow-bricks.com/2009/02/05/vcdx-design-exam-available-end-february/" target="_blank">Yellow-Bricks</a> came across a response on the <a href="http://communities.vmware.com/thread/171918?tstart=0&start=30" target="_blank">VMTN forums</a> from Jon Hall, Technical Certification Developer at VMware, in regards to the VCDX Design Exam (step 3 of 4). Looks like the third portion of the highly anticipated VCDX Certification will be available around the end of February.  Hopefully when I get the results on the <a href="https://www.vmwaretips.com/wp/2009/02/04/vcdx-enterprise-administration-exam-complete/" target="_blank">Enterprise Exam</a> Tina will let me schedule this next portion.
 
 
 

@@ -4,7 +4,7 @@ title: 'VCDX, VMworld and Consulting&#8230;Oh My!'
 date: 2009-08-12T15:28:06+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=960
+guid: https://www.vmwaretips.com/wp/?p=960
 permalink: /2009/08/12/vcdx-vmworld-and-consultingoh-my/
 redirect_from: /wp/2009/08/12/vcdx-vmworld-and-consultingoh-my/
 aktt_notify_twitter:

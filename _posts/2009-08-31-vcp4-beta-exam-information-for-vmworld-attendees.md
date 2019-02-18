@@ -4,7 +4,7 @@ title: VCP4 Beta Exam Information for VMworld Attendees
 date: 2009-08-31T17:22:28+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=993
+guid: https://www.vmwaretips.com/wp/?p=993
 permalink: /2009/08/31/vcp4-beta-exam-information-for-vmworld-attendees/
 redirect_from: /wp/2009/08/31/vcp4-beta-exam-information-for-vmworld-attendees/
 aktt_notify_twitter:
@@ -28,7 +28,7 @@ tags:
   - vcp4
   - VMworld
 ---
-<a rel="attachment wp-att-994" href="http://vmwaretips.com/wp/wp-content/uploads/2009/08/vcp4swag.jpg"><img class="alignright size-medium wp-image-994" title="vcp4swag" src="http://vmwaretips.com/wp/wp-content/uploads/2009/08/vcp4swag-300x225.jpg" alt="" width="300" height="225" /></a>You may have heard me on Friday via <a href="http://twitter.com/rick_vmwaretips/status/3611413849" target="_blank">Twitter</a> that I&#8217;ve passed the VCP4 Beta (along with a list of others). Today I received an e-mail making it official, along with a selection of great goodies!
+<a rel="attachment wp-att-994" href="https://www.vmwaretips.com/wp/wp-content/uploads/2009/08/vcp4swag.jpg"><img class="alignright size-medium wp-image-994" title="vcp4swag" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/08/vcp4swag-300x225.jpg" alt="" width="300" height="225" /></a>You may have heard me on Friday via <a href="http://twitter.com/rick_vmwaretips/status/3611413849" target="_blank">Twitter</a> that I&#8217;ve passed the VCP4 Beta (along with a list of others). Today I received an e-mail making it official, along with a selection of great goodies!
 
 The list of goodies included a VCP4 Hat, VMware Certified Professional button and some really sweet (sarcastic) light up glasses&#8230;which will probably come in handy on Wednesday night!
 

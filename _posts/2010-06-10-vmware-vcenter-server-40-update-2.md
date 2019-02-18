@@ -4,7 +4,7 @@ title: VMware vCenter Server 4.0 Update 2
 date: 2010-06-10T21:14:11+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1158
+guid: https://www.vmwaretips.com/wp/?p=1158
 permalink: /2010/06/10/vmware-vcenter-server-40-update-2/
 redirect_from: /wp/2010/06/10/vmware-vcenter-server-40-update-2/
 aktt_notify_twitter:

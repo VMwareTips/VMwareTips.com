@@ -4,7 +4,7 @@ title: 'VMware vSphere 4 Launch Event &#8211; On-Site Coverage &#8211; Second Vi
 date: 2009-04-21T08:30:35+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=746
+guid: https://www.vmwaretips.com/wp/?p=746
 permalink: /2009/04/21/vmware-vsphere-launch/
 redirect_from: /wp/2009/04/21/vmware-vsphere-launch/
 aktt_notify_twitter:
@@ -30,10 +30,10 @@ tags:
   - vmware vsphere launch
 ---
 <p style="text-align: center;">
-  <img class="aligncenter" src="http://vmwaretips.com/wp/wp-content/gallery/misc/vmwlaunch.jpg" alt="" width="440" />
+  <img class="aligncenter" src="https://www.vmwaretips.com/wp/wp-content/gallery/misc/vmwlaunch.jpg" alt="" width="440" />
 </p>
 
-The time has come, the official VMware vSphere 4 Launch Event. Special Thanks to <a href="http://www.trainsignal.com" target="_blank">TrainSignal</a> and <a href="http://www.netapp.com/" target="_blank">NetApp</a> for making this possible. For those of you who have not registered for the chance to Win a **<span style="text-decoration: underline;">FREE</span>** TrainSignal VMware ESX Training Kit, please <a href="http://www.vmwaretips.com/contest/register.php" target="_blank">go do so now</a>! Registration to Win will end around 2:00pm PST and the winners announced on this page around 6:00pm PST.
+The time has come, the official VMware vSphere 4 Launch Event. Special Thanks to <a href="http://www.trainsignal.com" target="_blank">TrainSignal</a> and <a href="http://www.netapp.com/" target="_blank">NetApp</a> for making this possible. For those of you who have not registered for the chance to Win a **<span style="text-decoration: underline;">FREE</span>** TrainSignal VMware ESX Training Kit, please <a href="https://www.vmwaretips.com/contest/register.php" target="_blank">go do so now</a>! Registration to Win will end around 2:00pm PST and the winners announced on this page around 6:00pm PST.
 
 This will be the page where I post all of the up to minute information and videos as I have them available. I will also include my Twitter feed below for easy access.
 

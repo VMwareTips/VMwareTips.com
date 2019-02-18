@@ -4,7 +4,7 @@ title: VMware vSphere 4.1 U1 Released
 date: 2011-02-11T19:08:11+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1274
+guid: https://www.vmwaretips.com/wp/?p=1274
 permalink: /2011/02/11/vmware-vsphere-41-u1-released/
 redirect_from: /wp/2011/02/11/vmware-vsphere-41-u1-released/
 ratings_users:

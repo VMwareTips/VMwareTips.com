@@ -1,4 +1,4 @@
-var tinyMCEPreInit = { settings : { themes : "advanced", plugins : "safari,inlinepopups,autosave,spellchecker,paste,wordpress,media,fullscreen,wpeditimage,-NextGEN", languages : "en", debug : false }, base : "http://vmwaretips.com/wp/wp-includes/js/tinymce", suffix : "", query : "ver=311" };tinyMCEPreInit.start = function() {
+var tinyMCEPreInit = { settings : { themes : "advanced", plugins : "safari,inlinepopups,autosave,spellchecker,paste,wordpress,media,fullscreen,wpeditimage,-NextGEN", languages : "en", debug : false }, base : "https://www.vmwaretips.com/wp/wp-includes/js/tinymce", suffix : "", query : "ver=311" };tinyMCEPreInit.start = function() {
 	var t = this, each = tinymce.each, s = t.settings, sl = tinymce.ScriptLoader, ln = s.languages, th = s.themes;
 
 	function load(u, sp) {
@@ -466,7 +466,7 @@ alt:"Edit Alternate Text"
  * $Id: editor_plugin_src.js 425 2007-11-21 15:17:39Z spocke $
  *
  * @author Moxiecode
- * @copyright Copyright © 2004-2008, Moxiecode Systems AB, All rights reserved.
+ * @copyright Copyright ï¿½ 2004-2008, Moxiecode Systems AB, All rights reserved.
  */
 
 (function() {
@@ -595,7 +595,7 @@ alt:"Edit Alternate Text"
 		},
 
 		_getSeparators : function() {
-			var re = '', i, str = this.editor.getParam('spellchecker_word_separator_chars', '\\s!"#$%&()*+,-./:;<=>?@[\]^_{|}§©«®±¶·¸»¼½¾¿×÷¤\u201d\u201c');
+			var re = '', i, str = this.editor.getParam('spellchecker_word_separator_chars', '\\s!"#$%&()*+,-./:;<=>?@[\]^_{|}ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½\u201d\u201c');
 
 			// Build word separator regexp
 			for (i=0; i<str.length; i++)
@@ -1315,5 +1315,5 @@ alt:"Edit Alternate Text"
 	tinymce.PluginManager.add('wpeditimage', tinymce.plugins.wpEditImage);
 })();
 
-tinymce.PluginManager.load("NextGEN", "http://vmwaretips.com/wp/wp-content/plugins/nextgen-gallery/tinymce3/editor_plugin.js");
-tinyMCE.init({mode:"none",onpageload:"wpEditorInit",width:"100%",theme:"advanced",skin:"wp_theme",theme_advanced_buttons1:"bold,italic,strikethrough,|,bullist,numlist,blockquote,|,justifyleft,justifycenter,justifyright,|,link,unlink,wp_more,|,spellchecker,fullscreen,wp_adv,separator,NextGEN",theme_advanced_buttons2:"formatselect,underline,justifyfull,forecolor,|,pastetext,pasteword,removeformat,|,media,charmap,|,outdent,indent,|,undo,redo,wp_help",theme_advanced_buttons3:"",theme_advanced_buttons4:"",language:"en",spellchecker_languages:"+English=en,Danish=da,Dutch=nl,Finnish=fi,French=fr,German=de,Italian=it,Polish=pl,Portuguese=pt,Spanish=es,Swedish=sv",theme_advanced_toolbar_location:"top",theme_advanced_toolbar_align:"left",theme_advanced_statusbar_location:"bottom",theme_advanced_resizing:"1",theme_advanced_resize_horizontal:"",dialog_type:"modal",relative_urls:"",remove_script_host:"",convert_urls:"",apply_source_formatting:"",remove_linebreaks:"1",paste_convert_middot_lists:"1",paste_remove_spans:"1",paste_remove_styles:"1",gecko_spellcheck:"1",entities:"38,amp,60,lt,62,gt",accessibility_focus:"",tab_focus:":next",content_css:"http://vmwaretips.com/wp/wp-includes/js/tinymce/wordpress.css",save_callback:"switchEditors.saveCallback",wpeditimage_disable_captions:"",plugins:"safari,inlinepopups,autosave,spellchecker,paste,wordpress,media,fullscreen,wpeditimage,-NextGEN"});
+tinymce.PluginManager.load("NextGEN", "https://www.vmwaretips.com/wp/wp-content/plugins/nextgen-gallery/tinymce3/editor_plugin.js");
+tinyMCE.init({mode:"none",onpageload:"wpEditorInit",width:"100%",theme:"advanced",skin:"wp_theme",theme_advanced_buttons1:"bold,italic,strikethrough,|,bullist,numlist,blockquote,|,justifyleft,justifycenter,justifyright,|,link,unlink,wp_more,|,spellchecker,fullscreen,wp_adv,separator,NextGEN",theme_advanced_buttons2:"formatselect,underline,justifyfull,forecolor,|,pastetext,pasteword,removeformat,|,media,charmap,|,outdent,indent,|,undo,redo,wp_help",theme_advanced_buttons3:"",theme_advanced_buttons4:"",language:"en",spellchecker_languages:"+English=en,Danish=da,Dutch=nl,Finnish=fi,French=fr,German=de,Italian=it,Polish=pl,Portuguese=pt,Spanish=es,Swedish=sv",theme_advanced_toolbar_location:"top",theme_advanced_toolbar_align:"left",theme_advanced_statusbar_location:"bottom",theme_advanced_resizing:"1",theme_advanced_resize_horizontal:"",dialog_type:"modal",relative_urls:"",remove_script_host:"",convert_urls:"",apply_source_formatting:"",remove_linebreaks:"1",paste_convert_middot_lists:"1",paste_remove_spans:"1",paste_remove_styles:"1",gecko_spellcheck:"1",entities:"38,amp,60,lt,62,gt",accessibility_focus:"",tab_focus:":next",content_css:"https://www.vmwaretips.com/wp/wp-includes/js/tinymce/wordpress.css",save_callback:"switchEditors.saveCallback",wpeditimage_disable_captions:"",plugins:"safari,inlinepopups,autosave,spellchecker,paste,wordpress,media,fullscreen,wpeditimage,-NextGEN"});

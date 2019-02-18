@@ -4,7 +4,7 @@ title: VCDX Enterprise Administration Exam Complete
 date: 2009-02-04T09:46:08+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=538
+guid: https://www.vmwaretips.com/wp/?p=538
 permalink: /2009/02/04/vcdx-enterprise-administration-exam-complete/
 redirect_from: /wp/2009/02/04/vcdx-enterprise-administration-exam-complete/
 aktt_notify_twitter:
@@ -35,7 +35,7 @@ Then they will take you to a workstation where they sign you into the test. Firs
 
 After your finished with those 75 you should have >1 hour remaining to finish the last 11 lab based questions, these final 11 make up 40% of your grade.  The lab actually connects you to a session at VMware corporate, you switch between the question and the lab with a button at the top of the screen.  You continue to use the same session for all the lab questions, I found myself jumping between questions if I remembered something I missed &#8212; this makes it nice because your answer isn&#8217;t _final_ until you end the lab section at the end of question 86.
 
-[<img class="ngg-singlepic ngg-right" src="http://vmwaretips.com/wp/wp-content/gallery/misc/thumbs/thumbs_vce310.jpg" alt="vce310.jpg" />](http://vmwaretips.com/wp/wp-content/gallery/misc/vce310.jpg){.thickbox}Once you&#8217;ve completed the exam you raise your hand and one of the employees will escort you out of the testing room, you are then provided with your confirmation report.  You then wait 10-12 business days for your results from VMware. In the event you fail, you can take the test again but you&#8217;ll need to pay the $400 fee again.  The waiting period between taking the test is 10 days, but you&#8217;re going to wait that long for the results so it doesn&#8217;t matter.
+[<img class="ngg-singlepic ngg-right" src="https://www.vmwaretips.com/wp/wp-content/gallery/misc/thumbs/thumbs_vce310.jpg" alt="vce310.jpg" />](https://www.vmwaretips.com/wp/wp-content/gallery/misc/vce310.jpg){.thickbox}Once you&#8217;ve completed the exam you raise your hand and one of the employees will escort you out of the testing room, you are then provided with your confirmation report.  You then wait 10-12 business days for your results from VMware. In the event you fail, you can take the test again but you&#8217;ll need to pay the $400 fee again.  The waiting period between taking the test is 10 days, but you&#8217;re going to wait that long for the results so it doesn&#8217;t matter.
 
 <span style="color: #ff0000;"><strong>Correction : I originally stated you can only take the test a max of 2 times, this has been cleared up by Jon Hall at VMware. You can take it as many times as needed, but you must wait 10 days between sittings and you must pay the $400 registration fee again.</strong></span>
 

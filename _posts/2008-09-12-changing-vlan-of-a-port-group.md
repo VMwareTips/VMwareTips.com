@@ -4,7 +4,7 @@ title: Changing VLAN of a Port Group
 date: 2008-09-12T08:54:59+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=13
+guid: https://www.vmwaretips.com/wp/?p=13
 permalink: /2008/09/12/changing-vlan-of-a-port-group/
 redirect_from: /wp/2008/09/12/changing-vlan-of-a-port-group/
 views:

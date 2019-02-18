@@ -4,7 +4,7 @@ title: Get to VMworld 2010 and Save Some Money
 date: 2010-07-06T15:24:18+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1202
+guid: https://www.vmwaretips.com/wp/?p=1202
 permalink: /2010/07/06/get-to-vmworld-2010-and-save-some-money/
 redirect_from: /wp/2010/07/06/get-to-vmworld-2010-and-save-some-money/
 aktt_notify_twitter:

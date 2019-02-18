@@ -4,7 +4,7 @@ title: VI4 Client Federation
 date: 2009-02-08T11:41:12+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=564
+guid: https://www.vmwaretips.com/wp/?p=564
 permalink: /2009/02/08/vi4-client-federation/
 redirect_from: /wp/2009/02/08/vi4-client-federation/
 aktt_notify_twitter:

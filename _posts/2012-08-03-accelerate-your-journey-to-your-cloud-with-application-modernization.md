@@ -4,7 +4,7 @@ title: Accelerate Your Journey to Your Cloud with Application Modernization
 date: 2012-08-03T15:40:50+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1532
+guid: https://www.vmwaretips.com/wp/?p=1532
 permalink: /2012/08/03/accelerate-your-journey-to-your-cloud-with-application-modernization/
 redirect_from: /wp/2012/08/03/accelerate-your-journey-to-your-cloud-with-application-modernization/
 ratings_users:

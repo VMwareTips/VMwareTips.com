@@ -4,7 +4,7 @@ title: 'vmworld 2011 &#8211; time to vote!'
 date: 2011-05-12T18:37:16+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1340
+guid: https://www.vmwaretips.com/wp/?p=1340
 permalink: /2011/05/12/vmworld-2011-time-to-vote/
 redirect_from: /wp/2011/05/12/vmworld-2011-time-to-vote/
 ratings_users:

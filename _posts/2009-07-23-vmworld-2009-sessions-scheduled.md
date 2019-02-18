@@ -4,7 +4,7 @@ title: VMworld 2009 Sessions Scheduled
 date: 2009-07-23T12:06:12+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=925
+guid: https://www.vmwaretips.com/wp/?p=925
 permalink: /2009/07/23/vmworld-2009-sessions-scheduled/
 redirect_from: /wp/2009/07/23/vmworld-2009-sessions-scheduled/
 aktt_notify_twitter:
@@ -107,7 +107,7 @@ I have received final confirmation, dates and times have been scheduled for the 
   </tr>
 </table>
 
-Be sure to add these sessions to your VMworld schedule!  Also, you can still submit some pre-questions for the Ask the Experts session &#8211; <a href="http://vmwaretips.com/wp/2009/07/07/vmworld-2009-ask-the-experts-question-submission/" target="_blank">visit this blog post</a> to submit your question now!
+Be sure to add these sessions to your VMworld schedule!  Also, you can still submit some pre-questions for the Ask the Experts session &#8211; <a href="https://www.vmwaretips.com/wp/2009/07/07/vmworld-2009-ask-the-experts-question-submission/" target="_blank">visit this blog post</a> to submit your question now!
 
 <p style="text-align: center; ">
   <a href="http://www.vmworld.com/registration.jspa" target="_blank"><img class="aligncenter" style="text-align: auto;" src="http://www.vmworld.com/images/vmw09/hero_vmworld2009.gif" alt="" width="480" /></a>

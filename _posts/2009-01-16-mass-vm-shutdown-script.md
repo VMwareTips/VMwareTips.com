@@ -4,7 +4,7 @@ title: Mass VM Shutdown Script
 date: 2009-01-16T14:05:32+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=478
+guid: https://www.vmwaretips.com/wp/?p=478
 permalink: /2009/01/16/mass-vm-shutdown-script/
 redirect_from: /wp/2009/01/16/mass-vm-shutdown-script/
 aktt_notify_twitter:
@@ -57,4 +57,4 @@ Here is the cron so you can see exactly when I&#8217;m running this;
 
 As you can see, I&#8217;m running this at 03:50 on 1/18 and the 0 day of the week (Sunday).  I did this so just in case if I forget to remove it from the cron, it will not run again until 1/18 falls on a Sunday (2015). Also I am outputting std out to a log file so I can review it after.
 
-One big thing that this script would require is the ability to SSH from one ESX host to another, without be prompted for a password.  I covered how to do this in another blog post, <a href="http://vmwaretips.com/wp/2009/01/16/ssh-from-esx-host-to-esx-host-with-no-password/" target="_blank">which can be found here.</a>
+One big thing that this script would require is the ability to SSH from one ESX host to another, without be prompted for a password.  I covered how to do this in another blog post, <a href="https://www.vmwaretips.com/wp/2009/01/16/ssh-from-esx-host-to-esx-host-with-no-password/" target="_blank">which can be found here.</a>

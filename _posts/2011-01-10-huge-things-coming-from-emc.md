@@ -4,7 +4,7 @@ title: Huge Things Coming from EMC
 date: 2011-01-10T11:24:18+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1247
+guid: https://www.vmwaretips.com/wp/?p=1247
 permalink: /2011/01/10/huge-things-coming-from-emc/
 redirect_from: /wp/2011/01/10/huge-things-coming-from-emc/
 ratings_users:

@@ -4,7 +4,7 @@ title: Committing snapshots generates a content ID mismatch error
 date: 2009-04-14T05:52:12+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=711
+guid: https://www.vmwaretips.com/wp/?p=711
 permalink: /2009/04/14/committing-snapshots-generates-a-content-id-mismatch-error/
 redirect_from: /wp/2009/04/14/committing-snapshots-generates-a-content-id-mismatch-error/
 aktt_notify_twitter:

@@ -4,7 +4,7 @@ title: 'VMworld 2014 San Francisco &#8211; Live Blogging'
 date: 2014-08-25T09:03:22+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=2505
+guid: https://www.vmwaretips.com/wp/?p=2505
 permalink: /2014/08/25/vmworld-2014-san-francisco-live-blogging/
 redirect_from: /wp/2014/08/25/vmworld-2014-san-francisco-live-blogging/
 ratings_users:
@@ -29,9 +29,9 @@ tags:
   - VMware
   - VMworld
 ---
-Here we are, VMworld 2014. No Limits is the theme, and already new products (VMware EVO), <a href="http://vmwaretips.com/wp/2014/08/25/do-you-vrealize-whats-in-a-vname/" target="_blank">new names</a> (vRealize, vCloud Air) and ton&#8217;s of other awesome things have been announced. And we&#8217;re not even into the first General Session yet! As I sit in anticipation for Gelsinger to get on stage, this page will serve as the home to all things VMworld 2014.
+Here we are, VMworld 2014. No Limits is the theme, and already new products (VMware EVO), <a href="https://www.vmwaretips.com/wp/2014/08/25/do-you-vrealize-whats-in-a-vname/" target="_blank">new names</a> (vRealize, vCloud Air) and ton&#8217;s of other awesome things have been announced. And we&#8217;re not even into the first General Session yet! As I sit in anticipation for Gelsinger to get on stage, this page will serve as the home to all things VMworld 2014.
 
-This aggregated page will serve as a central repository for some live updates (mainly around keynotes, and sessions) as well as a live feed from my Twitter profile as well as my Instagram profile (for pictures). For my up to the minute VMworld 2014 Schedule please visit <a href="http://vmwaretips.com/wp/2014/08/18/vmworld-2014-itinerary/" target="_blank">this post</a>.
+This aggregated page will serve as a central repository for some live updates (mainly around keynotes, and sessions) as well as a live feed from my Twitter profile as well as my Instagram profile (for pictures). For my up to the minute VMworld 2014 Schedule please visit <a href="https://www.vmwaretips.com/wp/2014/08/18/vmworld-2014-itinerary/" target="_blank">this post</a>.
 
 This is going to be an amazing week! I can’t wait for the fun to start and ingest all of the great information that will be delivered. I also hope to see all of you throughout the week and especially at my Ask the Experts session and my EMC Enterprise Hybrid Cloud session.
 

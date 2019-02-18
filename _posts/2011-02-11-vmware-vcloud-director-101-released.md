@@ -4,7 +4,7 @@ title: VMware vCloud Director 1.0.1 Released
 date: 2011-02-11T19:24:13+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1277
+guid: https://www.vmwaretips.com/wp/?p=1277
 permalink: /2011/02/11/vmware-vcloud-director-101-released/
 redirect_from: /wp/2011/02/11/vmware-vcloud-director-101-released/
 ratings_users:
@@ -38,4 +38,4 @@ vCloud Director 1.0.1 allows you to add IP translation rules for organization ne
 
 All of the information available from this release, including known issues, resolved issues and upgrade instructions can be found within the <a href="http://www.vmware.com/support/vcd/doc/rel_notes_vcloud_director_101.html" target="_blank">release notes</a>.
 
-For some further reading pleasure you can read my post on <a href="http://vmwaretips.com/wp/2011/02/08/the-cloudnow-closer-than-ever/" target="_blank">vCloud Connector</a> which enables customers of Public Cloud providers running vCloud Director to effectively manage their Hybrid Cloud environment from right inside of the vSphere Client.
+For some further reading pleasure you can read my post on <a href="https://www.vmwaretips.com/wp/2011/02/08/the-cloudnow-closer-than-ever/" target="_blank">vCloud Connector</a> which enables customers of Public Cloud providers running vCloud Director to effectively manage their Hybrid Cloud environment from right inside of the vSphere Client.

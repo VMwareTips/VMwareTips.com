@@ -4,7 +4,7 @@ title: 'NetApp &#8211; #1 Best Company to Work For'
 date: 2009-01-22T16:11:53+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=508
+guid: https://www.vmwaretips.com/wp/?p=508
 permalink: /2009/01/22/netapp-1-best-company-to-work-for/
 redirect_from: /wp/2009/01/22/netapp-1-best-company-to-work-for/
 aktt_notify_twitter:

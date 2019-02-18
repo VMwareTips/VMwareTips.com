@@ -4,7 +4,7 @@ title: Advanced Settings for VMware HA
 date: 2008-10-20T16:24:15+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=125
+guid: https://www.vmwaretips.com/wp/?p=125
 permalink: /2008/10/20/advanced-settings-for-vmware-ha/
 redirect_from: /wp/2008/10/20/advanced-settings-for-vmware-ha/
 views:

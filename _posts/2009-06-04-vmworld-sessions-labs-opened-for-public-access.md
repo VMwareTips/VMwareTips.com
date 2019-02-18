@@ -4,7 +4,7 @@ title: 'VMworld Sessions &#038; Labs Opened for Public Access'
 date: 2009-06-04T23:16:53+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=860
+guid: https://www.vmwaretips.com/wp/?p=860
 permalink: /2009/06/04/vmworld-sessions-labs-opened-for-public-access/
 redirect_from: /wp/2009/06/04/vmworld-sessions-labs-opened-for-public-access/
 aktt_notify_twitter:

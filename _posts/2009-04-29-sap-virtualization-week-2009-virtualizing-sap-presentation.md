@@ -4,7 +4,7 @@ title: 'SAP Virtualization Week 2009 &#8211; Virtualizing SAP Presentation'
 date: 2009-04-29T23:23:03+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=763
+guid: https://www.vmwaretips.com/wp/?p=763
 permalink: /2009/04/29/sap-virtualization-week-2009-virtualizing-sap-presentation/
 redirect_from: /wp/2009/04/29/sap-virtualization-week-2009-virtualizing-sap-presentation/
 aktt_notify_twitter:

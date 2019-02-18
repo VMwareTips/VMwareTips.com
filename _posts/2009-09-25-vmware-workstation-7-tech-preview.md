@@ -4,7 +4,7 @@ title: VMware Workstation 7 Tech Preview
 date: 2009-09-25T17:02:01+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1039
+guid: https://www.vmwaretips.com/wp/?p=1039
 permalink: /2009/09/25/vmware-workstation-7-tech-preview/
 redirect_from: /wp/2009/09/25/vmware-workstation-7-tech-preview/
 aktt_notify_twitter:
@@ -48,7 +48,7 @@ Here is a short list of enhancements found in Workstation 7:
   * Instantly pause a VM to free up system resources or dedicate horsepower to other running VMs.
   * The highly acclaimed Linux Virtual Network Editor user interface has been implemented for Windows users.
 
-<a rel="attachment wp-att-1040" href="http://vmwaretips.com/wp/wp-content/uploads/2009/09/vmws7.png"><img class="alignright size-medium wp-image-1040" style="border: 0pt none; margin: 3px;" title="vmws7" src="http://vmwaretips.com/wp/wp-content/uploads/2009/09/vmws7-300x251.png" alt="" width="300" height="251" srcset="http://vmwaretips.com/wp/wp-content/uploads/2009/09/vmws7-300x251.png 300w, http://vmwaretips.com/wp/wp-content/uploads/2009/09/vmws7.png 666w" sizes="(max-width: 300px) 100vw, 300px" /></a>Some of the biggest enhancements not listed here include Multi-core and Four-way SMP support.  You can now specify how many physical processors and how many cores per processor right from GUI (this would be nice in ESX, right now you must manually edit the VMX file!).
+<a rel="attachment wp-att-1040" href="https://www.vmwaretips.com/wp/wp-content/uploads/2009/09/vmws7.png"><img class="alignright size-medium wp-image-1040" style="border: 0pt none; margin: 3px;" title="vmws7" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/09/vmws7-300x251.png" alt="" width="300" height="251" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2009/09/vmws7-300x251.png 300w, https://www.vmwaretips.com/wp/wp-content/uploads/2009/09/vmws7.png 666w" sizes="(max-width: 300px) 100vw, 300px" /></a>Some of the biggest enhancements not listed here include Multi-core and Four-way SMP support.  You can now specify how many physical processors and how many cores per processor right from GUI (this would be nice in ESX, right now you must manually edit the VMX file!).
 
 Another would be the support for up to 32GB of RAM in a Virtual Machine and the ability to Pause a Virtual Machine.
 

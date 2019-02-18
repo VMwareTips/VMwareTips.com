@@ -4,7 +4,7 @@ title: 'Product Review : Sun VirtualBox'
 date: 2008-11-02T10:16:55+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=268
+guid: https://www.vmwaretips.com/wp/?p=268
 permalink: /2008/11/02/product-review-sun-virtualbox/
 redirect_from: /wp/2008/11/02/product-review-sun-virtualbox/
 ratings_users:

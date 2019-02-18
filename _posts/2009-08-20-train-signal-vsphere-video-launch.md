@@ -4,7 +4,7 @@ title: Train Signal vSphere Video Launch!
 date: 2009-08-20T10:48:27+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=962
+guid: https://www.vmwaretips.com/wp/?p=962
 permalink: /2009/08/20/train-signal-vsphere-video-launch/
 redirect_from: /wp/2009/08/20/train-signal-vsphere-video-launch/
 aktt_notify_twitter:
@@ -30,7 +30,7 @@ tags:
 ---
 I&#8217;m proud to announce the release of the latest series of video based training from <a href="http://www.trainsignal.com/VMware-vSphere-Training-P76.aspx" target="_blank">Train Signal</a>&#8230; VMware vSphere! This video series will include over 18 hours of vSphere training, jam packed on to 3 DVDs. You also get the videos in multiple file formats such as iPod Video, Mp3 Audio, WMV and high quality AVI. Finally, you get the instructors notes in PDF format to help you follow along with the videos and take more organized notes!
 
-<img class="alignright size-full wp-image-964" style="border: 1px solid black; margin: 2px;" title="VMnut Stamp of Approval" src="http://vmwaretips.com/wp/wp-content/uploads/2009/08/vmnut.png" alt="" width="150" height="107" />Instructor and fellow vExpert <a href="http://www.virtualizationadmin.com/David_Davis/" target="_blank">David Davis</a> takes you through the entire course, covering over 36 different topics. On a side note, I know that you&#8217;ll really enjoy this video series&#8230;.why do you ask? Because I was the Technical Editor on this video series, so I know you&#8217;re getting quality. This video training series gets the VMnut Stamp of Approval!
+<img class="alignright size-full wp-image-964" style="border: 1px solid black; margin: 2px;" title="VMnut Stamp of Approval" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/08/vmnut.png" alt="" width="150" height="107" />Instructor and fellow vExpert <a href="http://www.virtualizationadmin.com/David_Davis/" target="_blank">David Davis</a> takes you through the entire course, covering over 36 different topics. On a side note, I know that you&#8217;ll really enjoy this video series&#8230;.why do you ask? Because I was the Technical Editor on this video series, so I know you&#8217;re getting quality. This video training series gets the VMnut Stamp of Approval!
 
 Not only do you get over 18 hours of <a href="http://www.trainsignal.com/VMware-vSphere-Training-P76.aspx" target="_blank">vSphere training</a>, with every paid purchase you also get FREE Downloadable updates to the vSphere Series!  What this means is that any time a new video (or update) is added to the vSphere series, you will get the chance to download it absolutely free!
 

@@ -4,7 +4,7 @@ title: A Great Way to Start Off the Weekend!
 date: 2009-02-20T16:11:19+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=585
+guid: https://www.vmwaretips.com/wp/?p=585
 permalink: /2009/02/20/a-great-way-to-start-off-the-weekend/
 redirect_from: /wp/2009/02/20/a-great-way-to-start-off-the-weekend/
 aktt_notify_twitter:

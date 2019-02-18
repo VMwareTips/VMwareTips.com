@@ -4,7 +4,7 @@ title: VMware VCDX Enterprise Administration Exam
 date: 2008-12-09T17:16:03+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=330
+guid: https://www.vmwaretips.com/wp/?p=330
 permalink: /2008/12/09/vmware-vcdx-enterprise-administration-exam/
 redirect_from: /wp/2008/12/09/vmware-vcdx-enterprise-administration-exam/
 ratings_users:

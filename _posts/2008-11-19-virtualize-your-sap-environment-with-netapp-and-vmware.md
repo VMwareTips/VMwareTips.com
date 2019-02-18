@@ -4,7 +4,7 @@ title: Virtualize your SAP Environment with NetApp and VMware
 date: 2008-11-19T09:39:25+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=287
+guid: https://www.vmwaretips.com/wp/?p=287
 permalink: /2008/11/19/virtualize-your-sap-environment-with-netapp-and-vmware/
 redirect_from: /wp/2008/11/19/virtualize-your-sap-environment-with-netapp-and-vmware/
 ratings_users:

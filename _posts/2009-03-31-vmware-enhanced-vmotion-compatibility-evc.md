@@ -4,7 +4,7 @@ title: VMware Enhanced VMotion Compatibility (EVC)
 date: 2009-03-31T00:13:04+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=658
+guid: https://www.vmwaretips.com/wp/?p=658
 permalink: /2009/03/31/vmware-enhanced-vmotion-compatibility-evc/
 redirect_from: /wp/2009/03/31/vmware-enhanced-vmotion-compatibility-evc/
 aktt_notify_twitter:

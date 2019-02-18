@@ -4,7 +4,7 @@ title: Article in NetworkWorld Magazine
 date: 2008-10-22T08:34:59+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=149
+guid: https://www.vmwaretips.com/wp/?p=149
 permalink: /2008/10/22/article-in-networkworld-magazine/
 redirect_from: /wp/2008/10/22/article-in-networkworld-magazine/
 ratings_users:
@@ -23,7 +23,7 @@ tags:
   - VMworld
 ---
 <p style="text-align: center;">
-  <a href="http://www.networkworld.com/supp/2008/ndc6/102008-ndc-sddpc-virtualization-case-study.html" target="_blank"><img class="aligncenter size-full wp-image-150" src="http://vmwaretips.com/wp/wp-content/uploads/2008/10/networkworld.png" alt="" width="470" srcset="http://vmwaretips.com/wp/wp-content/uploads/2008/10/networkworld.png 1280w, http://vmwaretips.com/wp/wp-content/uploads/2008/10/networkworld-300x228.png 300w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+  <a href="http://www.networkworld.com/supp/2008/ndc6/102008-ndc-sddpc-virtualization-case-study.html" target="_blank"><img class="aligncenter size-full wp-image-150" src="https://www.vmwaretips.com/wp/wp-content/uploads/2008/10/networkworld.png" alt="" width="470" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2008/10/networkworld.png 1280w, https://www.vmwaretips.com/wp/wp-content/uploads/2008/10/networkworld-300x228.png 300w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
 </p>
 
 <p style="text-align: left;">

@@ -4,7 +4,7 @@ title: 'VMworld TA2259 &#8211; Ask the Experts is a HIT!'
 date: 2009-08-10T13:23:32+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=958
+guid: https://www.vmwaretips.com/wp/?p=958
 permalink: /2009/08/10/vmworld-ta2259-ask-the-experts-is-a-hit/
 redirect_from: /wp/2009/08/10/vmworld-ta2259-ask-the-experts-is-a-hit/
 aktt_notify_twitter:

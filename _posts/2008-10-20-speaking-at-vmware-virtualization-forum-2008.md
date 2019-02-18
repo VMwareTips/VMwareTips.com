@@ -4,7 +4,7 @@ title: Speaking at VMware Virtualization Forum 2008
 date: 2008-10-20T16:46:07+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=131
+guid: https://www.vmwaretips.com/wp/?p=131
 permalink: /2008/10/20/speaking-at-vmware-virtualization-forum-2008/
 redirect_from: /wp/2008/10/20/speaking-at-vmware-virtualization-forum-2008/
 views:

@@ -4,7 +4,7 @@ title: VMworld 2013 Public Voting Now Open
 date: 2013-04-23T14:26:05+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=2029
+guid: https://www.vmwaretips.com/wp/?p=2029
 permalink: /2013/04/23/vmworld-2013-public-voting-now-open/
 redirect_from: /wp/2013/04/23/vmworld-2013-public-voting-now-open/
 ratings_users:

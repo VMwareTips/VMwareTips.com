@@ -4,7 +4,7 @@ title: 'vSphere 5 Video Series &#8211; VMware vSphere 5.0 Auto Deploy'
 date: 2011-12-27T14:58:55+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1459
+guid: https://www.vmwaretips.com/wp/?p=1459
 permalink: /2011/12/27/vsphere-5-video-series-vmware-vsphere-50-auto-deploy/
 redirect_from: /wp/2011/12/27/vsphere-5-video-series-vmware-vsphere-50-auto-deploy/
 ratings_users:
@@ -41,7 +41,7 @@ tags:
 Happy Holidays! This video is a continuation of my vSphere 5 Video Series, in this video I cover how to properly leverage VMware vSphere 5.0 Auto Deploy to automatically deploy ESXi hosts in your infrastructure. Auto Deploy is a new feature found in the Enterprise Plus edition of vSphere 5, it allows administrators to deploy stateless images that are deployed via gPXE directly to the RAM of the host. That&#8217;s right, ESXi hosts do not require a local HDD/USB/SDCARD to operate as they can simply download their image and configuration (via Host Profile) into RAM and automatically be placed in their correct vCenter Server datacenter/cluster or folder.
 
 <p style="text-align: left; ">
-  <a href="http://vmwaretips.com/wp/wp-content/uploads/2011/07/imagebuild.png"><img class="aligncenter" title="Image BUilder" src="http://vmwaretips.com/wp/wp-content/uploads/2011/07/imagebuild.png" alt="" width="410" /></a><br /> As shown above, PowerCLI is used to create an ESXi Image Profile, this image includes the base ESXi installation as well as any additional drivers, third-party integration or plug-in that you would like to include. That Image Profile is then attached to a Deployment Rule that is also created within PowerCLI. The deployment rule dictates what Image Profile is to be used, what host(s) are tied to the deployment rule and some other configuration specifics such as, which Host Profile to attach after the host has been added to vCenter as well as which vCenter DC/Cluster/Folder to add the host to. For example, you can leverage the same Image Profile but have different Deployment Rules based on DRS Cluster.
+  <a href="https://www.vmwaretips.com/wp/wp-content/uploads/2011/07/imagebuild.png"><img class="aligncenter" title="Image BUilder" src="https://www.vmwaretips.com/wp/wp-content/uploads/2011/07/imagebuild.png" alt="" width="410" /></a><br /> As shown above, PowerCLI is used to create an ESXi Image Profile, this image includes the base ESXi installation as well as any additional drivers, third-party integration or plug-in that you would like to include. That Image Profile is then attached to a Deployment Rule that is also created within PowerCLI. The deployment rule dictates what Image Profile is to be used, what host(s) are tied to the deployment rule and some other configuration specifics such as, which Host Profile to attach after the host has been added to vCenter as well as which vCenter DC/Cluster/Folder to add the host to. For example, you can leverage the same Image Profile but have different Deployment Rules based on DRS Cluster.
 </p>
 
 <p style="text-align: left; ">
@@ -68,8 +68,8 @@ Happy Holidays! This video is a continuation of my vSphere 5 Video Series, in th
   If you&#8217;re not into watching the video here are the necessary steps in raw form if you just want to deploy it and get it over with;
 </p>
 
->   1. Install VMware vCenter Server (Windows or <a href="http://vmwaretips.com/wp/2011/10/13/vsphere-5-video-series-install-vcenter-50-in-around-5-minutes/" target="_blank">vCSA</a>)
->   2. Install VMware vSphere Auto Deploy (or activate Auto Deploy in <a href="http://vmwaretips.com/wp/2011/10/13/vsphere-5-video-series-install-vcenter-50-in-around-5-minutes/" target="_blank">vCSA</a>)
+>   1. Install VMware vCenter Server (Windows or <a href="https://www.vmwaretips.com/wp/2011/10/13/vsphere-5-video-series-install-vcenter-50-in-around-5-minutes/" target="_blank">vCSA</a>)
+>   2. Install VMware vSphere Auto Deploy (or activate Auto Deploy in <a href="https://www.vmwaretips.com/wp/2011/10/13/vsphere-5-video-series-install-vcenter-50-in-around-5-minutes/" target="_blank">vCSA</a>)
 >   3. Install VMware PowerCLI
 >   4. Download TFTP Boot Zip and place files on TFTP Server
 >   5. Create ESXi Image Profile with PowerCLI 

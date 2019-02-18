@@ -4,7 +4,7 @@ title: Virtualization Congress 2009
 date: 2009-01-06T12:25:27+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=444
+guid: https://www.vmwaretips.com/wp/?p=444
 permalink: /2009/01/06/virtualization-congress-2009/
 redirect_from: /wp/2009/01/06/virtualization-congress-2009/
 aktt_notify_twitter:

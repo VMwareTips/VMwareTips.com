@@ -4,7 +4,7 @@ title: VMwareTips.com Overwhelming Growth
 date: 2009-02-05T22:53:50+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=555
+guid: https://www.vmwaretips.com/wp/?p=555
 permalink: /2009/02/05/vmwaretipscom-overwhelming-growth/
 redirect_from: /wp/2009/02/05/vmwaretipscom-overwhelming-growth/
 aktt_notify_twitter:

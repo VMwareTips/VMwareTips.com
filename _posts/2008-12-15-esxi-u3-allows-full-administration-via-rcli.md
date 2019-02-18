@@ -4,7 +4,7 @@ title: 'ESXi Free Edition &#038; The RCLI'
 date: 2008-12-15T16:15:06+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=369
+guid: https://www.vmwaretips.com/wp/?p=369
 permalink: /2008/12/15/esxi-u3-allows-full-administration-via-rcli/
 redirect_from: /wp/2008/12/15/esxi-u3-allows-full-administration-via-rcli/
 ratings_users:

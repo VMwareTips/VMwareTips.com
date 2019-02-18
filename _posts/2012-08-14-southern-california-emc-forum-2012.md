@@ -4,7 +4,7 @@ title: Southern California EMC Forum 2012
 date: 2012-08-14T17:35:26+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1557
+guid: https://www.vmwaretips.com/wp/?p=1557
 permalink: /2012/08/14/southern-california-emc-forum-2012/
 redirect_from: /wp/2012/08/14/southern-california-emc-forum-2012/
 ratings_users:

@@ -4,7 +4,7 @@ title: The New Player on the vBlock
 date: 2009-11-03T14:44:35+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1065
+guid: https://www.vmwaretips.com/wp/?p=1065
 permalink: /2009/11/03/the-new-player-on-the-vblock/
 redirect_from: /wp/2009/11/03/the-new-player-on-the-vblock/
 aktt_notify_twitter:
@@ -31,7 +31,7 @@ tags:
 ---
 VMware, EMC, Cisco, VCE, Intel, Acadia&#8230;.whew! what does it all mean?! 
 
-<img class="alignright size-full wp-image-1066" title="vblock" src="http://vmwaretips.com/wp/wp-content/uploads/2009/11/vblock.png" alt="" width="319" height="240" srcset="http://vmwaretips.com/wp/wp-content/uploads/2009/11/vblock.png 319w, http://vmwaretips.com/wp/wp-content/uploads/2009/11/vblock-300x225.png 300w" sizes="(max-width: 319px) 100vw, 319px" />VMware, Cisco and EMC created a new marketing ploy called VCE (Virtual Compute Environment), this will provide technical innovations as well as integrated pre-sales services and support.
+<img class="alignright size-full wp-image-1066" title="vblock" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/11/vblock.png" alt="" width="319" height="240" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2009/11/vblock.png 319w, https://www.vmwaretips.com/wp/wp-content/uploads/2009/11/vblock-300x225.png 300w" sizes="(max-width: 319px) 100vw, 319px" />VMware, Cisco and EMC created a new marketing ploy called VCE (Virtual Compute Environment), this will provide technical innovations as well as integrated pre-sales services and support.
 
 What is the product? vBlock.  Think of vBlock as the plug and play data-center solution, it will consist of Cisco UCS/Nexus/MDS, EMC Storage and VMware Virtualization all within a pre-designed and built rack solution &#8211; simply drop it in your data-center, plug it in and deploy virtual machines.  This is not really any different than purchasing HP Servers, NetApp Storage and VMware licenses separately. Ultimately it is the same solution, but now with a single SKU that partners will be able to sell.
 

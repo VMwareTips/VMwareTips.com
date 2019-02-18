@@ -4,7 +4,7 @@ title: VMworld 2009 Schedule
 date: 2009-08-28T07:28:00+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=982
+guid: https://www.vmwaretips.com/wp/?p=982
 permalink: /2009/08/28/vmworld-2009-schedule/
 redirect_from: /wp/2009/08/28/vmworld-2009-schedule/
 aktt_notify_twitter:
@@ -27,7 +27,7 @@ tags:
   - vcdx
   - VMworld
 ---
-<a rel="attachment wp-att-983" href="http://vmwaretips.com/wp/wp-content/uploads/2009/08/vmwswag.jpg"><img class="alignright size-medium wp-image-983" style="margin: 3px; border: black 1px solid;" title="VMworld Swag" src="http://vmwaretips.com/wp/wp-content/uploads/2009/08/vmwswag-300x225.jpg" alt="" width="250" srcset="http://vmwaretips.com/wp/wp-content/uploads/2009/08/vmwswag-300x225.jpg 300w, http://vmwaretips.com/wp/wp-content/uploads/2009/08/vmwswag.jpg 512w" sizes="(max-width: 300px) 100vw, 300px" /></a>VMworld is about to get under way!  This is probably one of the busiest weeks of my year, and the preparation typically takes 1-2 weeks in itself!
+<a rel="attachment wp-att-983" href="https://www.vmwaretips.com/wp/wp-content/uploads/2009/08/vmwswag.jpg"><img class="alignright size-medium wp-image-983" style="margin: 3px; border: black 1px solid;" title="VMworld Swag" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/08/vmwswag-300x225.jpg" alt="" width="250" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2009/08/vmwswag-300x225.jpg 300w, https://www.vmwaretips.com/wp/wp-content/uploads/2009/08/vmwswag.jpg 512w" sizes="(max-width: 300px) 100vw, 300px" /></a>VMworld is about to get under way!  This is probably one of the busiest weeks of my year, and the preparation typically takes 1-2 weeks in itself!
 
 I just wanted to share with you my schedule for next week, in the event you might be interested in meeting up with me and possibly getting your hands on some **_FREE_** VMwareTips.com swag! _(see right)_.  I&#8217;ve got VMwareTips.com buttons, stickers and polo shirts (Special Thanks to <a href="https://www.quest.com/" target="_blank">VKernel</a>).
 

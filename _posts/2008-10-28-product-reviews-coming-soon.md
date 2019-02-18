@@ -4,7 +4,7 @@ title: Product Reviews Coming Soon
 date: 2008-10-28T22:38:20+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=241
+guid: https://www.vmwaretips.com/wp/?p=241
 permalink: /2008/10/28/product-reviews-coming-soon/
 redirect_from: /wp/2008/10/28/product-reviews-coming-soon/
 ratings_users:

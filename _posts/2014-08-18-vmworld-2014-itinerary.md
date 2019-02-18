@@ -4,7 +4,7 @@ title: VMworld 2014 Itinerary
 date: 2014-08-18T12:59:11+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=2417
+guid: https://www.vmwaretips.com/wp/?p=2417
 permalink: /2014/08/18/vmworld-2014-itinerary/
 redirect_from: /wp/2014/08/18/vmworld-2014-itinerary/
 ratings_users:
@@ -32,19 +32,19 @@ tags:
   - vstogies
   - vtweetup
 ---
-## **_[<img class="alignright  wp-image-2422" title="turndown4what" src="http://vmwaretips.com/wp/wp-content/uploads/2014/08/turndown4what-300x288.png" alt="" width="175" srcset="http://vmwaretips.com/wp/wp-content/uploads/2014/08/turndown4what-300x288.png 300w, http://vmwaretips.com/wp/wp-content/uploads/2014/08/turndown4what.png 375w" sizes="(max-width: 300px) 100vw, 300px" />](http://vmwaretips.com/wp/wp-content/uploads/2014/08/turndown4what.png)&#8220;Turn Down for What?!&#8221;_**
+## **_[<img class="alignright  wp-image-2422" title="turndown4what" src="https://www.vmwaretips.com/wp/wp-content/uploads/2014/08/turndown4what-300x288.png" alt="" width="175" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2014/08/turndown4what-300x288.png 300w, https://www.vmwaretips.com/wp/wp-content/uploads/2014/08/turndown4what.png 375w" sizes="(max-width: 300px) 100vw, 300px" />](https://www.vmwaretips.com/wp/wp-content/uploads/2014/08/turndown4what.png)&#8220;Turn Down for What?!&#8221;_**
 
 That&#8217;s pretty much how the week goes at VMworld, and here we are, encroaching on what will be my 11th VMworld conference. It&#8217;s a week full of education, networking, giveaways, fun and opportunity!  VMworld really packs it all in, and I&#8217;m proud to be part of it again this year.
 
 Below is my itinerary for the week, the sessions I&#8217;m planning on hitting, the parties and TweetUp I plan to visit. I also throw in some other must-see sessions and some cool vendors to check out.
 
-I look forward to seeing all of my vHomies out in San Francisco, for those attending in EMEA I&#8217;m sorry to say that I will not be joining this year, we&#8217;re expecting our twin boys in early November so flights for me are grounded![](http://vmwaretips.com/wp/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...") around that time. Perhaps next year!  If you&#8217;re going to be in SFO next week, find me, say HI, give me a hug&#8230; you might even get a cool VMwareTips gift ;)
+I look forward to seeing all of my vHomies out in San Francisco, for those attending in EMEA I&#8217;m sorry to say that I will not be joining this year, we&#8217;re expecting our twin boys in early November so flights for me are grounded![](https://www.vmwaretips.com/wp/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...") around that time. Perhaps next year!  If you&#8217;re going to be in SFO next week, find me, say HI, give me a hug&#8230; you might even get a cool VMwareTips gift ;)
 
 BTW, the parties/events listed below are just a small fraction of what&#8217;s going on.  These events are where you&#8217;ll most likely see me, but be sure to check out the full list here <a href="http://bit.ly/vmworld2014parties" target="_blank">http://bit.ly/vmworld2014parties</a>
 
 Safe travels, see you all next week!
 
-![](http://vmwaretips.com/wp/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")
+![](https://www.vmwaretips.com/wp/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")
 
 <table width="100%" border="0" cellspacing="6" cellpadding="6">
   <tr>

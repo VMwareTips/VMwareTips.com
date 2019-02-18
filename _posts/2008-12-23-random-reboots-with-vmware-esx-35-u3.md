@@ -4,7 +4,7 @@ title: Random Reboots with VMware ESX 3.5 U3
 date: 2008-12-23T19:53:36+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=432
+guid: https://www.vmwaretips.com/wp/?p=432
 permalink: /2008/12/23/random-reboots-with-vmware-esx-35-u3/
 redirect_from: /wp/2008/12/23/random-reboots-with-vmware-esx-35-u3/
 ratings_users:
@@ -25,7 +25,7 @@ tags:
   - vmm
   - VMware
 ---
-<span style="color: #000000;">This goes back to a posting on December 12th about VMware HA&#8217;s Virtual Machine Monitoring <a href="http://vmwaretips.com/wp/2008/12/12/vm-may-unexpectedly-reboot-when-using-ha-with-virtual-machine-monitoring/" target="_blank">rebooting guests after a VMotion</a>, which<a href="http://vmwaretips.com/wp/2008/12/12/vm-may-unexpectedly-reboot-when-using-ha-with-virtual-machine-monitoring/" target="_blank"> </a>was originally brought up by <a href="http://blog.scottlowe.org/2008/12/12/vmware-ha-problem-with-update-3/" target="_blank">Scott Lowe</a> and <a href="http://www.yellow-bricks.com/2008/12/12/vms-may-unexpectedly-reboot-when-using-vmware-ha-with-virtual-machine-monitoring/" target="_blank">Duncan Epping</a>. Well, a reader on Scott&#8217;s site has been talking with him about this problem and even after disabling Virtual Machine Monitoring it hasn&#8217;t gone away.</span>
+<span style="color: #000000;">This goes back to a posting on December 12th about VMware HA&#8217;s Virtual Machine Monitoring <a href="https://www.vmwaretips.com/wp/2008/12/12/vm-may-unexpectedly-reboot-when-using-ha-with-virtual-machine-monitoring/" target="_blank">rebooting guests after a VMotion</a>, which<a href="https://www.vmwaretips.com/wp/2008/12/12/vm-may-unexpectedly-reboot-when-using-ha-with-virtual-machine-monitoring/" target="_blank"> </a>was originally brought up by <a href="http://blog.scottlowe.org/2008/12/12/vmware-ha-problem-with-update-3/" target="_blank">Scott Lowe</a> and <a href="http://www.yellow-bricks.com/2008/12/12/vms-may-unexpectedly-reboot-when-using-vmware-ha-with-virtual-machine-monitoring/" target="_blank">Duncan Epping</a>. Well, a reader on Scott&#8217;s site has been talking with him about this problem and even after disabling Virtual Machine Monitoring it hasn&#8217;t gone away.</span>
 
 <span style="color: #000000;"></span>
 

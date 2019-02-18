@@ -4,7 +4,7 @@ title: 'VMware ISV Seminar &#8211; Boston, MA'
 date: 2009-09-12T09:08:18+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1013
+guid: https://www.vmwaretips.com/wp/?p=1013
 permalink: /2009/09/12/vmware-isv-seminar-boston-ma/
 redirect_from: /wp/2009/09/12/vmware-isv-seminar-boston-ma/
 aktt_notify_twitter:
@@ -63,5 +63,5 @@ categories:
   </p>
   
   <p>
-    <strong><a href="http://vmwaretips.tradepub.com/free/w_vmwa01/" target="_blank">GET MORE INFO & REGISTER NOW</a></strong>
+    <strong><a href="https://www.vmwaretips.tradepub.com/free/w_vmwa01/" target="_blank">GET MORE INFO & REGISTER NOW</a></strong>
   </p>

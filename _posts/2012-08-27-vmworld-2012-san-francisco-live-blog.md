@@ -4,7 +4,7 @@ title: 'VMworld 2012 San Francisco &#8211; Live Blogging'
 date: 2012-08-27T01:06:10+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1597
+guid: https://www.vmwaretips.com/wp/?p=1597
 permalink: /2012/08/27/vmworld-2012-san-francisco-live-blog/
 redirect_from: /wp/2012/08/27/vmworld-2012-san-francisco-live-blog/
 liveblogging_hashtag:
@@ -31,7 +31,7 @@ tags:
   - twitter
   - VMworld
 ---
-Hello and Welcome to VMworld 2012 in San Francisco! I&#8217;m going to try something a little different these next few days. I&#8217;ve created this aggregated page that will serve as a central repository for some live updates (mainly around keynotes, and sessions) as well as a live feed from my Twitter profile as well as my Instagram profile (for pictures). For my up to the minute VMworld 2012 Schedule please visit <a href="http://vmwaretips.com/wp/2012/08/03/vmworld-2012-itinerary/" target="_blank">this post</a>.
+Hello and Welcome to VMworld 2012 in San Francisco! I&#8217;m going to try something a little different these next few days. I&#8217;ve created this aggregated page that will serve as a central repository for some live updates (mainly around keynotes, and sessions) as well as a live feed from my Twitter profile as well as my Instagram profile (for pictures). For my up to the minute VMworld 2012 Schedule please visit <a href="https://www.vmwaretips.com/wp/2012/08/03/vmworld-2012-itinerary/" target="_blank">this post</a>.
 
 As you may have (or not) seen on Twitter, I&#8217;m participating in the #vHunt this year and I have some great things (books, stickers, etc) to give away! Just find me at #VMworld, take a picture with me and post it to Twitter with the #vHunt hashtag and you&#8217;ll be entered to win some other great prizes (think iPad, etc).
 

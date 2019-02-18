@@ -4,7 +4,7 @@ title: Patch for vmware vSphere 4.0
 date: 2011-04-30T09:40:09+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1327
+guid: https://www.vmwaretips.com/wp/?p=1327
 permalink: /2011/04/30/patch-for-vmware-vsphere-40/
 redirect_from: /wp/2011/04/30/patch-for-vmware-vsphere-40/
 ratings_users:

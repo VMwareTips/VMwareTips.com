@@ -4,7 +4,7 @@ title: Microsoft Exchange Server 2010 Released Today
 date: 2009-11-09T11:14:19+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1079
+guid: https://www.vmwaretips.com/wp/?p=1079
 permalink: /2009/11/09/microsoft-exchange-server-2010-released-today/
 redirect_from: /wp/2009/11/09/microsoft-exchange-server-2010-released-today/
 aktt_notify_twitter:

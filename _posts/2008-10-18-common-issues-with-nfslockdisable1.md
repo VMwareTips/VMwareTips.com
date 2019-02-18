@@ -4,7 +4,7 @@ title: Common issues with NFS.LockDisable=1
 date: 2008-10-18T09:53:12+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=105
+guid: https://www.vmwaretips.com/wp/?p=105
 permalink: /2008/10/18/common-issues-with-nfslockdisable1/
 redirect_from: /wp/2008/10/18/common-issues-with-nfslockdisable1/
 views:
@@ -60,4 +60,4 @@ tags:
 
 <span style="color: #888888;">Ok, so in closing I do not want to put all the blame on VMware HA, it is actually a combination of NFS.LockDisable=1 and what happens because of that that causes the potential corruption. The same result can occur by manually registering and starting the same VMX on multiple hosts (as with disabling locking it removes the that added layer of security).</span>
 
-<span style="color: #888888;"><strong>It is extremely important that you enable NFS Locking by changing NFS.LockDisable back to the default setting of 0. You should also install VMware Patch <span style="text-decoration: underline;">ESX350-200808401-BG</span>. I discuss the fix of this issue in another posting, which can be <a href="http://vmwaretips.com/wp/?p=48">found here.</a></strong></span>
+<span style="color: #888888;"><strong>It is extremely important that you enable NFS Locking by changing NFS.LockDisable back to the default setting of 0. You should also install VMware Patch <span style="text-decoration: underline;">ESX350-200808401-BG</span>. I discuss the fix of this issue in another posting, which can be <a href="https://www.vmwaretips.com/wp/?p=48">found here.</a></strong></span>

@@ -4,7 +4,7 @@ title: Working on a Book with Scott Lowe
 date: 2009-03-05T16:35:37+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=639
+guid: https://www.vmwaretips.com/wp/?p=639
 permalink: /2009/03/05/working-on-a-book-with-scott-lowe/
 redirect_from: /wp/2009/03/05/working-on-a-book-with-scott-lowe/
 aktt_notify_twitter:

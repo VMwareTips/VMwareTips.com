@@ -4,7 +4,7 @@ title: Changing Service Console IP Address in ESX 3.5
 date: 2008-09-12T08:11:46+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=5
+guid: https://www.vmwaretips.com/wp/?p=5
 permalink: /2008/09/12/changing-service-console-ip-address-in-esx-35/
 redirect_from: /wp/2008/09/12/changing-service-console-ip-address-in-esx-35/
 redirect_from: /wp/2008/09/12/changing-service-console-ip-address-in-esx-35/

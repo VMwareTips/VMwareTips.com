@@ -4,7 +4,7 @@ title: 'VCDX Design Exam &#8211; Complete'
 date: 2009-04-02T20:31:47+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=670
+guid: https://www.vmwaretips.com/wp/?p=670
 permalink: /2009/04/02/vcdx-design-exam-complete/
 redirect_from: /wp/2009/04/02/vcdx-design-exam-complete/
 aktt_notify_twitter:

@@ -4,7 +4,7 @@ title: 'Rove Mobile Admin 4.2 &#8211; VMware vCenter Support Added'
 date: 2009-03-20T09:53:30+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=648
+guid: https://www.vmwaretips.com/wp/?p=648
 permalink: /2009/03/20/rove-mobile-admin-42-vmware-vcenter-support-added/
 redirect_from: /wp/2009/03/20/rove-mobile-admin-42-vmware-vcenter-support-added/
 aktt_notify_twitter:
@@ -31,7 +31,7 @@ tags:
   - rove
   - software
 ---
-Rove has provided me with a demo of their Mobile Admin management tool, unfortunately I have been unable to install and use it due to my busy schedule lately.  I did want to provide you with their press release though, and also a couple links to a <a href="https://www2.gotomeeting.com/register/348258434" target="_blank">Webinar</a> explaining the product and a <a href="http://www.roveit.com/trial" target="_blank">link to download the trial</a>.<img class="alignright size-full wp-image-649" title="rove_ma4_exchange2007" src="http://vmwaretips.com/wp/wp-content/uploads/2009/03/rove_ma4_exchange2007.jpg" alt="" width="180" height="225" />
+Rove has provided me with a demo of their Mobile Admin management tool, unfortunately I have been unable to install and use it due to my busy schedule lately.  I did want to provide you with their press release though, and also a couple links to a <a href="https://www2.gotomeeting.com/register/348258434" target="_blank">Webinar</a> explaining the product and a <a href="http://www.roveit.com/trial" target="_blank">link to download the trial</a>.<img class="alignright size-full wp-image-649" title="rove_ma4_exchange2007" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/03/rove_ma4_exchange2007.jpg" alt="" width="180" height="225" />
 
 Their product does look very promising, the concept is simple, you place their software on an Internet Accessible server, it interacts with the back-end application you wish to manage (vCenter, SCOM, etc.). You then use your Windows Mobile or Blackberry device to connect to this management server to perform basic tasks.
 

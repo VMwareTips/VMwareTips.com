@@ -4,7 +4,7 @@ title: NetApp Snapshots in ESX
 date: 2008-09-12T14:32:23+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=20
+guid: https://www.vmwaretips.com/wp/?p=20
 permalink: /2008/09/12/netapp-snapshots-in-esx/
 redirect_from: /wp/2008/09/12/netapp-snapshots-in-esx/
 views:
@@ -33,7 +33,7 @@ tags:
   - ssh
   - vimsh
 ---
-**<span style="color: #ff0000;">UPDATE: I have re-written this script for enhancements, these can be found on the post titled <em>&#8220;<a href="http://vmwaretips.com/wp/2008/12/05/netapp-snapshots-in-esx-take-2/">NetApp Snapshots in ESX &#8211; Take 2</a>&#8220;</em></span>**
+**<span style="color: #ff0000;">UPDATE: I have re-written this script for enhancements, these can be found on the post titled <em>&#8220;<a href="https://www.vmwaretips.com/wp/2008/12/05/netapp-snapshots-in-esx-take-2/">NetApp Snapshots in ESX &#8211; Take 2</a>&#8220;</em></span>**
 
 Many of you NetApp/ESX users should know by now that SnapManager for VI has been released. Many of you should also know that NetApp&#8217;s costs of licensing such tools can be fairly pricey. For those of us that can&#8217;t afford or justify the purchase of SMVI, I give to you a very handy script that I wrote&#8230;.
 
@@ -41,7 +41,7 @@ Many of you NetApp/ESX users should know by now that SnapManager for VI has been
 
 This script will first create quiesced VMware ESX Snapshots, then connect to your NetApp FAS and kick off a snapshot creation.
 
-> _There is one prerequisite and that is to enable password-less SSH access from your ESX host and into your filer. Please look up the post &#8216;**<a href="http://vmwaretips.com/wp/2009/01/16/ssh-from-an-esx-host-into-netapp-ontap/" target="_blank">SSH from an ESX host into NetApp OnTap</a>&#8216;** for more information on how to do this. Another would be if you have multiple ESX servers, you need to enable password-less SSH access into those machines as well. Please look up the post &#8216;<a href="http://vmwaretips.com/wp/2009/01/16/ssh-from-esx-host-to-esx-host-with-no-password/" target="_blank"><strong>SSH from ESX to ESX</strong></a>&#8216; for more information on how to do this._
+> _There is one prerequisite and that is to enable password-less SSH access from your ESX host and into your filer. Please look up the post &#8216;**<a href="https://www.vmwaretips.com/wp/2009/01/16/ssh-from-an-esx-host-into-netapp-ontap/" target="_blank">SSH from an ESX host into NetApp OnTap</a>&#8216;** for more information on how to do this. Another would be if you have multiple ESX servers, you need to enable password-less SSH access into those machines as well. Please look up the post &#8216;<a href="https://www.vmwaretips.com/wp/2009/01/16/ssh-from-esx-host-to-esx-host-with-no-password/" target="_blank"><strong>SSH from ESX to ESX</strong></a>&#8216; for more information on how to do this._
 
 The script is very basic, I will include it below and go over each line and what they do.
 

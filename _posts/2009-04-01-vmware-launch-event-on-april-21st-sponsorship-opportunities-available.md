@@ -4,7 +4,7 @@ title: 'VMware Launch Event on April 21st &#8211; Sponsorship Opportunities Avai
 date: 2009-04-01T11:52:44+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=662
+guid: https://www.vmwaretips.com/wp/?p=662
 permalink: /2009/04/01/vmware-launch-event-on-april-21st-sponsorship-opportunities-available/
 redirect_from: /wp/2009/04/01/vmware-launch-event-on-april-21st-sponsorship-opportunities-available/
 aktt_notify_twitter:
@@ -33,7 +33,7 @@ As many of you know (or may not know), VMware will be having a _&#8220;<a href="
 
 
 
-[<img class="alignright size-full wp-image-663" title="netapp-logo" src="http://vmwaretips.com/wp/wp-content/uploads/2009/04/netapp-logo.jpg" alt="" width="85" height="96" />](http://vmwaretips.com/wp/wp-content/uploads/2009/04/netapp-logo.jpg)I was invited by VMware to attend this event, not only as a customer but also as a member of the media. My plan is to cover the event complete with video and then post this to the VMwareTips.com website. Special thanks to <a href="http://www.netapp.com" target="_blank">NetApp</a> for covering my travel and lodging, luckily for me I will be in Palo Alto that week for <a href="http://vmwaretips.com/wp/2009/02/08/sap-virtualization-week-2009/" target="_blank">SAP Virtualization Week</a> speaking on April 22nd.
+[<img class="alignright size-full wp-image-663" title="netapp-logo" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/04/netapp-logo.jpg" alt="" width="85" height="96" />](https://www.vmwaretips.com/wp/wp-content/uploads/2009/04/netapp-logo.jpg)I was invited by VMware to attend this event, not only as a customer but also as a member of the media. My plan is to cover the event complete with video and then post this to the VMwareTips.com website. Special thanks to <a href="http://www.netapp.com" target="_blank">NetApp</a> for covering my travel and lodging, luckily for me I will be in Palo Alto that week for <a href="https://www.vmwaretips.com/wp/2009/02/08/sap-virtualization-week-2009/" target="_blank">SAP Virtualization Week</a> speaking on April 22nd.
 
 This leaves another sponsorship opportunity available. Because I plan on covering the event with video and also plan on doing some video interviews, I would like to purchase a Camcorder with extra batteries and accessories.
 

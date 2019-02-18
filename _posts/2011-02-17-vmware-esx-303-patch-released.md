@@ -4,7 +4,7 @@ title: VMware ESX 3.0.3 Patch Released
 date: 2011-02-17T00:26:55+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1286
+guid: https://www.vmwaretips.com/wp/?p=1286
 permalink: /2011/02/17/vmware-esx-303-patch-released/
 redirect_from: /wp/2011/02/17/vmware-esx-303-patch-released/
 ratings_users:

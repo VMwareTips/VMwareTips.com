@@ -4,7 +4,7 @@ title: Have a Question? Ask the Expert vBloggers!
 date: 2011-07-27T22:41:01+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1412
+guid: https://www.vmwaretips.com/wp/?p=1412
 permalink: /2011/07/27/have-a-question-ask-the-expert-vbloggers/
 redirect_from: /wp/2011/07/27/have-a-question-ask-the-expert-vbloggers/
 ratings_users:

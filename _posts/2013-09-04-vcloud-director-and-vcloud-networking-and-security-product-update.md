@@ -4,7 +4,7 @@ title: vCloud Director and vCloud Networking and Security Product Update
 date: 2013-09-04T09:43:22+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=2159
+guid: https://www.vmwaretips.com/wp/?p=2159
 permalink: /2013/09/04/vcloud-director-and-vcloud-networking-and-security-product-update/
 redirect_from: /wp/2013/09/04/vcloud-director-and-vcloud-networking-and-security-product-update/
 ratings_users:

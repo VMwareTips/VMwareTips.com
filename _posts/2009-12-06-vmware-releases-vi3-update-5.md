@@ -4,7 +4,7 @@ title: VMware Releases VI3 Update 5
 date: 2009-12-06T11:43:29+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1090
+guid: https://www.vmwaretips.com/wp/?p=1090
 permalink: /2009/12/06/vmware-releases-vi3-update-5/
 redirect_from: /wp/2009/12/06/vmware-releases-vi3-update-5/
 aktt_notify_twitter:

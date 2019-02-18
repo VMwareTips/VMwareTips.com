@@ -4,7 +4,7 @@ title: 'Like Veeam FastSCP? Get Veeam Backup for 50% Off!'
 date: 2009-04-07T07:25:06+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=683
+guid: https://www.vmwaretips.com/wp/?p=683
 permalink: /2009/04/07/like-veeam-fastscp-get-veeam-backup-for-50-off/
 redirect_from: /wp/2009/04/07/like-veeam-fastscp-get-veeam-backup-for-50-off/
 aktt_notify_twitter:

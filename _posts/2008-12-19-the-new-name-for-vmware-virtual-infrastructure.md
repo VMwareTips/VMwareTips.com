@@ -4,7 +4,7 @@ title: The New Name for VMware Virtual Infrastructure
 date: 2008-12-19T15:53:37+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=397
+guid: https://www.vmwaretips.com/wp/?p=397
 permalink: /2008/12/19/the-new-name-for-vmware-virtual-infrastructure/
 redirect_from: /wp/2008/12/19/the-new-name-for-vmware-virtual-infrastructure/
 ratings_users:

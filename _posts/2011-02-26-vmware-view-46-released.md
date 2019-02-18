@@ -4,7 +4,7 @@ title: VMware View 4.6 Released
 date: 2011-02-26T11:00:44+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1295
+guid: https://www.vmwaretips.com/wp/?p=1295
 permalink: /2011/02/26/vmware-view-46-released/
 redirect_from: /wp/2011/02/26/vmware-view-46-released/
 ratings_users:

@@ -4,7 +4,7 @@ title: USB On Your Virtual Machine
 date: 2009-01-24T13:01:08+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=510
+guid: https://www.vmwaretips.com/wp/?p=510
 permalink: /2009/01/24/usb-on-your-virtual-machine/
 redirect_from: /wp/2009/01/24/usb-on-your-virtual-machine/
 aktt_notify_twitter:

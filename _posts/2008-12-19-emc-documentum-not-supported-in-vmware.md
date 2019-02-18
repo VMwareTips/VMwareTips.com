@@ -4,7 +4,7 @@ title: EMC Documentum not supported in VMware
 date: 2008-12-19T16:54:12+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=403
+guid: https://www.vmwaretips.com/wp/?p=403
 permalink: /2008/12/19/emc-documentum-not-supported-in-vmware/
 redirect_from: /wp/2008/12/19/emc-documentum-not-supported-in-vmware/
 ratings_users:

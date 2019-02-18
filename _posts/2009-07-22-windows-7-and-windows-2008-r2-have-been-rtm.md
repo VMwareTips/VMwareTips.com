@@ -4,7 +4,7 @@ title: Windows 7 and Windows 2008 R2 have been RTM
 date: 2009-07-22T14:17:10+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=919
+guid: https://www.vmwaretips.com/wp/?p=919
 permalink: /2009/07/22/windows-7-and-windows-2008-r2-have-been-rtm/
 redirect_from: /wp/2009/07/22/windows-7-and-windows-2008-r2-have-been-rtm/
 aktt_notify_twitter:

@@ -4,7 +4,7 @@ title: 'VMworld 2015 &#8211; Session Voting Now Open!'
 date: 2015-05-14T10:16:32+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=2677
+guid: https://www.vmwaretips.com/wp/?p=2677
 permalink: /2015/05/14/vmworld-2015-session-voting-now-open/
 redirect_from: /wp/2015/05/14/vmworld-2015-session-voting-now-open/
 ratings_users:
@@ -48,4 +48,4 @@ So please, vote early and vote often! :)   <a href="http://www.vmworld.com/voti
 
 Need help voting? Check out <a href="https://www.youtube.com/watch?v=B_4y5HmyOqQ" target="_blank">this video</a> to see how easy it is!
 
-<a href="https://www.youtube.com/watch?v=B_4y5HmyOqQ" target="_new"><img src="http://www.vmwaretips.com/wp/wp-content/uploads/2015/05/2015voting.JPG" alt="" width="480" /></a>
+<a href="https://www.youtube.com/watch?v=B_4y5HmyOqQ" target="_new"><img src="https://www.vmwaretips.com/wp/wp-content/uploads/2015/05/2015voting.JPG" alt="" width="480" /></a>

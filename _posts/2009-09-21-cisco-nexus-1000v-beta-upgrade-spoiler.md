@@ -4,7 +4,7 @@ title: Cisco Nexus 1000V Beta (Upgrade Spoiler!)
 date: 2009-09-21T23:38:07+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1031
+guid: https://www.vmwaretips.com/wp/?p=1031
 permalink: /2009/09/21/cisco-nexus-1000v-beta-upgrade-spoiler/
 redirect_from: /wp/2009/09/21/cisco-nexus-1000v-beta-upgrade-spoiler/
 aktt_notify_twitter:

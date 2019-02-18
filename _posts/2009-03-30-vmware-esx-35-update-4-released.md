@@ -4,7 +4,7 @@ title: VMware ESX 3.5 Update 4 Released
 date: 2009-03-30T23:58:02+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=656
+guid: https://www.vmwaretips.com/wp/?p=656
 permalink: /2009/03/30/vmware-esx-35-update-4-released/
 redirect_from: /wp/2009/03/30/vmware-esx-35-update-4-released/
 aktt_notify_twitter:
@@ -29,7 +29,7 @@ tags:
   - update
   - vcenter
 ---
-<span style="color: #000000;">VMware has released the latest update to its ESX(i) 3.5 flagship product, <em>Update 4</em>.  It is strongly recommended that you upgrade to <a href="http://vmwaretips.com/wp/2009/02/27/vmware-vcenter-25-u4-released/">VMware vCenter 2.5 Update 4</a> prior to upgrading your ESX hosts.  Updates such as this one typically include a number of system improvements and also all of the patches available in-between it and the previous update available. </span><span style="color: #000000;">Numerous driver additions and updates have been added to this update roll-up, including;</span>
+<span style="color: #000000;">VMware has released the latest update to its ESX(i) 3.5 flagship product, <em>Update 4</em>.  It is strongly recommended that you upgrade to <a href="https://www.vmwaretips.com/wp/2009/02/27/vmware-vcenter-25-u4-released/">VMware vCenter 2.5 Update 4</a> prior to upgrading your ESX hosts.  Updates such as this one typically include a number of system improvements and also all of the patches available in-between it and the previous update available. </span><span style="color: #000000;">Numerous driver additions and updates have been added to this update roll-up, including;</span>
 
 
 

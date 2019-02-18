@@ -4,7 +4,7 @@ title: 'NetApp &#038; VMware Webcast: Protect Your Virtualized Environment'
 date: 2009-02-05T09:20:28+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=540
+guid: https://www.vmwaretips.com/wp/?p=540
 permalink: /2009/02/05/netapp-vmware-webcast-protect-your-virtualized-environment/
 redirect_from: /wp/2009/02/05/netapp-vmware-webcast-protect-your-virtualized-environment/
 aktt_notify_twitter:

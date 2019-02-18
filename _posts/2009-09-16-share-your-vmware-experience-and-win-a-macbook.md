@@ -4,7 +4,7 @@ title: Share Your VMware Experience and Win a MacBook
 date: 2009-09-16T16:57:37+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1024
+guid: https://www.vmwaretips.com/wp/?p=1024
 permalink: /2009/09/16/share-your-vmware-experience-and-win-a-macbook/
 redirect_from: /wp/2009/09/16/share-your-vmware-experience-and-win-a-macbook/
 aktt_notify_twitter:
@@ -26,7 +26,7 @@ tags:
   - macbook
   - VMware
 ---
-<img class="alignright size-full wp-image-1025" style="border: 0pt none; margin: 3px;" title="apple-macbook-pro" src="http://vmwaretips.com/wp/wp-content/uploads/2009/09/apple-macbook-pro.jpg" alt="" width="150" srcset="http://vmwaretips.com/wp/wp-content/uploads/2009/09/apple-macbook-pro.jpg 378w, http://vmwaretips.com/wp/wp-content/uploads/2009/09/apple-macbook-pro-300x281.jpg 300w" sizes="(max-width: 378px) 100vw, 378px" />It&#8217;s really that simple, <a href="http://app.connect.vmware.com/e/er.aspx?s=524&lid=7334&elq=384e56482cc74d1eb852b2830f67df9b" target="_blank">sign-up</a> for the VMware Customer Program between now and September 30th, 2009, and you will be entered into a raffle to win a MacBook!  The winner will be announced on the Customer Program web-site the week of October 5th, 2009.
+<img class="alignright size-full wp-image-1025" style="border: 0pt none; margin: 3px;" title="apple-macbook-pro" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/09/apple-macbook-pro.jpg" alt="" width="150" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2009/09/apple-macbook-pro.jpg 378w, https://www.vmwaretips.com/wp/wp-content/uploads/2009/09/apple-macbook-pro-300x281.jpg 300w" sizes="(max-width: 378px) 100vw, 378px" />It&#8217;s really that simple, <a href="http://app.connect.vmware.com/e/er.aspx?s=524&lid=7334&elq=384e56482cc74d1eb852b2830f67df9b" target="_blank">sign-up</a> for the VMware Customer Program between now and September 30th, 2009, and you will be entered into a raffle to win a MacBook!  The winner will be announced on the Customer Program web-site the week of October 5th, 2009.
 
 The VMware® Customer Program is looking for customers who are willing to share their VMware experience with their peers. If you are interested in becoming a reference for other customers or prospects, please visit the <a href="http://app.connect.vmware.com/e/er.aspx?s=524&lid=7334&elq=384e56482cc74d1eb852b2830f67df9b" target="_blank">Customer Program</a> site for information on how to join.
 

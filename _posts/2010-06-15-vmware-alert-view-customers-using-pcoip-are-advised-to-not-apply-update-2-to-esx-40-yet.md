@@ -4,7 +4,7 @@ title: 'VMware ALERT: View customers using PCoIP are advised to NOT apply Update
 date: 2010-06-15T15:50:48+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1194
+guid: https://www.vmwaretips.com/wp/?p=1194
 permalink: /2010/06/15/vmware-alert-view-customers-using-pcoip-are-advised-to-not-apply-update-2-to-esx-40-yet/
 redirect_from: /wp/2010/06/15/vmware-alert-view-customers-using-pcoip-are-advised-to-not-apply-update-2-to-esx-40-yet/
 aktt_notify_twitter:

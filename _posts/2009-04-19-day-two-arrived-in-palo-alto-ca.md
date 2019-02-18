@@ -4,7 +4,7 @@ title: 'Day Two &#8211; Arrived in Palo Alto, CA'
 date: 2009-04-19T23:26:27+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=733
+guid: https://www.vmwaretips.com/wp/?p=733
 permalink: /2009/04/19/day-two-arrived-in-palo-alto-ca/
 redirect_from: /wp/2009/04/19/day-two-arrived-in-palo-alto-ca/
 aktt_notify_twitter:
@@ -32,4 +32,4 @@ Our trip then continued into Palo Alto, the a beautiful drive on CA State Route 
 
 Well, it is about midnight here and the start of SAP Virtualization Week is tomorrow morning.  Time to get a good night sleep and start my week. Only 32 hours until the launch!
 
-Oh yeah, don&#8217;t forget to <a href="http://www.vmwaretips.com/contest/register.php" target="_blank">REGISTER TO WIN</a> a Free TrainSignal VMware ESX Training Kit &#8212; Winners will be announced on Tuesday!
+Oh yeah, don&#8217;t forget to <a href="https://www.vmwaretips.com/contest/register.php" target="_blank">REGISTER TO WIN</a> a Free TrainSignal VMware ESX Training Kit &#8212; Winners will be announced on Tuesday!

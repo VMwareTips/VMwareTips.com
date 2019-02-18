@@ -4,7 +4,7 @@ title: Get Your Read On
 date: 2011-02-21T11:44:34+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1288
+guid: https://www.vmwaretips.com/wp/?p=1288
 permalink: /2011/02/21/get-your-read-on/
 redirect_from: /wp/2011/02/21/get-your-read-on/
 ratings_users:

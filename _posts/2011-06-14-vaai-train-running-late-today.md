@@ -4,7 +4,7 @@ title: VAAI Train Running Late Today
 date: 2011-06-14T17:28:32+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1353
+guid: https://www.vmwaretips.com/wp/?p=1353
 permalink: /2011/06/14/vaai-train-running-late-today/
 redirect_from: /wp/2011/06/14/vaai-train-running-late-today/
 ratings_users:

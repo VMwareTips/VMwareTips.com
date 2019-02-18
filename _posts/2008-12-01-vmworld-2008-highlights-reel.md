@@ -4,7 +4,7 @@ title: 'VMworld 2008 &#8211; Highlights Reel'
 date: 2008-12-01T17:11:04+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=314
+guid: https://www.vmwaretips.com/wp/?p=314
 permalink: /2008/12/01/vmworld-2008-highlights-reel/
 redirect_from: /wp/2008/12/01/vmworld-2008-highlights-reel/
 ratings_users:

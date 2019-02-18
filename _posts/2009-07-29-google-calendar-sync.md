@@ -4,7 +4,7 @@ title: Google Calendar Sync
 date: 2009-07-29T06:07:52+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=943
+guid: https://www.vmwaretips.com/wp/?p=943
 permalink: /2009/07/29/google-calendar-sync/
 redirect_from: /wp/2009/07/29/google-calendar-sync/
 aktt_notify_twitter:
@@ -30,7 +30,7 @@ tags:
   - Microsoft
   - outlook
 ---
-<a href="http://www.google.com/support/calendar/bin/answer.py?answer=98563" target="_blank"><img class="alignright size-medium wp-image-944" src="http://vmwaretips.com/wp/wp-content/uploads/2009/07/gsync-284x300.png" alt="" width="284" height="300" srcset="http://vmwaretips.com/wp/wp-content/uploads/2009/07/gsync-284x300.png 284w, http://vmwaretips.com/wp/wp-content/uploads/2009/07/gsync.png 506w" sizes="(max-width: 284px) 100vw, 284px" /></a>I know this isn&#8217;t related to Virtualization, but it is still pretty cool.  At the office I use Outlook, which is connected to an Exchange 2007 server.  I have my entire calendar live and up to date in that thing and one problem I&#8217;ve always been faced with is accessing Exchange via Outlook on my Home PC.  Due to security limitations I need to use Outlook Web Access (OWA) from outside our firewall, however I still use Outlook at home for access to my other IMAP accounts and Hotmail &#8211; but if I ever want to look at my calendar, I need to sign into OWA&#8230;it&#8217;s a PITA if you ask me.
+<a href="http://www.google.com/support/calendar/bin/answer.py?answer=98563" target="_blank"><img class="alignright size-medium wp-image-944" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/07/gsync-284x300.png" alt="" width="284" height="300" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2009/07/gsync-284x300.png 284w, https://www.vmwaretips.com/wp/wp-content/uploads/2009/07/gsync.png 506w" sizes="(max-width: 284px) 100vw, 284px" /></a>I know this isn&#8217;t related to Virtualization, but it is still pretty cool.  At the office I use Outlook, which is connected to an Exchange 2007 server.  I have my entire calendar live and up to date in that thing and one problem I&#8217;ve always been faced with is accessing Exchange via Outlook on my Home PC.  Due to security limitations I need to use Outlook Web Access (OWA) from outside our firewall, however I still use Outlook at home for access to my other IMAP accounts and Hotmail &#8211; but if I ever want to look at my calendar, I need to sign into OWA&#8230;it&#8217;s a PITA if you ask me.
 
 Well, Google released a <a href="http://www.google.com/support/calendar/bin/answer.py?answer=98563" target="_blank">Calendar Sync tool</a> that syncs your Outlook calendar to Google Calendar. I decided to start using this because my homepage is iGoogle, thus I can see my calendar from home right on my homepage without having to log-in. 
 

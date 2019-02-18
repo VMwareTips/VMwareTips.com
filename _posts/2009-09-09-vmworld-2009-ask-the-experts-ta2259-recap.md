@@ -4,7 +4,7 @@ title: 'VMworld 2009 &#8211; Ask the Experts (TA2259) Recap'
 date: 2009-09-09T21:05:22+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1005
+guid: https://www.vmwaretips.com/wp/?p=1005
 permalink: /2009/09/09/vmworld-2009-ask-the-experts-ta2259-recap/
 redirect_from: /wp/2009/09/09/vmworld-2009-ask-the-experts-ta2259-recap/
 aktt_notify_twitter:

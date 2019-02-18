@@ -4,7 +4,7 @@ title: VMware vCenter 2.5 U4 Released
 date: 2009-02-27T07:09:57+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=628
+guid: https://www.vmwaretips.com/wp/?p=628
 permalink: /2009/02/27/vmware-vcenter-25-u4-released/
 redirect_from: /wp/2009/02/27/vmware-vcenter-25-u4-released/
 aktt_notify_twitter:
@@ -36,7 +36,7 @@ A few days ago VMware released vCenter 2.5 U4, the latest installment of their v
 ** VirtualCenter now supports customization of Windows Server 2008 guest operating systems.
   * **Performance Overview Charts
   
-** VirtualCenter 2.5 Update 4 introduces the Performance Overview plug-in, which provides a single view of key performance metrics for CPU, memory, disk, and network without having to navigate through multiple charts. The aggregated charts show high-level summaries of resource distribution. To install the Performance Overview plug-in, see <a href="http://vmwaretips.com/wp/2009/02/27/installing-the-performance-overview-plug-in-in-virtualcenter-25-update-4" target="_self">Installing the Performance Overview Plug-In in VirtualCenter 2.5 Update 4</a> (KB 1008296)
+** VirtualCenter 2.5 Update 4 introduces the Performance Overview plug-in, which provides a single view of key performance metrics for CPU, memory, disk, and network without having to navigate through multiple charts. The aggregated charts show high-level summaries of resource distribution. To install the Performance Overview plug-in, see <a href="https://www.vmwaretips.com/wp/2009/02/27/installing-the-performance-overview-plug-in-in-virtualcenter-25-update-4" target="_self">Installing the Performance Overview Plug-In in VirtualCenter 2.5 Update 4</a> (KB 1008296)
 
 One of the biggest updates that effects me personally is the update to Storage VMotion;
 

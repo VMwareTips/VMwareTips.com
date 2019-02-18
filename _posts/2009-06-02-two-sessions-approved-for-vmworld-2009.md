@@ -4,7 +4,7 @@ title: Two Sessions Approved for VMworld 2009
 date: 2009-06-02T22:35:49+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=851
+guid: https://www.vmwaretips.com/wp/?p=851
 permalink: /2009/06/02/two-sessions-approved-for-vmworld-2009/
 redirect_from: /wp/2009/06/02/two-sessions-approved-for-vmworld-2009/
 aktt_notify_twitter:

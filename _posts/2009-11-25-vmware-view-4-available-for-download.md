@@ -4,7 +4,7 @@ title: VMware View 4 Available for Download
 date: 2009-11-25T11:37:25+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1087
+guid: https://www.vmwaretips.com/wp/?p=1087
 permalink: /2009/11/25/vmware-view-4-available-for-download/
 redirect_from: /wp/2009/11/25/vmware-view-4-available-for-download/
 aktt_notify_twitter:
@@ -30,7 +30,7 @@ tags:
 ---
 For my last post before leaving for the holiday I&#8217;d like to announce that VMware View 4 is available for download.
 
-One prerequisite is that you&#8217;re running on <a href="http://vmwaretips.com/wp/2009/11/25/vmware-vsphere-40-update-1-released/" target="_blank">VMware vSphere 4.0 Update 1</a> or at least Update 3 of the VI 3.5 Suite.
+One prerequisite is that you&#8217;re running on <a href="https://www.vmwaretips.com/wp/2009/11/25/vmware-vsphere-40-update-1-released/" target="_blank">VMware vSphere 4.0 Update 1</a> or at least Update 3 of the VI 3.5 Suite.
 
 The most anticipated feature (IMO) with View 4 is full PCoIP support, which brings a full rich desktop experience regardless of the connection type (LAN or WAN). This truly means that virtualized desktops are a viable option for almost any environment now.  Another amazing feature of PCoIP is the ability to support up to four monitors so now even my desktop could be a virtual one.
 

@@ -4,7 +4,7 @@ title: vMotion over Distance support with EMC VPLEX Metro
 date: 2010-06-08T07:52:13+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1176
+guid: https://www.vmwaretips.com/wp/?p=1176
 permalink: /2010/06/08/vmotion-over-distance-support-with-emc-vplex-metro/
 redirect_from: /wp/2010/06/08/vmotion-over-distance-support-with-emc-vplex-metro/
 aktt_notify_twitter:

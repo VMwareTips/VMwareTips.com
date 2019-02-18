@@ -4,7 +4,7 @@ title: Ruby vSphere Console (RVC)
 date: 2011-04-30T09:56:20+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1330
+guid: https://www.vmwaretips.com/wp/?p=1330
 permalink: /2011/04/30/ruby-vsphere-console-rvc/
 redirect_from: /wp/2011/04/30/ruby-vsphere-console-rvc/
 ratings_users:
@@ -25,7 +25,7 @@ tags:
   - vsphere client
 ---
 <p style="text-align: center;">
-  <a rel="attachment wp-att-1331" href="http://vmwaretips.com/wp/wp-content/uploads/2011/04/rvc.png"><img class="size-medium wp-image-1331 aligncenter" style="margin-top: 3px; margin-bottom: 3px;" title="rvc" src="http://vmwaretips.com/wp/wp-content/uploads/2011/04/rvc-300x189.png" alt="" width="300" height="189" srcset="http://vmwaretips.com/wp/wp-content/uploads/2011/04/rvc-300x189.png 300w, http://vmwaretips.com/wp/wp-content/uploads/2011/04/rvc.png 761w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a rel="attachment wp-att-1331" href="https://www.vmwaretips.com/wp/wp-content/uploads/2011/04/rvc.png"><img class="size-medium wp-image-1331 aligncenter" style="margin-top: 3px; margin-bottom: 3px;" title="rvc" src="https://www.vmwaretips.com/wp/wp-content/uploads/2011/04/rvc-300x189.png" alt="" width="300" height="189" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2011/04/rvc-300x189.png 300w, https://www.vmwaretips.com/wp/wp-content/uploads/2011/04/rvc.png 761w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 </p>
 
 <p style="text-align: left;">

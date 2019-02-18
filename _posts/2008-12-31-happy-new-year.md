@@ -4,7 +4,7 @@ title: Happy New Year
 date: 2008-12-31T13:43:44+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=442
+guid: https://www.vmwaretips.com/wp/?p=442
 permalink: /2008/12/31/happy-new-year/
 redirect_from: /wp/2008/12/31/happy-new-year/
 aktt_notify_twitter:

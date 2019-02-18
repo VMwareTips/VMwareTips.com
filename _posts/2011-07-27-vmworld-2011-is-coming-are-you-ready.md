@@ -4,7 +4,7 @@ title: 'VMworld 2011 Is Coming&#8230; Are You Ready?'
 date: 2011-07-27T22:31:17+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1410
+guid: https://www.vmwaretips.com/wp/?p=1410
 permalink: /2011/07/27/vmworld-2011-is-coming-are-you-ready/
 redirect_from: /wp/2011/07/27/vmworld-2011-is-coming-are-you-ready/
 ratings_users:

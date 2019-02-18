@@ -4,7 +4,7 @@ title: My VMware VCDX Defense Experience
 date: 2009-09-05T17:14:58+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=997
+guid: https://www.vmwaretips.com/wp/?p=997
 permalink: /2009/09/05/my-vmware-vcdx-defense-experience/
 redirect_from: /wp/2009/09/05/my-vmware-vcdx-defense-experience/
 aktt_notify_twitter:

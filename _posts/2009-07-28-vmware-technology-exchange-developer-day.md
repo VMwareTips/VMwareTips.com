@@ -4,7 +4,7 @@ title: VMware Technology Exchange Developer Day
 date: 2009-07-28T08:10:30+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=940
+guid: https://www.vmwaretips.com/wp/?p=940
 permalink: /2009/07/28/vmware-technology-exchange-developer-day/
 redirect_from: /wp/2009/07/28/vmware-technology-exchange-developer-day/
 aktt_notify_twitter:
@@ -70,5 +70,5 @@ In addition to great content, there will be ample opportunity to network with VM
 Registration is $249/attendee. <a href="/community/developer/techexchange/register" target="_blank"><span style="color: #3366cc;">Register Now!</span></a>
 
 <p style="TEXT-ALIGN: center">
-  <a href="http://vmwaretips.com/community/developer/techexchange/register" target="_blank"><img class="aligncenter" src="http://communities.vmware.com/static/community/images/te-cta-image.jpg" alt="" width="480" /></a>
+  <a href="https://www.vmwaretips.com/community/developer/techexchange/register" target="_blank"><img class="aligncenter" src="http://communities.vmware.com/static/community/images/te-cta-image.jpg" alt="" width="480" /></a>
 </p>

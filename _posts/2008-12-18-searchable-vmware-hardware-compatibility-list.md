@@ -4,7 +4,7 @@ title: Searchable VMware Hardware Compatibility List
 date: 2008-12-18T11:51:00+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=384
+guid: https://www.vmwaretips.com/wp/?p=384
 permalink: /2008/12/18/searchable-vmware-hardware-compatibility-list/
 redirect_from: /wp/2008/12/18/searchable-vmware-hardware-compatibility-list/
 ratings_users:

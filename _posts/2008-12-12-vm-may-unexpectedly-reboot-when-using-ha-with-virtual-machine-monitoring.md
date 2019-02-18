@@ -4,7 +4,7 @@ title: VM may unexpectedly reboot when using HA with Virtual Machine Monitoring
 date: 2008-12-12T14:08:32+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=348
+guid: https://www.vmwaretips.com/wp/?p=348
 permalink: /2008/12/12/vm-may-unexpectedly-reboot-when-using-ha-with-virtual-machine-monitoring/
 redirect_from: /wp/2008/12/12/vm-may-unexpectedly-reboot-when-using-ha-with-virtual-machine-monitoring/
 ratings_users:
@@ -133,7 +133,7 @@ As mentioned on <a href="http://blog.scottlowe.org/2008/12/12/vmware-ha-problem-
             
             <li>
               <div>
-                Restart the management agents for this change to take effect.  See <a href="http://vmwaretips.com/wp/2008/12/12/restarting-the-management-agents-on-an-esx-server/" target="_blank">Restarting the Management agents on an ESX Server</a>
+                Restart the management agents for this change to take effect.  See <a href="https://www.vmwaretips.com/wp/2008/12/12/restarting-the-management-agents-on-an-esx-server/" target="_blank">Restarting the Management agents on an ESX Server</a>
               </div>
             </li>
             

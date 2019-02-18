@@ -4,7 +4,7 @@ title: Sun VirtualBox 2.1.0
 date: 2008-12-22T09:19:33+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=405
+guid: https://www.vmwaretips.com/wp/?p=405
 permalink: /2008/12/22/sun-virtualbox-210/
 redirect_from: /wp/2008/12/22/sun-virtualbox-210/
 ratings_users:
@@ -22,7 +22,7 @@ tags:
   - sun
   - virtualbox
 ---
-For those of you that have read my prior post on <a href="http://vmwaretips.com/wp/2008/11/02/product-review-sun-virtualbox/" target="_blank">Sun VirtualBox</a>, you would already know that I think it is a viable alternative to VMware Server.  Although I do not feel it is strong enough to contend with VMware Workstation, I feel it definietely sits at the top of the free type-2 based hypervisor offerings.  The best thing about it is that it has a build for pretty much every operating system (including Mac).
+For those of you that have read my prior post on <a href="https://www.vmwaretips.com/wp/2008/11/02/product-review-sun-virtualbox/" target="_blank">Sun VirtualBox</a>, you would already know that I think it is a viable alternative to VMware Server.  Although I do not feel it is strong enough to contend with VMware Workstation, I feel it definietely sits at the top of the free type-2 based hypervisor offerings.  The best thing about it is that it has a build for pretty much every operating system (including Mac).
 
 
 

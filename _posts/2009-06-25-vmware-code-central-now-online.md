@@ -4,7 +4,7 @@ title: 'VMware Code Central &#8211; Now Online'
 date: 2009-06-25T17:18:53+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=888
+guid: https://www.vmwaretips.com/wp/?p=888
 permalink: /2009/06/25/vmware-code-central-now-online/
 redirect_from: /wp/2009/06/25/vmware-code-central-now-online/
 aktt_notify_twitter:
@@ -30,7 +30,7 @@ tags:
   - vsphere
 ---
 <p style="text-align: center;">
-  <a href="http://communities.vmware.com/community/developer/codecentral" target="_blank"><img class="size-full wp-image-889 aligncenter" style="border: 1px solid black;" src="http://vmwaretips.com/wp/wp-content/uploads/2009/06/codecentral.png" alt="" width="440" height="284" srcset="http://vmwaretips.com/wp/wp-content/uploads/2009/06/codecentral.png 440w, http://vmwaretips.com/wp/wp-content/uploads/2009/06/codecentral-300x193.png 300w" sizes="(max-width: 440px) 100vw, 440px" /></a>
+  <a href="http://communities.vmware.com/community/developer/codecentral" target="_blank"><img class="size-full wp-image-889 aligncenter" style="border: 1px solid black;" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/06/codecentral.png" alt="" width="440" height="284" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2009/06/codecentral.png 440w, https://www.vmwaretips.com/wp/wp-content/uploads/2009/06/codecentral-300x193.png 300w" sizes="(max-width: 440px) 100vw, 440px" /></a>
 </p>
 
 I&#8217;m a couple days behind on this, been extremely busy at work getting ready to go live with our SAP Deployment on July 2nd.  Anyways, enough crying to you about my busy schedule.   Nava Davuluri wanted me to help get the word out about the new <a href="http://communities.vmware.com/community/developer/codecentral" target="_blank">VMware Sample Code</a> website (titled Code Central).

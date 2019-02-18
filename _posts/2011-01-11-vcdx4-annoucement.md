@@ -4,7 +4,7 @@ title: VCDX4 Annoucement
 date: 2011-01-11T19:00:46+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1256
+guid: https://www.vmwaretips.com/wp/?p=1256
 permalink: /2011/01/11/vcdx4-annoucement/
 redirect_from: /wp/2011/01/11/vcdx4-annoucement/
 ratings_users:

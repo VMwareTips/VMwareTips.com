@@ -4,7 +4,7 @@ title: Join Me for a NetApp TalkTech on Virtualizing SQL
 date: 2009-05-21T17:16:38+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=804
+guid: https://www.vmwaretips.com/wp/?p=804
 permalink: /2009/05/21/join-me-for-a-netapp-talktech-on-virtualizing-sql/
 redirect_from: /wp/2009/05/21/join-me-for-a-netapp-talktech-on-virtualizing-sql/
 aktt_notify_twitter:
@@ -29,7 +29,7 @@ tags:
   - VMware
 ---
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-805" title="techtalk" src="http://vmwaretips.com/wp/wp-content/uploads/2009/05/techtalk.jpg" alt="" width="440" height="80" srcset="http://vmwaretips.com/wp/wp-content/uploads/2009/05/techtalk.jpg 440w, http://vmwaretips.com/wp/wp-content/uploads/2009/05/techtalk-300x54.jpg 300w" sizes="(max-width: 440px) 100vw, 440px" />
+  <img class="aligncenter size-full wp-image-805" title="techtalk" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/05/techtalk.jpg" alt="" width="440" height="80" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2009/05/techtalk.jpg 440w, https://www.vmwaretips.com/wp/wp-content/uploads/2009/05/techtalk-300x54.jpg 300w" sizes="(max-width: 440px) 100vw, 440px" />
 </p>
 
 Join me on Thursday, May 28, 2009 at 11:00am Pacific Time for a discussion on Virtualizing SQL on VMware with Confidence.

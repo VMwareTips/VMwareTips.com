@@ -4,7 +4,7 @@ title: San Diego VMUG Meeting Tomorrow
 date: 2009-02-02T16:10:01+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=519
+guid: https://www.vmwaretips.com/wp/?p=519
 permalink: /2009/02/02/san-diego-vmug-meeting-tomorrow/
 redirect_from: /wp/2009/02/02/san-diego-vmug-meeting-tomorrow/
 aktt_notify_twitter:

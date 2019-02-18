@@ -4,7 +4,7 @@ title: Speaking at NetApp/VMware Event
 date: 2008-11-12T16:49:13+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=278
+guid: https://www.vmwaretips.com/wp/?p=278
 permalink: /2008/11/12/speaking-at-netappvmware-event/
 redirect_from: /wp/2008/11/12/speaking-at-netappvmware-event/
 ratings_users:
@@ -33,6 +33,6 @@ You can signup at this website; <a href="http://communications.netapp.com/p/Netw
 
 After events end I will plan on publishing my presentation on here.  Please check all of my other conference notices because I will be uploading those presentations shortly.
 
-[CLICK HERE TO DOWNLOAD](http://vmwaretips.com/wp/wp-content/uploads/2008/11/nov13-go_green-sddpc.pdf) [[SDDPC-VMware-NetApp Go Green PDF](http://vmwaretips.com/wp/wp-content/uploads/2008/11/nov13-go_green-sddpc.pdf)
+[CLICK HERE TO DOWNLOAD](https://www.vmwaretips.com/wp/wp-content/uploads/2008/11/nov13-go_green-sddpc.pdf) [[SDDPC-VMware-NetApp Go Green PDF](https://www.vmwaretips.com/wp/wp-content/uploads/2008/11/nov13-go_green-sddpc.pdf)
   
-](http://vmwaretips.com/wp/wp-content/uploads/2008/11/nov13-go_green-sddpc.pdf)
+](https://www.vmwaretips.com/wp/wp-content/uploads/2008/11/nov13-go_green-sddpc.pdf)

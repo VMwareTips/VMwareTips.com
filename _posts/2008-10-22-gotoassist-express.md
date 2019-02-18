@@ -4,7 +4,7 @@ title: GoToAssist Express
 date: 2008-10-22T17:11:01+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=156
+guid: https://www.vmwaretips.com/wp/?p=156
 permalink: /2008/10/22/gotoassist-express/
 redirect_from: /wp/2008/10/22/gotoassist-express/
 ratings_users:

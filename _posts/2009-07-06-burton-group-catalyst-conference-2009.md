@@ -4,7 +4,7 @@ title: 'Burton Group &#8211; Catalyst Conference 2009'
 date: 2009-07-06T17:28:14+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=899
+guid: https://www.vmwaretips.com/wp/?p=899
 permalink: /2009/07/06/burton-group-catalyst-conference-2009/
 redirect_from: /wp/2009/07/06/burton-group-catalyst-conference-2009/
 aktt_notify_twitter:
@@ -25,7 +25,7 @@ tags:
   - burton group
   - catalyst conference
 ---
-[<img class="alignright size-full wp-image-900" src="http://vmwaretips.com/wp/wp-content/uploads/2009/07/burton-catalyst.jpg" alt="" width="235" height="196" />](http://www.catalyst.burtongroup.com/NA09/)Join me July 27th through July 31st in my hometown of San Diego, CA for the Burton Group Catalyst Conference.  I will be speaking at two sessions, both on Thursday, July 30th.
+[<img class="alignright size-full wp-image-900" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/07/burton-catalyst.jpg" alt="" width="235" height="196" />](http://www.catalyst.burtongroup.com/NA09/)Join me July 27th through July 31st in my hometown of San Diego, CA for the Burton Group Catalyst Conference.  I will be speaking at two sessions, both on Thursday, July 30th.
 
 <span style="text-decoration: underline;">Simplifying Storage for Virtualization</span>
   

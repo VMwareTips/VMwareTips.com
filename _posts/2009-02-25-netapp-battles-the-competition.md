@@ -4,7 +4,7 @@ title: NetApp Battles the Competition
 date: 2009-02-25T15:36:23+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=605
+guid: https://www.vmwaretips.com/wp/?p=605
 permalink: /2009/02/25/netapp-battles-the-competition/
 redirect_from: /wp/2009/02/25/netapp-battles-the-competition/
 aktt_notify_twitter:

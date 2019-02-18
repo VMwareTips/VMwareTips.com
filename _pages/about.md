@@ -4,7 +4,7 @@ title: About
 date: 2008-09-10T19:00:33+00:00
 author: Rick Scherer
 layout: single
-guid: http://vmwaretips.com/wp/?page_id=2
+guid: https://www.vmwaretips.com/wp/?page_id=2
 permalink: /about
 views:
   - 11962

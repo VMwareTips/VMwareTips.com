@@ -4,7 +4,7 @@ title: EMC Webcasts in February
 date: 2011-02-01T09:27:56+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1258
+guid: https://www.vmwaretips.com/wp/?p=1258
 permalink: /2011/02/01/emc-webcasts-in-february/
 redirect_from: /wp/2011/02/01/emc-webcasts-in-february/
 ratings_users:

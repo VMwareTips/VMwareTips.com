@@ -4,7 +4,7 @@ title: 'Issue: VMware ESX/ESXi SAN I/O Failure'
 date: 2009-01-12T22:07:25+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=459
+guid: https://www.vmwaretips.com/wp/?p=459
 permalink: /2009/01/12/issue-vmware-esxesxi-san-io-failure/
 redirect_from: /wp/2009/01/12/issue-vmware-esxesxi-san-io-failure/
 aktt_notify_twitter:
@@ -46,7 +46,7 @@ In the twitter queue today I heard a new VMware KB has been released in regards 
       <table border="0" cellspacing="0" cellpadding="0">
         <tr>
           <td class="tabbar" style="padding-right: 5px; padding-left: 10px; padding-bottom: 1px; padding-top: 2px;">
-            <strong>Symptoms</strong><br /> <strong><img src="http://vmwaretips.com/contactcenter/img/sp.gif" border="0" alt="" width="100" height="3" /></strong>
+            <strong>Symptoms</strong><br /> <strong><img src="https://www.vmwaretips.com/contactcenter/img/sp.gif" border="0" alt="" width="100" height="3" /></strong>
           </td>
           
           <td width="20" height="100%">
@@ -59,7 +59,7 @@ In the twitter queue today I heard a new VMware KB has been released in regards 
   
   <tr>
     <td class="tabbar" height="2">
-      <img src="http://vmwaretips.com/contactcenter/img/sp.gif" border="0" alt="" width="1" height="2" />
+      <img src="https://www.vmwaretips.com/contactcenter/img/sp.gif" border="0" alt="" width="1" height="2" />
     </td>
   </tr>
   
@@ -100,7 +100,7 @@ In the twitter queue today I heard a new VMware KB has been released in regards 
       <table border="0" cellspacing="0" cellpadding="0">
         <tr>
           <td class="tabbar" style="padding-right: 5px; padding-left: 10px; padding-bottom: 1px; padding-top: 2px;">
-            <strong>Resolution</strong><br /> <img src="http://vmwaretips.com/contactcenter/img/sp.gif" border="0" alt="" width="100" height="3" />
+            <strong>Resolution</strong><br /> <img src="https://www.vmwaretips.com/contactcenter/img/sp.gif" border="0" alt="" width="100" height="3" />
           </td>
           
           <td width="20" height="100%">
@@ -113,7 +113,7 @@ In the twitter queue today I heard a new VMware KB has been released in regards 
   
   <tr>
     <td class="tabbar" height="2">
-      <img src="http://vmwaretips.com/contactcenter/img/sp.gif" border="0" alt="" width="1" height="2" />
+      <img src="https://www.vmwaretips.com/contactcenter/img/sp.gif" border="0" alt="" width="1" height="2" />
     </td>
   </tr>
   

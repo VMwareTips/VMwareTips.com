@@ -4,7 +4,7 @@ title: VMware Online Virtualization Forum
 date: 2009-06-09T16:41:15+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=872
+guid: https://www.vmwaretips.com/wp/?p=872
 permalink: /2009/06/09/vmware-online-virtualization-forum/
 redirect_from: /wp/2009/06/09/vmware-online-virtualization-forum/
 aktt_notify_twitter:
@@ -31,7 +31,7 @@ Just a little note telling all of my readers to register and listen to my sessio
 
 ## Attend this free virtual event, right from your browser!
 
-<img class="alignright size-full wp-image-873" src="http://vmwaretips.com/wp/wp-content/uploads/2009/06/vmw_plaza.jpg" alt="" width="255" height="169" />VMware virtual events are highly interactive events conducted online using only a web browser. They include all of the areas that you may find at a physical event, including an exhibit hall, auditorium, resource center and networking lounge.
+<img class="alignright size-full wp-image-873" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/06/vmw_plaza.jpg" alt="" width="255" height="169" />VMware virtual events are highly interactive events conducted online using only a web browser. They include all of the areas that you may find at a physical event, including an exhibit hall, auditorium, resource center and networking lounge.
 
 Don&#8217;t miss this opportunity to learn about vSphere™ 4—The Next Generation of VMware&#8217;s market leading virtualization products!
 

@@ -4,7 +4,7 @@ title: Upgrade VMware vCenter 2.5 to 4.0 Video
 date: 2009-06-01T21:09:58+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=825
+guid: https://www.vmwaretips.com/wp/?p=825
 permalink: /2009/06/01/upgrade-vmware-vcenter-25-to-40-video/
 redirect_from: /wp/2009/06/01/upgrade-vmware-vcenter-25-to-40-video/
 aktt_notify_twitter:
@@ -35,5 +35,5 @@ During an upgrade of vCenter 2.5 to 4.0 at a customer site I decided it would be
 The most important thing is to follow the best practices, give your ODBC user db_owner privledge on the MSDB and vCenter database prior to any install or upgrade &#8211; then remove the privledge after the installer is complete.  Also make sure that IIS or any other webserver is disabled.
 
 <p style="text-align: center;">
-  <a href="http://vmwaretips.com/presentations/vc4upgrade/" target="_blank"><img class="size-full wp-image-847 aligncenter" src="http://vmwaretips.com/wp/wp-content/uploads/2009/06/upgrade_vcenter_ad.png" alt="" width="360" height="277" srcset="http://vmwaretips.com/wp/wp-content/uploads/2009/06/upgrade_vcenter_ad.png 360w, http://vmwaretips.com/wp/wp-content/uploads/2009/06/upgrade_vcenter_ad-300x230.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a>
+  <a href="https://www.vmwaretips.com/presentations/vc4upgrade/" target="_blank"><img class="size-full wp-image-847 aligncenter" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/06/upgrade_vcenter_ad.png" alt="" width="360" height="277" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2009/06/upgrade_vcenter_ad.png 360w, https://www.vmwaretips.com/wp/wp-content/uploads/2009/06/upgrade_vcenter_ad-300x230.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a>
 </p>

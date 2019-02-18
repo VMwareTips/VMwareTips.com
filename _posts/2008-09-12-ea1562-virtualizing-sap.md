@@ -4,7 +4,7 @@ title: 'EA1562 &#8211; Virtualizing SAP'
 date: 2008-09-12T08:33:51+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=9
+guid: https://www.vmwaretips.com/wp/?p=9
 permalink: /2008/09/12/ea1562-virtualizing-sap/
 redirect_from: /wp/2008/09/12/ea1562-virtualizing-sap/
 views:
@@ -41,4 +41,4 @@ Even if your not interested in the session, be sure to stop by just to say hi!
 
 
 
-[Click here to download EA1562 in PDF Format](http://vmwaretips.com/wp/wp-content/uploads/2008/11/ea1562.pdf)
+[Click here to download EA1562 in PDF Format](https://www.vmwaretips.com/wp/wp-content/uploads/2008/11/ea1562.pdf)

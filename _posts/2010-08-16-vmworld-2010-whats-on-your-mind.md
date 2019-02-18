@@ -4,7 +4,7 @@ title: 'VMworld 2010 &#8211; What&#8217;s on Your Mind?'
 date: 2010-08-16T10:31:39+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1209
+guid: https://www.vmwaretips.com/wp/?p=1209
 permalink: /2010/08/16/vmworld-2010-whats-on-your-mind/
 redirect_from: /wp/2010/08/16/vmworld-2010-whats-on-your-mind/
 aktt_notify_twitter:

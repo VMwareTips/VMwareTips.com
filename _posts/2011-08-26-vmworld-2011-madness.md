@@ -4,7 +4,7 @@ title: VMworld 2011 Madness
 date: 2011-08-26T17:11:40+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1415
+guid: https://www.vmwaretips.com/wp/?p=1415
 permalink: /2011/08/26/vmworld-2011-madness/
 redirect_from: /wp/2011/08/26/vmworld-2011-madness/
 ratings_users:

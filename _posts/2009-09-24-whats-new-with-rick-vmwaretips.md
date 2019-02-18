@@ -4,7 +4,7 @@ title: 'What&#8217;s New with Rick @ VMwareTips'
 date: 2009-09-24T23:23:34+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1036
+guid: https://www.vmwaretips.com/wp/?p=1036
 permalink: /2009/09/24/whats-new-with-rick-vmwaretips/
 redirect_from: /wp/2009/09/24/whats-new-with-rick-vmwaretips/
 aktt_notify_twitter:

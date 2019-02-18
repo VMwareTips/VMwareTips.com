@@ -4,7 +4,7 @@ title: VMworld 2013 Itinerary
 date: 2013-08-25T11:41:26+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=2111
+guid: https://www.vmwaretips.com/wp/?p=2111
 permalink: /2013/08/25/vmworld-2013-itinerary/
 redirect_from: /wp/2013/08/25/vmworld-2013-itinerary/
 ratings_users:
@@ -43,7 +43,7 @@ So here is my schedule, full of great sessions, fun networking opportunities, aw
 
 
 
-![](http://vmwaretips.com/wp/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")
+![](https://www.vmwaretips.com/wp/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif "More...")
 
 <table width="100%" border="0" cellspacing="6" cellpadding="6">
   <tr>

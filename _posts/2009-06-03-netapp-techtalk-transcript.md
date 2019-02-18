@@ -4,7 +4,7 @@ title: 'NetApp, VMware and SQL TechTalk &#8211; Q&#038;A Transcript'
 date: 2009-06-03T17:05:53+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=854
+guid: https://www.vmwaretips.com/wp/?p=854
 permalink: /2009/06/03/netapp-techtalk-transcript/
 redirect_from: /wp/2009/06/03/netapp-techtalk-transcript/
 aktt_notify_twitter:

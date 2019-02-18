@@ -4,7 +4,7 @@ title: SDDPC is a Finalist for SNW Best Practices Award
 date: 2009-04-07T07:45:56+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=685
+guid: https://www.vmwaretips.com/wp/?p=685
 permalink: /2009/04/07/sddpc-is-a-finalist-for-snw-best-practices-award/
 redirect_from: /wp/2009/04/07/sddpc-is-a-finalist-for-snw-best-practices-award/
 aktt_notify_twitter:

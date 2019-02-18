@@ -4,7 +4,7 @@ title: Speaking at ComputerWorld Virtualization Directions
 date: 2008-10-16T13:49:34+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=87
+guid: https://www.vmwaretips.com/wp/?p=87
 permalink: /2008/10/16/vmwaretipscom-speaking-at-virtualization-directions/
 redirect_from: /wp/2008/10/16/vmwaretipscom-speaking-at-virtualization-directions/
 views:
@@ -29,7 +29,7 @@ tags:
 
 **\*\\*\*UPDATE\*\**
   
-** Virtualization Directions was a success, I would like to invite everyone to feel free to listen, you can load the conference by <a href="http://event.on24.com/clients/default/presentation/default.html?titlecolor=000000&eventid=123929&sessionid=1&username=&partnerref=&format=rmaudio&key=2C15D70BFD54D4E8D0B96D5C283D844D&text_language_id=en&playerwidth=748&playerheight=656&eventuserid=20264696&contenttype=A&mediametricsessionid=17340731&mediametricid=313546&usercd=20264696&mode=launch" target="_blank">clicking this link</a>.  If you have any questions, please feel free to forward them to me.  My contact information can be found on the [About page](http://vmwaretips.com/wp/about/).
+** Virtualization Directions was a success, I would like to invite everyone to feel free to listen, you can load the conference by <a href="http://event.on24.com/clients/default/presentation/default.html?titlecolor=000000&eventid=123929&sessionid=1&username=&partnerref=&format=rmaudio&key=2C15D70BFD54D4E8D0B96D5C283D844D&text_language_id=en&playerwidth=748&playerheight=656&eventuserid=20264696&contenttype=A&mediametricsessionid=17340731&mediametricid=313546&usercd=20264696&mode=launch" target="_blank">clicking this link</a>.  If you have any questions, please feel free to forward them to me.  My contact information can be found on the [About page](https://www.vmwaretips.com/wp/about/).
 
 
 

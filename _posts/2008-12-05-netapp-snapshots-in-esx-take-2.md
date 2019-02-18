@@ -4,7 +4,7 @@ title: 'NetApp Snapshots in ESX &#8211; Take 2'
 date: 2008-12-05T11:36:24+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=321
+guid: https://www.vmwaretips.com/wp/?p=321
 permalink: /2008/12/05/netapp-snapshots-in-esx-take-2/
 redirect_from: /wp/2008/12/05/netapp-snapshots-in-esx-take-2/
 ratings_users:
@@ -31,7 +31,7 @@ tags:
   - snapshot
   - VMware
 ---
-Alright, well I finally set aside some time to sit and think about my [script that runs my snapshots](http://vmwaretips.com/wp/2008/09/12/netapp-snapshots-in-esx/) (VMware Snapshots then NetApp Snapshots then remove VMware Snapshot).   The problem with my current script is that if you have multiple VMware Snapshots they all get removed&#8230; which IMO maybe isn&#8217;t a bad thing (since your not suppose to keep snapshots for that long), but I can see in some environments it may not be a good thing.
+Alright, well I finally set aside some time to sit and think about my [script that runs my snapshots](https://www.vmwaretips.com/wp/2008/09/12/netapp-snapshots-in-esx/) (VMware Snapshots then NetApp Snapshots then remove VMware Snapshot).   The problem with my current script is that if you have multiple VMware Snapshots they all get removed&#8230; which IMO maybe isn&#8217;t a bad thing (since your not suppose to keep snapshots for that long), but I can see in some environments it may not be a good thing.
 
 
 

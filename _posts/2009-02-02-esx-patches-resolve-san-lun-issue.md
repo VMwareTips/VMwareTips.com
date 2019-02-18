@@ -4,7 +4,7 @@ title: 'ESX Patches &#8211; Resolve SAN LUN Issue'
 date: 2009-02-02T16:53:05+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=527
+guid: https://www.vmwaretips.com/wp/?p=527
 permalink: /2009/02/02/esx-patches-resolve-san-lun-issue/
 redirect_from: /wp/2009/02/02/esx-patches-resolve-san-lun-issue/
 aktt_notify_twitter:
@@ -28,7 +28,7 @@ tags:
   - esxi
   - patch
 ---
-In a previous <a href="http://vmwaretips.com/wp/2009/01/12/issue-vmware-esxesxi-san-io-failure/" target="_blank">article</a> I discuss how an ESX host can halt if LUN metadata updates are done the same time a LUN path fails.  Thankfully VMware has released a patch for this problem, along with a few others.  I strongly suggest you to upgrade if your running VMware ESX 3.5 U3 and block level storage.
+In a previous <a href="https://www.vmwaretips.com/wp/2009/01/12/issue-vmware-esxesxi-san-io-failure/" target="_blank">article</a> I discuss how an ESX host can halt if LUN metadata updates are done the same time a LUN path fails.  Thankfully VMware has released a patch for this problem, along with a few others.  I strongly suggest you to upgrade if your running VMware ESX 3.5 U3 and block level storage.
 
 
 

@@ -4,7 +4,7 @@ title: VMware vSphere 4.0 Update 1 Released
 date: 2009-11-25T11:10:27+00:00
 author: Rick Scherer
 layout: post
-guid: http://vmwaretips.com/wp/?p=1085
+guid: https://www.vmwaretips.com/wp/?p=1085
 permalink: /2009/11/25/vmware-vsphere-40-update-1-released/
 redirect_from: /wp/2009/11/25/vmware-vsphere-40-update-1-released/
 aktt_notify_twitter:
@@ -29,7 +29,7 @@ This is a couple days past due, but VMware has released Update 1 of their flagsh
 
 One of the key drivers of this update is to provide support for VMware View 4 which was just released for download as well.
 
-It also provides support for Windows 2008 R2 and Windows 7, for both as a Guest Operating System and base O/S for the vSphere Client.  This resolves the freeze issue in both of those O/S as discussed in my <a href="http://vmwaretips.com/wp/2009/11/25/windows-2008-r2-and-windows-7-freeze-on-vmware-vsphere-4/" target="_blank">previous article</a>.
+It also provides support for Windows 2008 R2 and Windows 7, for both as a Guest Operating System and base O/S for the vSphere Client.  This resolves the freeze issue in both of those O/S as discussed in my <a href="https://www.vmwaretips.com/wp/2009/11/25/windows-2008-r2-and-windows-7-freeze-on-vmware-vsphere-4/" target="_blank">previous article</a>.
 
 Another hot update is the full support to utilize the pvSCSI adapter for your boot disk on Windows 2003 and Windows 2008.
 
