@@ -26,7 +26,7 @@ tags:
   - VMworld
 ---
 <p style="text-align: center;">
-  <a href="http://www.vmworld2009.com/registration.jspa"><img class="size-full wp-image-877 aligncenter" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/06/vmworld09reg.jpg" alt="" width="440" height="84" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2009/06/vmworld09reg.jpg 440w, https://www.vmwaretips.com/wp/wp-content/uploads/2009/06/vmworld09reg-300x57.jpg 300w" sizes="(max-width: 440px) 100vw, 440px" /></a>
+  <a href="http://www.vmworld2009.com/registration.jspa"><img class="size-full wp-image-877 aligncenter" src="https://www.vmwaretips.com/wp-content/uploads/2009/06/vmworld09reg.jpg" alt="" width="440" height="84" srcset="https://www.vmwaretips.com/wp-content/uploads/2009/06/vmworld09reg.jpg 440w, https://www.vmwaretips.com/wp-content/uploads/2009/06/vmworld09reg-300x57.jpg 300w" sizes="(max-width: 440px) 100vw, 440px" /></a>
 </p>
 
 I am proud to officially announce the VMworld 2009 &#8211; Ask the Experts Panel Session.  This session will feature virtualization experts Rick Scherer, Scott Lowe, Duncan Epping, Chad Sakac and Tom Howarth answering your questions on virtual infrastructure design.  In the next week or so we will be posting sections on our blog sites for you to submit questions for review during the session, so stay tuned!

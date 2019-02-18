@@ -39,7 +39,7 @@ Tuesday morning we started at 9am with Sanjay Poonen who leads the End-User Comp
 
 Typically this is handled by two separate teams with a collection of independent tools to make it all possible, usually separated by the _Windows Desktop Administrators_ and the _Mobile Device Administrators_. Tuesday it was announced and demonstrated how to manage application delivery and device management to a myriad of different types of devices. Including Windows 10 devices, which was specifically called out by bringing Microsoft on stage and announcing a great partnership.
 
-<img src="https://www.vmwaretips.com/wp/wp-content/gallery/vmworld2015/airwatch.png" alt="airwatch" width="480" />
+<img src="https://www.vmwaretips.com/wp-content/gallery/vmworld2015/airwatch.png" alt="airwatch" width="480" />
 
 VMware Project A2 was announced which bridges the VMware App Volumes technology to Windows 10 physical PCs. This means administrators will now have a single solution to manage virtual, physical and mobile end-points along with simple abstracted deployment of applications while following security policies at a people-centric level rather than device level. If you&#8217;re not aware of what App Volumes is, this came from the acquisition of CloudVolumes, it allows desktop administrators to rapidly package, deliver, and manage the lifecycle of application layers on virtual desktops and published application (RDSH) servers, including Citrix XenApp. Wrapping up the End-User Computing portion, Poonen talked about the integration work they&#8217;ve done with Horizon, Airwatch and NSX. It was demonstrated how policy settings in NSX can affect Airwatch connectivity to mobile applications.
 

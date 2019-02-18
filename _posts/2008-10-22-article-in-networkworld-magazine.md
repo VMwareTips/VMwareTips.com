@@ -23,7 +23,7 @@ tags:
   - VMworld
 ---
 <p style="text-align: center;">
-  <a href="http://www.networkworld.com/supp/2008/ndc6/102008-ndc-sddpc-virtualization-case-study.html" target="_blank"><img class="aligncenter size-full wp-image-150" src="https://www.vmwaretips.com/wp/wp-content/uploads/2008/10/networkworld.png" alt="" width="470" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2008/10/networkworld.png 1280w, https://www.vmwaretips.com/wp/wp-content/uploads/2008/10/networkworld-300x228.png 300w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
+  <a href="http://www.networkworld.com/supp/2008/ndc6/102008-ndc-sddpc-virtualization-case-study.html" target="_blank"><img class="aligncenter size-full wp-image-150" src="https://www.vmwaretips.com/wp-content/uploads/2008/10/networkworld.png" alt="" width="470" srcset="https://www.vmwaretips.com/wp-content/uploads/2008/10/networkworld.png 1280w, https://www.vmwaretips.com/wp-content/uploads/2008/10/networkworld-300x228.png 300w" sizes="(max-width: 1280px) 100vw, 1280px" /></a>
 </p>
 
 <p style="text-align: left;">

@@ -30,7 +30,7 @@ tags:
   - vmware vsphere launch
 ---
 <p style="text-align: center;">
-  <img class="aligncenter" src="https://www.vmwaretips.com/wp/wp-content/gallery/misc/vmwlaunch.jpg" alt="" width="440" />
+  <img class="aligncenter" src="https://www.vmwaretips.com/wp-content/gallery/misc/vmwlaunch.jpg" alt="" width="440" />
 </p>
 
 The time has come, the official VMware vSphere 4 Launch Event. Special Thanks to <a href="http://www.trainsignal.com" target="_blank">TrainSignal</a> and <a href="http://www.netapp.com/" target="_blank">NetApp</a> for making this possible. For those of you who have not registered for the chance to Win a **<span style="text-decoration: underline;">FREE</span>** TrainSignal VMware ESX Training Kit, please <a href="https://www.vmwaretips.com/contest/register.php" target="_blank">go do so now</a>! Registration to Win will end around 2:00pm PST and the winners announced on this page around 6:00pm PST.

@@ -32,7 +32,7 @@ tags:
   - vstogies
   - vtweetup
 ---
-## **_[<img class="alignright  wp-image-2422" title="turndown4what" src="https://www.vmwaretips.com/wp/wp-content/uploads/2014/08/turndown4what-300x288.png" alt="" width="175" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2014/08/turndown4what-300x288.png 300w, https://www.vmwaretips.com/wp/wp-content/uploads/2014/08/turndown4what.png 375w" sizes="(max-width: 300px) 100vw, 300px" />](https://www.vmwaretips.com/wp/wp-content/uploads/2014/08/turndown4what.png)&#8220;Turn Down for What?!&#8221;_**
+## **_[<img class="alignright  wp-image-2422" title="turndown4what" src="https://www.vmwaretips.com/wp-content/uploads/2014/08/turndown4what-300x288.png" alt="" width="175" srcset="https://www.vmwaretips.com/wp-content/uploads/2014/08/turndown4what-300x288.png 300w, https://www.vmwaretips.com/wp-content/uploads/2014/08/turndown4what.png 375w" sizes="(max-width: 300px) 100vw, 300px" />](https://www.vmwaretips.com/wp-content/uploads/2014/08/turndown4what.png)&#8220;Turn Down for What?!&#8221;_**
 
 That&#8217;s pretty much how the week goes at VMworld, and here we are, encroaching on what will be my 11th VMworld conference. It&#8217;s a week full of education, networking, giveaways, fun and opportunity!  VMworld really packs it all in, and I&#8217;m proud to be part of it again this year.
 

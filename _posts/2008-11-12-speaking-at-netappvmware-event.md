@@ -33,6 +33,6 @@ You can signup at this website; <a href="http://communications.netapp.com/p/Netw
 
 After events end I will plan on publishing my presentation on here.  Please check all of my other conference notices because I will be uploading those presentations shortly.
 
-[CLICK HERE TO DOWNLOAD](https://www.vmwaretips.com/wp/wp-content/uploads/2008/11/nov13-go_green-sddpc.pdf) [[SDDPC-VMware-NetApp Go Green PDF](https://www.vmwaretips.com/wp/wp-content/uploads/2008/11/nov13-go_green-sddpc.pdf)
+[CLICK HERE TO DOWNLOAD](https://www.vmwaretips.com/wp-content/uploads/2008/11/nov13-go_green-sddpc.pdf) [[SDDPC-VMware-NetApp Go Green PDF](https://www.vmwaretips.com/wp-content/uploads/2008/11/nov13-go_green-sddpc.pdf)
   
-](https://www.vmwaretips.com/wp/wp-content/uploads/2008/11/nov13-go_green-sddpc.pdf)
+](https://www.vmwaretips.com/wp-content/uploads/2008/11/nov13-go_green-sddpc.pdf)

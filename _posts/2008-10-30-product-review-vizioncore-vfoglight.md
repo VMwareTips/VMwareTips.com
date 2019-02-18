@@ -38,7 +38,7 @@ tags:
 </p>
 
 <p style="text-align: left; padding-left: 30px;">
-  <em><a class="thickbox" href="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vfoglight1.png"><img class="ngg-singlepic alignnone" src="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vfoglight1.png" alt="vfoglight1.png" width="400" />(click to enlarge)</a><br /> </em>
+  <em><a class="thickbox" href="https://www.vmwaretips.com/wp-content/gallery/screenshots/vfoglight1.png"><img class="ngg-singlepic alignnone" src="https://www.vmwaretips.com/wp-content/gallery/screenshots/vfoglight1.png" alt="vfoglight1.png" width="400" />(click to enlarge)</a><br /> </em>
 </p>
 
 <p style="text-align: left;">
@@ -46,11 +46,11 @@ tags:
 </p>
 
 <p style="text-align: left; padding-left: 30px;">
-  <a class="thickbox" href="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vfoglight4.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vfoglight4.png" alt="vfoglight4.png" width="400" /><em>(click to enlarge)</em><br /> </a>
+  <a class="thickbox" href="https://www.vmwaretips.com/wp-content/gallery/screenshots/vfoglight4.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp-content/gallery/screenshots/vfoglight4.png" alt="vfoglight4.png" width="400" /><em>(click to enlarge)</em><br /> </a>
 </p>
 
 <p style="text-align: left; padding-left: 30px;">
-  <a class="thickbox" href="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vfoglight3.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vfoglight3.png" alt="vfoglight3.png" width="400" /><em>(click to enlarge)</em><br /> </a>
+  <a class="thickbox" href="https://www.vmwaretips.com/wp-content/gallery/screenshots/vfoglight3.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp-content/gallery/screenshots/vfoglight3.png" alt="vfoglight3.png" width="400" /><em>(click to enlarge)</em><br /> </a>
 </p>
 
 <p style="text-align: left;">
@@ -58,7 +58,7 @@ tags:
 </p>
 
 <p style="text-align: left; padding-left: 30px;">
-  <a class="thickbox" href="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vfoglight2.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vfoglight2.png" alt="vfoglight2.png" width="400" /><em>(click to enlarge)</em></a>
+  <a class="thickbox" href="https://www.vmwaretips.com/wp-content/gallery/screenshots/vfoglight2.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp-content/gallery/screenshots/vfoglight2.png" alt="vfoglight2.png" width="400" /><em>(click to enlarge)</em></a>
 </p>
 
 <p style="text-align: left;">

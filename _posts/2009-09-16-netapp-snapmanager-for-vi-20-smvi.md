@@ -71,7 +71,7 @@ What really excites me with this new version is the ability for an end-user to d
 Check out this video demonstrating some of the new features in SMVI 2.0
 
 <p style="text-align: center;">
-  <a title="NetApp SMVI 2.0" rel="shadowbox;height=505;width=640" href="http://www.youtube.com/v/fPg8FNaA_MY"><img class="aligncenter size-full wp-image-1017" title="smvi2" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/09/smvi2.png" alt="" width="400" height="301" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2009/09/smvi2.png 400w, https://www.vmwaretips.com/wp/wp-content/uploads/2009/09/smvi2-300x225.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+  <a title="NetApp SMVI 2.0" rel="shadowbox;height=505;width=640" href="http://www.youtube.com/v/fPg8FNaA_MY"><img class="aligncenter size-full wp-image-1017" title="smvi2" src="https://www.vmwaretips.com/wp-content/uploads/2009/09/smvi2.png" alt="" width="400" height="301" srcset="https://www.vmwaretips.com/wp-content/uploads/2009/09/smvi2.png 400w, https://www.vmwaretips.com/wp-content/uploads/2009/09/smvi2-300x225.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>
 </p>
 
 For those of you using NetApp, I&#8217;d strongly recommend adding SMVI to your FY11 budget!

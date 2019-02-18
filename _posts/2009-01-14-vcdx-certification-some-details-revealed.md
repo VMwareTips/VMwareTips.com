@@ -43,7 +43,7 @@ As you all know, the VCDX Certification is a three step process, first off your 
   
 Scheduled with VMware Certification at a Pearson facility
   
-[Download Study Guide](https://www.vmwaretips.com/wp/wp-content/uploads/2009/01/vmware-enterprise-administration-exam-study-guide-3.pdf)
+[Download Study Guide](https://www.vmwaretips.com/wp-content/uploads/2009/01/vmware-enterprise-administration-exam-study-guide-3.pdf)
   
 75 Multiple Choice Questions
   
@@ -59,7 +59,7 @@ VCDX Enterprise Design Exam
   
 Cost: $400
   
-[Download Study Guide](https://www.vmwaretips.com/wp/wp-content/uploads/2009/01/designexamblueprint.pdf)****
+[Download Study Guide](https://www.vmwaretips.com/wp-content/uploads/2009/01/designexamblueprint.pdf)****
   
 Scheduled with VMware Certification at a Pearson facility
   
@@ -75,4 +75,4 @@ Final Scheduling and Details are not finished yet
   
 ** Tina didn&#8217;t have too much detail for this yet, it sounds like they do not know how this is going to work. Basically you&#8217;ll need to design and defend your design against a panel of experts &#8212; this may need to happen at their Palo Alto headquarters.
 
-Well, wish me luck people.  I&#8217;m scheduled for Step 1 on Tuesday, February 3rd.  I could&#8217;ve taken it this Monday but I wanted to give myself a couple weeks to prepare.  To help me prepare I am using [this study guide](https://www.vmwaretips.com/wp/wp-content/uploads/2009/01/vmware-enterprise-administration-exam-study-guide-3.pdf).
+Well, wish me luck people.  I&#8217;m scheduled for Step 1 on Tuesday, February 3rd.  I could&#8217;ve taken it this Monday but I wanted to give myself a couple weeks to prepare.  To help me prepare I am using [this study guide](https://www.vmwaretips.com/wp-content/uploads/2009/01/vmware-enterprise-administration-exam-study-guide-3.pdf).

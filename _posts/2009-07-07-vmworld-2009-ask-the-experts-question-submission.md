@@ -25,7 +25,7 @@ tags:
   - ask the experts
   - VMworld
 ---
-<img class="aligncenter size-full wp-image-905" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/07/123.gif" alt="" width="470" height="90" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2009/07/123.gif 470w, https://www.vmwaretips.com/wp/wp-content/uploads/2009/07/123-300x57.gif 300w" sizes="(max-width: 470px) 100vw, 470px" />
+<img class="aligncenter size-full wp-image-905" src="https://www.vmwaretips.com/wp-content/uploads/2009/07/123.gif" alt="" width="470" height="90" srcset="https://www.vmwaretips.com/wp-content/uploads/2009/07/123.gif 470w, https://www.vmwaretips.com/wp-content/uploads/2009/07/123-300x57.gif 300w" sizes="(max-width: 470px) 100vw, 470px" />
 
 I&#8217;m proud to announce that the session is locked and speakers are confirmed (many of you already know).  <a href="http://www.yellow-bricks.com/" target="_new">Duncan Epping</a>, <a href="http://www.planetvm.net" target="_new">Tom Howarth</a>, <a href="http://blog.scottlowe.org" target="_new">Scott Lowe</a>, <a href="http://virtualgeek.typepad.com" target="_new">Chad Sakac</a> and myself will be running an Ask the Experts panel session at VMworld 2009 &#8211; and this is your chance to submit a question to be reviewed during the panel session!
 

@@ -42,29 +42,29 @@ VIBE is a free tool which operates exactly as SMVI, the only catch is that you d
 Initial configuration is a little tricky, all of the commands can be seen by running _vibe &#8211;help_. I first ran it manually from the command line, then I took all of my configuration options and put them into a config file. You can specify a config file to use by running _vibe &#8211;config <filename>_.  This makes it extremely easy to automate.
 
 <p style="padding-left: 30px;">
-  <a class="thickbox" href="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vibe-help.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vibe-help.png" alt="vibe-help.png" width="400" />&#8211; Screenshot of VIBE &#8211;help</a>
+  <a class="thickbox" href="https://www.vmwaretips.com/wp-content/gallery/screenshots/vibe-help.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp-content/gallery/screenshots/vibe-help.png" alt="vibe-help.png" width="400" />&#8211; Screenshot of VIBE &#8211;help</a>
 </p>
 
 Here are some screenshots on how I am using it.  I&#8217;ve been using it for about a week now without one problem.  I must warn though, VIBE is not directly supported by NetApp, it is only supported via Professional Services.  With this said, once you get it working there should be no reason why you need support.
 
 <p style="padding-left: 30px;">
-  <a class="thickbox" href="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vibe-schedule-1.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vibe-schedule-1.png" alt="vibe-schedule-1.png" width="400" />&#8211; Here is my Scheduled Task to run my VIBE Batch Job<br /> </a>
+  <a class="thickbox" href="https://www.vmwaretips.com/wp-content/gallery/screenshots/vibe-schedule-1.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp-content/gallery/screenshots/vibe-schedule-1.png" alt="vibe-schedule-1.png" width="400" />&#8211; Here is my Scheduled Task to run my VIBE Batch Job<br /> </a>
 </p>
 
 <p style="padding-left: 30px;">
-  <a class="thickbox" href="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vibe-schedule-2.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vibe-schedule-2.png" alt="vibe-schedule-2.png" width="400" />&#8211; As you can see I am running it nightly at 12:05AM<br /> </a>
+  <a class="thickbox" href="https://www.vmwaretips.com/wp-content/gallery/screenshots/vibe-schedule-2.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp-content/gallery/screenshots/vibe-schedule-2.png" alt="vibe-schedule-2.png" width="400" />&#8211; As you can see I am running it nightly at 12:05AM<br /> </a>
 </p>
 
 <p style="padding-left: 30px;">
-  <a class="thickbox" href="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vibe-batch.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vibe-batch.png" alt="vibe-batch.png" width="400" />&#8211; The Batch job is nothing more than kicking off the VIBE executable and specifying a config file to us for the settings. Also note that I am not specifying a path to VIBE, this is because the user running this task has the VIBE path in its environment</a>
+  <a class="thickbox" href="https://www.vmwaretips.com/wp-content/gallery/screenshots/vibe-batch.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp-content/gallery/screenshots/vibe-batch.png" alt="vibe-batch.png" width="400" />&#8211; The Batch job is nothing more than kicking off the VIBE executable and specifying a config file to us for the settings. Also note that I am not specifying a path to VIBE, this is because the user running this task has the VIBE path in its environment</a>
 </p>
 
 <p style="padding-left: 30px;">
-  <a class="thickbox" href="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vibe-config.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vibe-config.png" alt="vibe-config.png" width="400" />&#8211; Here is the config file, nothing more than the vCenter user and password, along with the NetApp FAS login and password and the datastore names I want to backup. VIBE does all the hard work in finding the volume names and VM locations</a>
+  <a class="thickbox" href="https://www.vmwaretips.com/wp-content/gallery/screenshots/vibe-config.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp-content/gallery/screenshots/vibe-config.png" alt="vibe-config.png" width="400" />&#8211; Here is the config file, nothing more than the vCenter user and password, along with the NetApp FAS login and password and the datastore names I want to backup. VIBE does all the hard work in finding the volume names and VM locations</a>
 </p>
 
 <p style="padding-left: 30px;">
-  <a class="thickbox" href="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vibe-snaps.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vibe-snaps.png" alt="vibe-snaps.png" width="400" />&#8211; Here is my final product, FAS level snapshots complete with VM<br /> quiescing because VIBE integrates with vCenter. If you noticed the names are different it is because I changed them</a>
+  <a class="thickbox" href="https://www.vmwaretips.com/wp-content/gallery/screenshots/vibe-snaps.png"><img class="ngg-singlepic ngg-none" src="https://www.vmwaretips.com/wp-content/gallery/screenshots/vibe-snaps.png" alt="vibe-snaps.png" width="400" />&#8211; Here is my final product, FAS level snapshots complete with VM<br /> quiescing because VIBE integrates with vCenter. If you noticed the names are different it is because I changed them</a>
 </p>
 
 Alright, thats pretty much it.  Easy to implement and use, and best of all &#8211; it is FREE :)

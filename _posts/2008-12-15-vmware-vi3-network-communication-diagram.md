@@ -33,6 +33,6 @@ tags:
 ---
 <a href="http://www.boche.net/blog/?p=655" target="_blank">Jason Boche</a> posted this network diagram on VI3, it shows exactly what ports VC, ESX and other services needed for a functioning enterprise use.   This diagram is extremely helpful in troubleshooting network issues and also in helping put your companies security department at ease.  Thanks Jason!
 
-[<img class="ngg-singlepic ngg-center" src="https://www.vmwaretips.com/wp/wp-content/gallery/misc/vi3-network_diagram.jpg" alt="vi3-network_diagram.jpg" width="470" />
+[<img class="ngg-singlepic ngg-center" src="https://www.vmwaretips.com/wp-content/gallery/misc/vi3-network_diagram.jpg" alt="vi3-network_diagram.jpg" width="470" />
   
-Click to Enlarge](https://www.vmwaretips.com/wp/wp-content/gallery/misc/vi3-network_diagram.jpg){.thickbox}
+Click to Enlarge](https://www.vmwaretips.com/wp-content/gallery/misc/vi3-network_diagram.jpg){.thickbox}

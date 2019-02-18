@@ -65,7 +65,7 @@ Until recently VMware has not had a fix for this &#8220;slow snapshot removal&#8
 _
 
 <p style="padding-left: 30px;">
-  <a class="thickbox" href="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/advset.png"><img class="ngg-singlepic ngg-left" src="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/advset.png" alt="advset.png" width="400" /></a><span class="thickbox"><em><br /> (Click on Image to Enlarge)<br /> </em></span><em>(this can also be done from the CLI with esxcfg-advcfg)</em>
+  <a class="thickbox" href="https://www.vmwaretips.com/wp-content/gallery/screenshots/advset.png"><img class="ngg-singlepic ngg-left" src="https://www.vmwaretips.com/wp-content/gallery/screenshots/advset.png" alt="advset.png" width="400" /></a><span class="thickbox"><em><br /> (Click on Image to Enlarge)<br /> </em></span><em>(this can also be done from the CLI with esxcfg-advcfg)</em>
 </p>
 
 **6.) Edit the following file: /etc/vmware/config file and add the line:**
@@ -73,7 +73,7 @@ _
  _prefvmx.ConsolidateDeleteNFSLocks = &#8220;TRUE&#8221;_
 
 <p style="padding-left: 30px;">
-  <a class="thickbox" href="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/prefvmx.png"><img class="ngg-singlepic ngg-left" src="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/prefvmx.png" alt="prefvmx.png" width="400" /><br /> </a><span class="thickbox"><em>(Click on Image to Enlarge)<br /> (For ESXi hosts, please read my blog on <a href="https://www.vmwaretips.com/wp/2008/10/20/access-the-esxi-service-console/">enabling service console access</a>)</em></span>
+  <a class="thickbox" href="https://www.vmwaretips.com/wp-content/gallery/screenshots/prefvmx.png"><img class="ngg-singlepic ngg-left" src="https://www.vmwaretips.com/wp-content/gallery/screenshots/prefvmx.png" alt="prefvmx.png" width="400" /><br /> </a><span class="thickbox"><em>(Click on Image to Enlarge)<br /> (For ESXi hosts, please read my blog on <a href="https://www.vmwaretips.com/wp/2008/10/20/access-the-esxi-service-console/">enabling service console access</a>)</em></span>
 </p>
 
 **7.) Save the changes to the file.**

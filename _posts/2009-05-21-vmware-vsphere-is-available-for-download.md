@@ -32,7 +32,7 @@ I know I&#8217;m a little late in the game today to announce this, but I was bus
 Some of the things I noticed were that the licensing page is different, you can now quickly and easily view your vSphere 4 licenses keys;
 
 <p style="text-align: center;">
-  <a class="thickbox" href="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vc4_licenses.png"><img class="ngg-singlepic ngg-center aligncenter" src="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vc4_licenses.png" alt="vc4_licenses.png" width="440" /></a>
+  <a class="thickbox" href="https://www.vmwaretips.com/wp-content/gallery/screenshots/vc4_licenses.png"><img class="ngg-singlepic ngg-center aligncenter" src="https://www.vmwaretips.com/wp-content/gallery/screenshots/vc4_licenses.png" alt="vc4_licenses.png" width="440" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -40,7 +40,7 @@ Some of the things I noticed were that the licensing page is different, you can 
 </p>
 
 <p style="text-align: center;">
-  <a class="thickbox" href="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vc4_contract.png"><img class="ngg-singlepic ngg-center aligncenter" src="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vc4_contract.png" alt="vc4_contract.png" width="440" /></a>
+  <a class="thickbox" href="https://www.vmwaretips.com/wp-content/gallery/screenshots/vc4_contract.png"><img class="ngg-singlepic ngg-center aligncenter" src="https://www.vmwaretips.com/wp-content/gallery/screenshots/vc4_contract.png" alt="vc4_contract.png" width="440" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -48,7 +48,7 @@ Some of the things I noticed were that the licensing page is different, you can 
 </p>
 
 <p style="text-align: center;">
-  <a class="thickbox" href="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vc4_download.png"><img class="ngg-singlepic ngg-center aligncenter" src="https://www.vmwaretips.com/wp/wp-content/gallery/screenshots/vc4_download.png" alt="vc4_download.png" width="440" /></a>
+  <a class="thickbox" href="https://www.vmwaretips.com/wp-content/gallery/screenshots/vc4_download.png"><img class="ngg-singlepic ngg-center aligncenter" src="https://www.vmwaretips.com/wp-content/gallery/screenshots/vc4_download.png" alt="vc4_download.png" width="440" /></a>
 </p>
 
 <p style="text-align: left;">

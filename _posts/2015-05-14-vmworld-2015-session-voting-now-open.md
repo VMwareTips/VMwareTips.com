@@ -48,4 +48,4 @@ So please, vote early and vote often! :)   <a href="http://www.vmworld.com/voti
 
 Need help voting? Check out <a href="https://www.youtube.com/watch?v=B_4y5HmyOqQ" target="_blank">this video</a> to see how easy it is!
 
-<a href="https://www.youtube.com/watch?v=B_4y5HmyOqQ" target="_new"><img src="https://www.vmwaretips.com/wp/wp-content/uploads/2015/05/2015voting.JPG" alt="" width="480" /></a>
+<a href="https://www.youtube.com/watch?v=B_4y5HmyOqQ" target="_new"><img src="https://www.vmwaretips.com/wp-content/uploads/2015/05/2015voting.JPG" alt="" width="480" /></a>

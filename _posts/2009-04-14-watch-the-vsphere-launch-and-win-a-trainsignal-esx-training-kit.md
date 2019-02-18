@@ -35,7 +35,7 @@ tags:
   </p>
   
   <p>
-    <img class="alignright size-medium wp-image-705" title="ts_esx" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/04/ts_esx-300x198.jpg" alt="" height="200" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2009/04/ts_esx-300x198.jpg 300w, https://www.vmwaretips.com/wp/wp-content/uploads/2009/04/ts_esx.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />
+    <img class="alignright size-medium wp-image-705" title="ts_esx" src="https://www.vmwaretips.com/wp-content/uploads/2009/04/ts_esx-300x198.jpg" alt="" height="200" srcset="https://www.vmwaretips.com/wp-content/uploads/2009/04/ts_esx-300x198.jpg 300w, https://www.vmwaretips.com/wp-content/uploads/2009/04/ts_esx.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />
   </p>
   
   <p style="text-align: left; ">

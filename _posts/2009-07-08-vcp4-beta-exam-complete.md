@@ -36,5 +36,5 @@ Out of the 270 questions, it felt that about 35% of them were fit of a VCP4 exam
 With that said, I feel that I did pretty good, left a lot of comments &#8211; knew I wouldn&#8217;t have enough time to comment on every question, so I did skip some (thanks to VCDX Design Exam Beta for that experience). Hopefully I will find out my results in the 6-8 weeks advertised on the invitation, and not the 3-4 months I&#8217;ve been waiting since taking the VCDX Design Exam.
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-914  aligncenter" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/07/vcp4exam.jpg" alt="" width="475" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2009/07/vcp4exam.jpg 600w, https://www.vmwaretips.com/wp/wp-content/uploads/2009/07/vcp4exam-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
+  <img class="size-full wp-image-914  aligncenter" src="https://www.vmwaretips.com/wp-content/uploads/2009/07/vcp4exam.jpg" alt="" width="475" srcset="https://www.vmwaretips.com/wp-content/uploads/2009/07/vcp4exam.jpg 600w, https://www.vmwaretips.com/wp-content/uploads/2009/07/vcp4exam-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
 </p>

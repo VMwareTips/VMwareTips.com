@@ -21,7 +21,7 @@ tags:
   - i love the cloud
   - stickers
 ---
-[<img class="aligncenter size-medium wp-image-1568" title="I Love the CLoud" src="https://www.vmwaretips.com/wp/wp-content/uploads/2012/08/lovethecloud1-300x175.jpg" alt="" width="300" height="175" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2012/08/lovethecloud1-300x175.jpg 300w, https://www.vmwaretips.com/wp/wp-content/uploads/2012/08/lovethecloud1.jpg 650w" sizes="(max-width: 300px) 100vw, 300px" />](https://www.vmwaretips.com/wp/wp-content/uploads/2012/08/lovethecloud1.jpg)
+[<img class="aligncenter size-medium wp-image-1568" title="I Love the CLoud" src="https://www.vmwaretips.com/wp-content/uploads/2012/08/lovethecloud1-300x175.jpg" alt="" width="300" height="175" srcset="https://www.vmwaretips.com/wp-content/uploads/2012/08/lovethecloud1-300x175.jpg 300w, https://www.vmwaretips.com/wp-content/uploads/2012/08/lovethecloud1.jpg 650w" sizes="(max-width: 300px) 100vw, 300px" />](https://www.vmwaretips.com/wp-content/uploads/2012/08/lovethecloud1.jpg)
 
 I went ahead and had some stickers made for VMworld and I wanted to give my readers the first chance to obtain some of these wicked pieces of art! These are high quality full color stickers printed on premium 70lb label stock with a high gloss UV coating applied. They&#8217;re oval in shape and are 3.5&#8243; wide x 2&#8243; tall, they&#8217;ll fit perfectly on your laptop or anywhere else you want to stick them.
 

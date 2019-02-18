@@ -30,5 +30,5 @@ tags:
 If you haven&#8217;t already, go check out the new <a href="http://downloads.vmware.com/d/" target="_blank">VMware Download Center</a>.  This new website makes it a lot easier to find the product download you&#8217;re looking for. Also be sure to look for the new VMware logo on the upper left portion of the website!
 
 <p style="text-align: center;">
-  <a rel="attachment wp-att-1020" href="https://www.vmwaretips.com/wp/wp-content/uploads/2009/09/vmwdcbeta.png"><img class="aligncenter size-full wp-image-1020" title="vmwdcbeta" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/09/vmwdcbeta.png" alt="" width="480" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2009/09/vmwdcbeta.png 873w, https://www.vmwaretips.com/wp/wp-content/uploads/2009/09/vmwdcbeta-300x274.png 300w" sizes="(max-width: 873px) 100vw, 873px" /></a>
+  <a rel="attachment wp-att-1020" href="https://www.vmwaretips.com/wp-content/uploads/2009/09/vmwdcbeta.png"><img class="aligncenter size-full wp-image-1020" title="vmwdcbeta" src="https://www.vmwaretips.com/wp-content/uploads/2009/09/vmwdcbeta.png" alt="" width="480" srcset="https://www.vmwaretips.com/wp-content/uploads/2009/09/vmwdcbeta.png 873w, https://www.vmwaretips.com/wp-content/uploads/2009/09/vmwdcbeta-300x274.png 300w" sizes="(max-width: 873px) 100vw, 873px" /></a>
 </p>

@@ -27,7 +27,7 @@ tags:
   - VMworld
 ---
 <p style="TEXT-ALIGN: center">
-  <img class="size-full wp-image-905 aligncenter" src="https://www.vmwaretips.com/wp/wp-content/uploads/2009/07/123.gif" alt="" width="470" height="90" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2009/07/123.gif 470w, https://www.vmwaretips.com/wp/wp-content/uploads/2009/07/123-300x57.gif 300w" sizes="(max-width: 470px) 100vw, 470px" />
+  <img class="size-full wp-image-905 aligncenter" src="https://www.vmwaretips.com/wp-content/uploads/2009/07/123.gif" alt="" width="470" height="90" srcset="https://www.vmwaretips.com/wp-content/uploads/2009/07/123.gif 470w, https://www.vmwaretips.com/wp-content/uploads/2009/07/123-300x57.gif 300w" sizes="(max-width: 470px) 100vw, 470px" />
 </p>
 
 So this is it!  Final presentations for VMworld need to be in by August 10th, so this is your last chance to submit an opening question for TA2259 &#8211; Ask the Experts (<a href="http://www.yellow-bricks.com/" target="_new">Duncan Epping</a>, <a href="http://www.planetvm.net" target="_new">Tom Howarth</a>, <a href="http://blog.scottlowe.org" target="_new">Scott Lowe</a>, <a href="http://virtualgeek.typepad.com" target="_new">Chad Sakac</a>) at VMworld 2009!

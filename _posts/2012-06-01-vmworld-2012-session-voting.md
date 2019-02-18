@@ -61,7 +61,7 @@ Thanks for taking the time to vote, but please don&#8217;t stop once you&#8217;v
 Thanks again and I hope to see you at VMworld US and Europe!  As a gift, here is a picture from the beautiful Na Pali Coast on the island of Kauai in Hawaii.
 
 <div id="attachment_1487" style="width: 410px" class="wp-caption aligncenter">
-  <a href="https://www.vmwaretips.com/wp/wp-content/uploads/2012/06/photo.jpg"><img class=" wp-image-1487 " title="Na Pali Coast, Kauai, Hawaii" src="https://www.vmwaretips.com/wp/wp-content/uploads/2012/06/photo-300x225.jpg" alt="Na Pali Coast, Kauai, Hawaii" width="400" srcset="https://www.vmwaretips.com/wp/wp-content/uploads/2012/06/photo-300x225.jpg 300w, https://www.vmwaretips.com/wp/wp-content/uploads/2012/06/photo-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://www.vmwaretips.com/wp-content/uploads/2012/06/photo.jpg"><img class=" wp-image-1487 " title="Na Pali Coast, Kauai, Hawaii" src="https://www.vmwaretips.com/wp-content/uploads/2012/06/photo-300x225.jpg" alt="Na Pali Coast, Kauai, Hawaii" width="400" srcset="https://www.vmwaretips.com/wp-content/uploads/2012/06/photo-300x225.jpg 300w, https://www.vmwaretips.com/wp-content/uploads/2012/06/photo-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     Na Pali Coast, Kauai, Hawaii

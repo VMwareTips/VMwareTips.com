@@ -41,4 +41,4 @@ Even if your not interested in the session, be sure to stop by just to say hi!
 
 
 
-[Click here to download EA1562 in PDF Format](https://www.vmwaretips.com/wp/wp-content/uploads/2008/11/ea1562.pdf)
+[Click here to download EA1562 in PDF Format](https://www.vmwaretips.com/wp-content/uploads/2008/11/ea1562.pdf)

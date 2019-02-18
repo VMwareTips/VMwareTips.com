@@ -32,7 +32,7 @@ tags:
   - VMware
   - vsphere
 ---
-[<img class="ngg-singlepic ngg-center" src="https://www.vmwaretips.com/wp/wp-content/gallery/misc/vmlaunch.jpg" alt="vmlaunch.jpg" />](https://www.vmwaretips.com/wp/wp-content/gallery/misc/vmlaunch.jpg){.thickbox}
+[<img class="ngg-singlepic ngg-center" src="https://www.vmwaretips.com/wp-content/gallery/misc/vmlaunch.jpg" alt="vmlaunch.jpg" />](https://www.vmwaretips.com/wp-content/gallery/misc/vmlaunch.jpg){.thickbox}
 
 On April 21, 2009, VMware will be unveiling how they are taking IT to new heights of efficiency, choice and control through service-level automation—dramatically reducing capital and operating costs and maximizing IT efficiency—with the freedom to choose any application, OS, or hardware.
 
